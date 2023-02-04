@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/courtneycochran/Documents/GitHub/GnomeGuardian/GnomeGuardian/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"/Users/courtneycochran/Documents/GitHub/GnomeGuardian/GnomeGuardian/Content/MainMenu.uasset",
+				"/Users/courtneycochran/Documents/GitHub/GnomeGuardian/GnomeGuardian/Content/WB_MainMenu.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Blueprint_Effect_Fire.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Blueprint_Effect_Smoke.uasset",
@@ -286,7 +289,6 @@
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/BP_Bullet.uasset",
-				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box_Skeleton.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Projectile.uasset",
 				"D:/Classwork/GnomeGuardian/GnomeGuardian/Content/Architecture/Floor_400x400.uasset",
