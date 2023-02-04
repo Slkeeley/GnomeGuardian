@@ -2555,3 +2555,842 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.04-19.23.28:152][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 3.07 sec)
 [2023.02.04-19.23.28:162][242]AssetCheck: New page: Asset Save: BP_Bullet
 [2023.02.04-19.23.28:162][242]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Bullet.BP_Bullet
+[2023.02.04-19.25.56:905][872]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.04-19.26.04:887][263]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.02.04-19.26.05:127][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.26.05:398][263]LogStaticMesh: Display: Building static mesh Sphere_inversenormals...
+[2023.02.04-19.26.05:475][263]LogStaticMesh: Built static mesh [0.08s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2023.02.04-19.26.05:536][263]LogStaticMesh: Display: Building static mesh Floor_Mesh...
+[2023.02.04-19.26.05:551][263]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2023.02.04-19.26.06:927][263]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2023.02.04-19.26.07:189][264]LogAutomationController: Ignoring very large delta of 2.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: ================================================
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Total job queries 204, among them cache hits 20 (9.80%)
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 116 distinct outputs (79.45%)
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Jobs assigned 18, completed 12 (66.67%)
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Average time worker was idle: 963.31 s
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.16 s
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Job execution time: average 3.65 s, max 4.98 s
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Job life time (pending + execution): average 3.75 s, max 5.09
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.93 s
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Average processing rate: 1.51 jobs/sec
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Total thread time: 13.52 s
+[2023.02.04-19.26.07:385][265]LogShaderCompilers: Display: Total thread preprocess time: 0.84 s
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display: Percentage time preprocessing: 6.20%
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.24 sec, max 1.46 sec, min 0.62 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.04 sec, max 1.42 sec, min 0.65 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.57% of total time (compiled    4 times, average 1.24 sec, max 1.46 sec, min 0.62 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.35% of total time (compiled    2 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 15.32% of total time (compiled    2 times, average 1.04 sec, max 1.42 sec, min 0.65 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.53% of total time (compiled    2 times, average 0.71 sec, max 0.73 sec, min 0.70 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 9.42% of total time (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.02.04-19.26.07:386][265]LogShaderCompilers: Display: ================================================
+[2023.02.04-19.26.13:458][616]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.26.13:458][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.26.59:124][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.04-19.26.59:125][839]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.066
+[2023.02.04-19.26.59:126][839]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-19.26.59:164][839]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-19.26.59:164][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-19.26.59:164][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-19.26.59:175][839]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto3
+[2023.02.04-19.26.59:176][839]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto3A953ED4D41BD76076F3387A28E5423CC.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset'
+[2023.02.04-19.26.59:506][839]LogFileHelpers: Auto-saving content packages took 0.381
+[2023.02.04-19.27.17:317][246]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.02.04-19.27.17:317][246]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.02.04-19.27.34:786][398]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-19.27.34:786][398]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-19.27.34:786][398]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-19.27.41:819][398]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-19.27.41:829][398]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-19.27.41:833][398]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-19.27.41:835][399]LogAutomationController: Ignoring very large delta of 21.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.04-19.27.41:844][399]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-19.27.49:682][869]LogContentBrowser: Attempting asset rename: NewBlueprint -> DestroyableObj
+[2023.02.04-19.27.49:689][869]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-19.27.51:845][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj
+[2023.02.04-19.27.51:846][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.27.52:340][994]LogViewport: Scene viewport resized to 1268x641, mode Windowed.
+[2023.02.04-19.28.02:731][604]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.28.02:821][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.04-19.28.29:460][182]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.02.04-19.28.33:599][419]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.28.33:689][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.04-19.28.39:116][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DestroyableObj.DestroyableObj_C
+[2023.02.04-19.28.39:127][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DestroyableObj.DestroyableObj_C
+[2023.02.04-19.28.39:141][723]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj as actor: DestroyableObj_C /Game/SamTestScene.SamTestScene:PersistentLevel.DestroyableObj_C_0
+[2023.02.04-19.28.39:142][723]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj as actor: DestroyableObj_C /Game/SamTestScene.SamTestScene:PersistentLevel.DestroyableObj_C_0
+[2023.02.04-19.28.40:487][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DestroyableObj.DestroyableObj_C
+[2023.02.04-19.28.40:487][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DestroyableObj.DestroyableObj_C
+[2023.02.04-19.28.40:489][803]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj as actor: DestroyableObj_C /Game/SamTestScene.SamTestScene:PersistentLevel.DestroyableObj_C_1
+[2023.02.04-19.28.40:491][803]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj as actor: DestroyableObj_C /Game/SamTestScene.SamTestScene:PersistentLevel.DestroyableObj_C_1
+[2023.02.04-19.32.58:457][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-19.32.58:544][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestroyableObj" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset" SILENT=true
+[2023.02.04-19.32.58:547][160]LogSavePackage: Moving output files for package: /Game/Blueprints/DestroyableObj
+[2023.02.04-19.32.58:547][160]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObj6FA45F4E469E1017B55D229C34CC5709.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset'
+[2023.02.04-19.32.58:558][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 3.17 sec)
+[2023.02.04-19.32.58:571][160]AssetCheck: New page: Asset Save: DestroyableObj
+[2023.02.04-19.32.58:571][160]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj
+[2023.02.04-19.36.07:391][ 54]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.36.07:507][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.04-19.37.12:415][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.04-19.37.12:417][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-19.37.12:425][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SamTestScene_Auto4
+[2023.02.04-19.37.12:425][278]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene_Auto47F3334DF4848716BE02B0CBAB2A6C5D1.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto4.umap'
+[2023.02.04-19.37.12:450][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.104
+[2023.02.04-19.37.12:450][278]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
+[2023.02.04-19.37.12:451][278]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DestroyableObj] ([2] browsable assets)...
+[2023.02.04-19.37.12:487][278]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj]
+[2023.02.04-19.37.12:487][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DestroyableObj]
+[2023.02.04-19.37.12:492][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DestroyableObj_Auto4
+[2023.02.04-19.37.12:492][278]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObj_Auto48D715B5A4872F3EE2297D58FF924A13A.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/DestroyableObj_Auto4.uasset'
+[2023.02.04-19.37.12:493][278]LogFileHelpers: Auto-saving content packages took 0.042
+[2023.02.04-19.41.47:157][884]LogEditorTransaction: Undo Move Node
+[2023.02.04-19.41.47:321][885]LogEditorTransaction: Undo Create Pin Link
+[2023.02.04-19.41.48:624][954]LogEditorTransaction: Undo Move Node
+[2023.02.04-19.42.38:508][890]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.42.38:615][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.04-19.42.39:541][944]BlueprintLog: New page: Compile BP_Bullet
+[2023.02.04-19.42.39:752][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.04-19.42.43:023][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.42.43:192][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.42.43:192][128]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:42:43 AM)
+[2023.02.04-19.42.43:192][128]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.42.43:196][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004692s)
+[2023.02.04-19.42.43:196][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.004786s)
+[2023.02.04-19.42.43:198][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.42.43:198][128]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.42.43:199][128]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2023.02.04-19.42.43:269][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.04-19.42.43:270][128]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.42.43:270][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.42.43:270][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.42.43:271][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.42.43:271][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.42.43:271][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.42.43:273][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.42.43:327][128]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.42.43:327][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.42.43:327][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.42.43:327][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.42.43:328][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.02.04-19.42.43:328][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.02.04-19.42.43:329][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.02.04-19.42.43:329][128]LogInit: FAudioDevice initialized.
+[2023.02.04-19.42.43:329][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.02.04-19.42.43:329][128]LogAudio: Display: Audio Device (ID: 18) registered with world 'SamTestScene'.
+[2023.02.04-19.42.43:332][128]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.42.43:333][128]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.42.43
+[2023.02.04-19.42.43:333][128]LogWorld: Bringing up level for play took: 0.000650
+[2023.02.04-19.42.43:335][128]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.02.04-19.42.43:336][128]PIE: Server logged in
+[2023.02.04-19.42.43:336][128]PIE: Play in editor total start time 0.201 seconds.
+[2023.02.04-19.42.46:263][273]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-19.42.46:589][293]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-19.42.46:834][301]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-19.42.46:884][304]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-19.42.47:184][322]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-19.42.47:384][334]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-19.42.48:018][372]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-19.42.48:418][396]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-19.42.48:601][407]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-19.42.48:768][417]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.0
+[2023.02.04-19.42.48:934][427]LogBlueprintUserMessages: [DestroyableObj_C_1] -1.0
+[2023.02.04-19.42.49:101][437]LogBlueprintUserMessages: [DestroyableObj_C_1] -2.0
+[2023.02.04-19.42.49:220][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.42.49:220][442]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.42.49:220][442]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.42.49:220][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.42.49:234][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.42.49:245][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.42.49:308][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.42.49:308][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.04-19.42.49:309][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.04-19.42.49:346][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.02.04-19.42.49:400][443]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.02.04-19.42.49:417][444]Cmd: SELECT NONE
+[2023.02.04-19.42.53:801][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.42.53:807][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.42.53:807][684]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:42:53 AM)
+[2023.02.04-19.42.53:838][684]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.42.53:840][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002068s)
+[2023.02.04-19.42.53:841][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002114s)
+[2023.02.04-19.42.53:841][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.42.53:841][684]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.42.53:841][684]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2023.02.04-19.42.53:909][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.04-19.42.53:910][684]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.42.53:911][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.42.53:911][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.42.53:911][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.42.53:911][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.42.53:911][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.42.53:913][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.42.53:967][684]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.42.53:967][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.42.53:967][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.42.53:967][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.42.53:968][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.02.04-19.42.53:968][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.02.04-19.42.53:969][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.02.04-19.42.53:969][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.02.04-19.42.53:969][684]LogInit: FAudioDevice initialized.
+[2023.02.04-19.42.53:969][684]LogAudio: Display: Audio Device (ID: 19) registered with world 'SamTestScene'.
+[2023.02.04-19.42.53:972][684]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.42.53:972][684]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.42.53
+[2023.02.04-19.42.53:972][684]LogWorld: Bringing up level for play took: 0.000593
+[2023.02.04-19.42.53:974][684]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.02.04-19.42.53:976][684]PIE: Server logged in
+[2023.02.04-19.42.53:976][684]PIE: Play in editor total start time 0.17 seconds.
+[2023.02.04-19.42.57:736][900]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-19.42.58:070][920]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-19.42.58:240][923]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-19.42.58:706][951]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-19.42.58:857][960]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-19.43.01:306][107]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-19.43.01:573][123]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-19.43.01:739][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-19.43.01:906][143]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-19.43.02:256][164]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.0
+[2023.02.04-19.43.02:423][174]LogBlueprintUserMessages: [DestroyableObj_C_1] -1.0
+[2023.02.04-19.43.02:589][184]LogBlueprintUserMessages: [DestroyableObj_C_1] -2.0
+[2023.02.04-19.43.02:740][193]LogBlueprintUserMessages: [DestroyableObj_C_1] -3.0
+[2023.02.04-19.43.02:891][202]LogBlueprintUserMessages: [DestroyableObj_C_1] -4.0
+[2023.02.04-19.43.03:090][214]LogBlueprintUserMessages: [DestroyableObj_C_1] -5.0
+[2023.02.04-19.43.03:239][223]LogBlueprintUserMessages: [DestroyableObj_C_1] -6.0
+[2023.02.04-19.43.03:506][239]LogBlueprintUserMessages: [DestroyableObj_C_1] -7.0
+[2023.02.04-19.43.03:623][246]LogBlueprintUserMessages: [DestroyableObj_C_1] -8.0
+[2023.02.04-19.43.03:756][254]LogBlueprintUserMessages: [DestroyableObj_C_1] -9.0
+[2023.02.04-19.43.03:906][263]LogBlueprintUserMessages: [DestroyableObj_C_1] -10.0
+[2023.02.04-19.43.04:056][272]LogBlueprintUserMessages: [DestroyableObj_C_1] -11.0
+[2023.02.04-19.43.04:190][280]LogBlueprintUserMessages: [DestroyableObj_C_1] -12.0
+[2023.02.04-19.43.04:323][288]LogBlueprintUserMessages: [DestroyableObj_C_1] -13.0
+[2023.02.04-19.43.04:457][296]LogBlueprintUserMessages: [DestroyableObj_C_1] -14.0
+[2023.02.04-19.43.04:591][304]LogBlueprintUserMessages: [DestroyableObj_C_1] -15.0
+[2023.02.04-19.43.04:724][312]LogBlueprintUserMessages: [DestroyableObj_C_1] -16.0
+[2023.02.04-19.43.04:856][320]LogBlueprintUserMessages: [DestroyableObj_C_1] -17.0
+[2023.02.04-19.43.04:991][328]LogBlueprintUserMessages: [DestroyableObj_C_1] -18.0
+[2023.02.04-19.43.05:258][344]LogBlueprintUserMessages: [DestroyableObj_C_1] -19.0
+[2023.02.04-19.43.05:391][352]LogBlueprintUserMessages: [DestroyableObj_C_1] -20.0
+[2023.02.04-19.43.05:491][358]LogBlueprintUserMessages: [DestroyableObj_C_1] -21.0
+[2023.02.04-19.43.05:624][366]LogBlueprintUserMessages: [DestroyableObj_C_1] -22.0
+[2023.02.04-19.43.05:758][374]LogBlueprintUserMessages: [DestroyableObj_C_1] -23.0
+[2023.02.04-19.43.05:909][383]LogBlueprintUserMessages: [DestroyableObj_C_1] -24.0
+[2023.02.04-19.43.06:058][392]LogBlueprintUserMessages: [DestroyableObj_C_1] -25.0
+[2023.02.04-19.43.06:192][400]LogBlueprintUserMessages: [DestroyableObj_C_1] -26.0
+[2023.02.04-19.43.06:341][409]LogBlueprintUserMessages: [DestroyableObj_C_1] -27.0
+[2023.02.04-19.43.06:491][418]LogBlueprintUserMessages: [DestroyableObj_C_1] -28.0
+[2023.02.04-19.43.06:708][431]LogBlueprintUserMessages: [DestroyableObj_C_1] -29.0
+[2023.02.04-19.43.06:875][441]LogBlueprintUserMessages: [DestroyableObj_C_1] -30.0
+[2023.02.04-19.43.07:025][450]LogBlueprintUserMessages: [DestroyableObj_C_1] -31.0
+[2023.02.04-19.43.07:158][458]LogBlueprintUserMessages: [DestroyableObj_C_1] -32.0
+[2023.02.04-19.43.07:309][467]LogBlueprintUserMessages: [DestroyableObj_C_1] -33.0
+[2023.02.04-19.43.07:491][478]LogBlueprintUserMessages: [DestroyableObj_C_1] -34.0
+[2023.02.04-19.44.02:172][755]LogBlueprintUserMessages: [DestroyableObj_C_1] -35.0
+[2023.02.04-19.44.02:422][770]LogBlueprintUserMessages: [DestroyableObj_C_1] -36.0
+[2023.02.04-19.44.02:606][781]LogBlueprintUserMessages: [DestroyableObj_C_1] -37.0
+[2023.02.04-19.44.02:889][798]LogBlueprintUserMessages: [DestroyableObj_C_1] -38.0
+[2023.02.04-19.44.03:072][809]LogBlueprintUserMessages: [DestroyableObj_C_1] -39.0
+[2023.02.04-19.44.03:239][819]LogBlueprintUserMessages: [DestroyableObj_C_1] -40.0
+[2023.02.04-19.44.04:722][908]LogBlueprintUserMessages: [DestroyableObj_C_1] -41.0
+[2023.02.04-19.44.04:889][918]LogBlueprintUserMessages: [DestroyableObj_C_1] -42.0
+[2023.02.04-19.44.05:072][929]LogBlueprintUserMessages: [DestroyableObj_C_1] -43.0
+[2023.02.04-19.44.05:239][939]LogBlueprintUserMessages: [DestroyableObj_C_1] -44.0
+[2023.02.04-19.44.05:423][950]LogBlueprintUserMessages: [DestroyableObj_C_1] -45.0
+[2023.02.04-19.44.06:018][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.44.06:018][983]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.44.06:018][983]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.44.06:019][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.44.06:024][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.44.06:038][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.44.06:120][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.44.06:120][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.02.04-19.44.06:122][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.02.04-19.44.06:163][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.04-19.44.06:215][984]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.02.04-19.47.06:700][406]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.0-23058290+++UE5+Release-5.1
+[2023.02.04-19.47.06:800][406]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={2CB53C04-4D4E-0979-DE3A-A68D7E4376D5}
+[2023.02.04-19.48.12:997][201]LogDerivedDataCache: C:/Users/skeel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.092 and deleted 0 files with total size 0 MiB. Scanned 2311 files in 2294 folders with total size 41 MiB.
+[2023.02.04-19.48.31:059][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.02.04-19.48.31:061][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-19.48.31:068][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SamTestScene_Auto5
+[2023.02.04-19.48.31:068][262]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene_Auto547FD72D349FF2337E7F4DC994AFB3394.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto5.umap'
+[2023.02.04-19.48.31:075][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.083
+[2023.02.04-19.48.31:075][262]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2023.02.04-19.48.31:076][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-19.48.31:108][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-19.48.31:108][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-19.48.31:108][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-19.48.31:255][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto5
+[2023.02.04-19.48.31:256][262]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto5EB570C61476CD8F00F6D819E65EC7B8E.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto5.uasset'
+[2023.02.04-19.48.31:257][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bullet] ([2] browsable assets)...
+[2023.02.04-19.48.31:268][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bullet.BP_Bullet]
+[2023.02.04-19.48.31:268][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bullet]
+[2023.02.04-19.48.31:268][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bullet" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/BP_Bullet_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-19.48.31:273][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Bullet_Auto5
+[2023.02.04-19.48.31:273][262]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/BP_Bullet_Auto54B1363D343B9B24E810B2E9925765D95.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/BP_Bullet_Auto5.uasset'
+[2023.02.04-19.48.31:273][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DestroyableObj] ([2] browsable assets)...
+[2023.02.04-19.48.31:282][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj]
+[2023.02.04-19.48.31:282][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DestroyableObj]
+[2023.02.04-19.48.31:307][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DestroyableObj_Auto5
+[2023.02.04-19.48.31:307][262]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObj_Auto5E245C2FF4EF4BF25CD0EC382F6EF4DDA.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/DestroyableObj_Auto5.uasset'
+[2023.02.04-19.48.31:307][262]LogFileHelpers: Auto-saving content packages took 0.232
+[2023.02.04-19.49.57:839][429]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.49.57:934][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.04-19.50.00:674][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.50.00:692][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.50.00:692][588]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:50:00 AM)
+[2023.02.04-19.50.00:692][588]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.50.00:694][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001834s)
+[2023.02.04-19.50.00:694][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001870s)
+[2023.02.04-19.50.00:694][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.50.00:695][588]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.50.00:695][588]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2023.02.04-19.50.00:758][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.04-19.50.00:760][588]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.50.00:760][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.50.00:760][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.50.00:761][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.50.00:761][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.50.00:761][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.50.00:762][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.50.00:820][588]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.50.00:821][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.50.00:821][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.50.00:821][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.50.00:821][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.02.04-19.50.00:821][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.02.04-19.50.00:823][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.02.04-19.50.00:823][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.02.04-19.50.00:823][588]LogInit: FAudioDevice initialized.
+[2023.02.04-19.50.00:823][588]LogAudio: Display: Audio Device (ID: 20) registered with world 'SamTestScene'.
+[2023.02.04-19.50.00:826][588]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.50.00:827][588]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.50.00
+[2023.02.04-19.50.00:827][588]LogWorld: Bringing up level for play took: 0.000635
+[2023.02.04-19.50.00:829][588]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.02.04-19.50.00:830][588]PIE: Server logged in
+[2023.02.04-19.50.00:831][588]PIE: Play in editor total start time 0.139 seconds.
+[2023.02.04-19.50.09:698][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.50.09:698][111]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.50.09:699][111]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.50.09:699][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.50.09:717][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.50.09:726][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.50.09:789][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-19.50.09:789][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.02.04-19.50.09:791][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.02.04-19.50.09:804][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.50.09:807][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.02.04-19.50.09:849][112]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.02.04-19.50.12:368][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-19.50.12:481][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestroyableObj" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset" SILENT=true
+[2023.02.04-19.50.12:486][262]LogSavePackage: Moving output files for package: /Game/Blueprints/DestroyableObj
+[2023.02.04-19.50.12:486][262]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObj235238AD44A43D88F39E5AABEEAD9A87.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset'
+[2023.02.04-19.50.12:495][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.30 sec)
+[2023.02.04-19.50.12:504][262]AssetCheck: New page: Asset Save: DestroyableObj
+[2023.02.04-19.50.12:504][262]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj
+[2023.02.04-19.50.52:782][585]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.50.52:918][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.02.04-19.50.54:427][668]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.50.54:432][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.50.54:432][668]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:50:54 AM)
+[2023.02.04-19.50.54:457][668]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.50.54:458][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001832s)
+[2023.02.04-19.50.54:458][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001868s)
+[2023.02.04-19.50.54:459][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.50.54:459][668]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.50.54:460][668]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2023.02.04-19.50.54:521][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.04-19.50.54:523][668]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.50.54:523][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.50.54:523][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.50.54:523][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.50.54:523][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.50.54:523][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.50.54:525][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.50.54:578][668]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.50.54:578][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.50.54:578][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.50.54:578][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.50.54:579][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.02.04-19.50.54:579][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.02.04-19.50.54:581][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.02.04-19.50.54:581][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.02.04-19.50.54:581][668]LogInit: FAudioDevice initialized.
+[2023.02.04-19.50.54:581][668]LogAudio: Display: Audio Device (ID: 21) registered with world 'SamTestScene'.
+[2023.02.04-19.50.54:583][668]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.50.54:584][668]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.50.54
+[2023.02.04-19.50.54:584][668]LogWorld: Bringing up level for play took: 0.000588
+[2023.02.04-19.50.54:585][668]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.02.04-19.50.54:587][668]PIE: Server logged in
+[2023.02.04-19.50.54:587][668]PIE: Play in editor total start time 0.156 seconds.
+[2023.02.04-19.50.57:260][823]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-19.50.58:161][877]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-19.50.58:379][890]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-19.50.58:577][902]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-19.50.58:744][912]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-19.50.58:927][923]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-19.50.59:094][933]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-19.50.59:261][943]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-19.50.59:428][953]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-19.50.59:611][964]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.0
+[2023.02.04-19.50.59:779][974]LogBlueprintUserMessages: [DestroyableObj_C_1] -1.0
+[2023.02.04-19.50.59:961][985]LogBlueprintUserMessages: [DestroyableObj_C_1] -2.0
+[2023.02.04-19.51.00:144][996]LogBlueprintUserMessages: [DestroyableObj_C_1] -3.0
+[2023.02.04-19.51.00:344][  8]LogBlueprintUserMessages: [DestroyableObj_C_1] -4.0
+[2023.02.04-19.51.00:527][ 19]LogBlueprintUserMessages: [DestroyableObj_C_1] -5.0
+[2023.02.04-19.51.00:711][ 30]LogBlueprintUserMessages: [DestroyableObj_C_1] -6.0
+[2023.02.04-19.51.00:877][ 40]LogBlueprintUserMessages: [DestroyableObj_C_1] -7.0
+[2023.02.04-19.51.01:061][ 51]LogBlueprintUserMessages: [DestroyableObj_C_1] -8.0
+[2023.02.04-19.51.01:211][ 60]LogBlueprintUserMessages: [DestroyableObj_C_1] -9.0
+[2023.02.04-19.51.01:378][ 70]LogBlueprintUserMessages: [DestroyableObj_C_1] -10.0
+[2023.02.04-19.51.01:857][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.51.01:857][ 97]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.51.01:857][ 97]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.51.01:858][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.51.01:873][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.51.01:881][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.51.01:944][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-19.51.01:945][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.02.04-19.51.01:946][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.02.04-19.51.01:958][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.51.01:964][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.04-19.51.02:008][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.02.04-19.54.18:824][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-19.54.18:941][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestroyableObj" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset" SILENT=true
+[2023.02.04-19.54.18:947][836]LogSavePackage: Moving output files for package: /Game/Blueprints/DestroyableObj
+[2023.02.04-19.54.18:948][836]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObjE88D91774CACBE0D170D0FAE72DC25EC.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset'
+[2023.02.04-19.54.18:956][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 3.43 sec)
+[2023.02.04-19.54.18:971][836]AssetCheck: New page: Asset Save: DestroyableObj
+[2023.02.04-19.54.18:971][836]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj
+[2023.02.04-19.54.19:464][865]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.54.19:564][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.04-19.54.21:045][949]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.54.21:051][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.54.21:051][949]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:54:21 AM)
+[2023.02.04-19.54.21:051][949]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.54.21:053][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002176s)
+[2023.02.04-19.54.21:053][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002214s)
+[2023.02.04-19.54.21:054][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.54.21:054][949]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.54.21:054][949]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.02.04-19.54.21:118][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.02.04-19.54.21:120][949]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.54.21:120][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.54.21:120][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.54.21:121][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.54.21:121][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.54.21:121][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.54.21:122][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.54.21:179][949]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.54.21:179][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.54.21:179][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.54.21:179][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.54.21:180][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.02.04-19.54.21:180][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.02.04-19.54.21:182][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.02.04-19.54.21:182][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.02.04-19.54.21:182][949]LogInit: FAudioDevice initialized.
+[2023.02.04-19.54.21:182][949]LogAudio: Display: Audio Device (ID: 22) registered with world 'SamTestScene'.
+[2023.02.04-19.54.21:184][949]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.54.21:185][949]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.54.21
+[2023.02.04-19.54.21:185][949]LogWorld: Bringing up level for play took: 0.000655
+[2023.02.04-19.54.21:187][949]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.02.04-19.54.21:188][949]PIE: Server logged in
+[2023.02.04-19.54.21:189][949]PIE: Play in editor total start time 0.138 seconds.
+[2023.02.04-19.54.22:617][ 28]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-19.54.24:633][146]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-19.54.25:149][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-19.54.25:683][209]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-19.54.25:950][225]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-19.54.26:166][238]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-19.54.26:451][255]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-19.54.26:867][280]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-19.54.27:385][311]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-19.54.27:901][342]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.0
+[2023.02.04-19.54.28:568][382]LogBlueprintUserMessages: [DestroyableObj_C_1] -1.0
+[2023.02.04-19.54.29:184][419]LogBlueprintUserMessages: [DestroyableObj_C_1] -2.0
+[2023.02.04-19.54.29:617][445]LogBlueprintUserMessages: [DestroyableObj_C_1] -3.0
+[2023.02.04-19.54.29:801][456]LogBlueprintUserMessages: [DestroyableObj_C_1] -4.0
+[2023.02.04-19.54.30:138][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.54.30:138][474]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.54.30:138][474]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.54.30:139][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.54.30:158][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.54.30:167][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.54.30:229][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.54.30:229][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.02.04-19.54.30:230][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.02.04-19.54.30:255][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.02.04-19.54.30:300][475]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.02.04-19.54.58:837][149]LogEditorTransaction: Undo Create Pin Link
+[2023.02.04-19.55.04:470][465]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.55.04:563][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.04-19.55.07:081][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.55.07:087][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.55.07:087][612]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:55:07 AM)
+[2023.02.04-19.55.07:087][612]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.55.07:089][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2023.02.04-19.55.07:089][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001775s)
+[2023.02.04-19.55.07:089][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.55.07:089][612]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.55.07:090][612]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2023.02.04-19.55.07:153][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.04-19.55.07:154][612]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.55.07:154][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.55.07:154][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.55.07:155][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.55.07:155][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.55.07:155][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.55.07:157][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.55.07:210][612]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.55.07:210][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.55.07:210][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.55.07:210][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.55.07:211][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.02.04-19.55.07:211][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.02.04-19.55.07:213][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.02.04-19.55.07:213][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.02.04-19.55.07:213][612]LogInit: FAudioDevice initialized.
+[2023.02.04-19.55.07:213][612]LogAudio: Display: Audio Device (ID: 23) registered with world 'SamTestScene'.
+[2023.02.04-19.55.07:255][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.55.07:255][612]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.55.07:256][612]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.55.07
+[2023.02.04-19.55.07:256][612]LogWorld: Bringing up level for play took: 0.000707
+[2023.02.04-19.55.07:258][612]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.02.04-19.55.07:259][612]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-19.55.07:262][612]PIE: Server logged in
+[2023.02.04-19.55.07:263][612]PIE: Play in editor total start time 0.176 seconds.
+[2023.02.04-19.55.07:270][612]LogViewport: Scene viewport resized to 1351x970, mode Windowed.
+[2023.02.04-19.55.08:295][663]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-19.55.08:746][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-19.55.09:195][717]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-19.55.09:345][726]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-19.55.09:512][736]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-19.55.09:662][745]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-19.55.09:828][755]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-19.55.09:995][765]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-19.55.10:162][775]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-19.55.10:662][805]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.0
+[2023.02.04-19.55.12:046][888]LogBlueprintUserMessages: [DestroyableObj_C_1] -1.0
+[2023.02.04-19.55.12:929][941]LogBlueprintUserMessages: [DestroyableObj_C_1] -2.0
+[2023.02.04-19.55.13:379][968]LogBlueprintUserMessages: [DestroyableObj_C_1] -3.0
+[2023.02.04-19.55.13:662][985]LogBlueprintUserMessages: [DestroyableObj_C_1] -4.0
+[2023.02.04-19.55.13:845][996]LogBlueprintUserMessages: [DestroyableObj_C_1] -5.0
+[2023.02.04-19.55.13:995][  5]LogBlueprintUserMessages: [DestroyableObj_C_1] -6.0
+[2023.02.04-19.55.14:196][ 17]LogBlueprintUserMessages: [DestroyableObj_C_1] -7.0
+[2023.02.04-19.55.14:345][ 26]LogBlueprintUserMessages: [DestroyableObj_C_1] -8.0
+[2023.02.04-19.55.14:513][ 36]LogBlueprintUserMessages: [DestroyableObj_C_1] -9.0
+[2023.02.04-19.55.15:486][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.55.15:487][ 93]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.55.15:488][ 93]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-19.55.15:497][ 93]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.55.15:498][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.55.15:509][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.55.15:522][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.55.15:589][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-19.55.15:589][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.02.04-19.55.15:591][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.02.04-19.55.15:626][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.02.04-19.55.15:663][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.02.04-19.55.37:178][274]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.55.37:270][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.04-19.55.38:098][320]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.55.38:104][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.55.38:104][320]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:55:38 AM)
+[2023.02.04-19.55.38:104][320]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.55.38:106][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002002s)
+[2023.02.04-19.55.38:106][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002041s)
+[2023.02.04-19.55.38:107][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.55.38:107][320]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.55.38:107][320]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2023.02.04-19.55.38:171][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.04-19.55.38:172][320]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.55.38:172][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.55.38:172][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.55.38:173][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.55.38:173][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.55.38:173][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.55.38:174][320]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.55.38:227][320]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.55.38:227][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.55.38:227][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.55.38:227][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.55.38:227][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.02.04-19.55.38:227][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.02.04-19.55.38:229][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.02.04-19.55.38:229][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.02.04-19.55.38:229][320]LogInit: FAudioDevice initialized.
+[2023.02.04-19.55.38:229][320]LogAudio: Display: Audio Device (ID: 24) registered with world 'SamTestScene'.
+[2023.02.04-19.55.38:273][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.55.38:273][320]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.55.38:274][320]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.55.38
+[2023.02.04-19.55.38:274][320]LogWorld: Bringing up level for play took: 0.000661
+[2023.02.04-19.55.38:276][320]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.02.04-19.55.38:276][320]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-19.55.38:280][320]PIE: Server logged in
+[2023.02.04-19.55.38:281][320]PIE: Play in editor total start time 0.177 seconds.
+[2023.02.04-19.55.38:296][320]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:308][320]LogViewport: Scene viewport resized to 1353x970, mode Windowed.
+[2023.02.04-19.55.38:325][321]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:443][322]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:520][323]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:537][324]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:556][325]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:574][326]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:591][327]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:607][328]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:625][329]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:641][330]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:658][331]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:674][332]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:691][333]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:707][334]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:724][335]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:741][336]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:758][337]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:774][338]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:791][339]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:807][340]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:824][341]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:841][342]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:857][343]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:873][344]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:890][345]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:911][346]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:924][347]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:941][348]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:958][349]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:973][350]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.38:991][351]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:007][352]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:024][353]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:041][354]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:057][355]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:074][356]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:090][357]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:107][358]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:124][359]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:141][360]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:158][361]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:174][362]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:190][363]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:207][364]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:224][365]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:241][366]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:258][367]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:274][368]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:291][369]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:307][370]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:324][371]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:340][372]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:357][373]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:374][374]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:391][375]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:407][376]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:424][377]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:440][378]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:458][379]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:474][380]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:490][381]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:507][382]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:524][383]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:541][384]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:557][385]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:574][386]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:591][387]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:607][388]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:624][389]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:642][390]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:657][391]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:674][392]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:691][393]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:707][394]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:724][395]LogBlueprintUserMessages: [DestroyableObj_C_1] Health is less than 0
+[2023.02.04-19.55.39:746][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.55.39:746][395]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.55.39:748][395]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-19.55.39:756][395]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.55.39:756][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.55.39:768][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.55.39:778][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.55.39:853][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-19.55.39:853][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.02.04-19.55.39:855][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.02.04-19.55.39:878][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.02.04-19.55.39:914][396]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.02.04-19.55.51:586][ 69]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.55.51:593][ 69]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.04-19.55.51:594][ 69]LogPlayLevel: [PlayLevel] Compiling DestroyableObj before play...
+[2023.02.04-19.55.51:704][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.04-19.55.51:705][ 69]LogPlayLevel: PlayLevel: Blueprint regeneration took 112 ms (1 blueprints)
+[2023.02.04-19.55.51:705][ 69]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:55:51 AM)
+[2023.02.04-19.55.51:705][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.55.51:707][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2023.02.04-19.55.51:707][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001701s)
+[2023.02.04-19.55.51:707][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.55.51:708][ 69]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.55.51:708][ 69]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2023.02.04-19.55.51:771][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.04-19.55.51:772][ 69]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.55.51:772][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.55.51:772][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.55.51:773][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.55.51:773][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.55.51:773][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.55.51:774][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.55.51:827][ 69]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.55.51:827][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.55.51:827][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.55.51:827][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.55.51:828][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.02.04-19.55.51:828][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.02.04-19.55.51:829][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.02.04-19.55.51:829][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.02.04-19.55.51:829][ 69]LogInit: FAudioDevice initialized.
+[2023.02.04-19.55.51:829][ 69]LogAudio: Display: Audio Device (ID: 25) registered with world 'SamTestScene'.
+[2023.02.04-19.55.51:878][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.55.51:878][ 69]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.55.51:879][ 69]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.55.51
+[2023.02.04-19.55.51:879][ 69]LogWorld: Bringing up level for play took: 0.000803
+[2023.02.04-19.55.51:881][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.02.04-19.55.51:881][ 69]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-19.55.51:884][ 69]PIE: Server logged in
+[2023.02.04-19.55.51:885][ 69]PIE: Play in editor total start time 0.292 seconds.
+[2023.02.04-19.55.51:906][ 69]LogViewport: Scene viewport resized to 1354x970, mode Windowed.
+[2023.02.04-19.55.53:897][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.55.53:897][155]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.55.53:899][155]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-19.55.53:917][155]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.55.53:917][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.55.53:933][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.55.53:947][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.55.54:014][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.02.04-19.55.54:016][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.02.04-19.55.54:056][155]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.02.04-19.55.54:089][156]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.02.04-19.56.12:938][264]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-19.56.13:029][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.04-19.56.13:656][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-19.56.13:662][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-19.56.13:662][300]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 3:56:13 AM)
+[2023.02.04-19.56.13:662][300]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.56.13:664][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001955s)
+[2023.02.04-19.56.13:664][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001992s)
+[2023.02.04-19.56.13:664][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-19.56.13:664][300]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-19.56.13:665][300]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2023.02.04-19.56.13:727][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.04-19.56.13:728][300]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-19.56.13:728][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-19.56.13:728][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-19.56.13:729][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-19.56.13:729][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-19.56.13:729][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-19.56.13:730][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-19.56.13:783][300]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-19.56.13:784][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-19.56.13:784][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-19.56.13:784][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-19.56.13:784][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.02.04-19.56.13:784][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.02.04-19.56.13:785][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.02.04-19.56.13:785][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.02.04-19.56.13:785][300]LogInit: FAudioDevice initialized.
+[2023.02.04-19.56.13:786][300]LogAudio: Display: Audio Device (ID: 26) registered with world 'SamTestScene'.
+[2023.02.04-19.56.13:840][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.56.13:840][300]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-19.56.13:841][300]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-11.56.13
+[2023.02.04-19.56.13:841][300]LogWorld: Bringing up level for play took: 0.000661
+[2023.02.04-19.56.13:844][300]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.02.04-19.56.13:844][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-19.56.13:848][300]PIE: Server logged in
+[2023.02.04-19.56.13:848][300]PIE: Play in editor total start time 0.187 seconds.
+[2023.02.04-19.56.13:856][300]LogViewport: Scene viewport resized to 1357x970, mode Windowed.
+[2023.02.04-19.56.15:457][383]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-19.56.15:640][394]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-19.56.15:841][406]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-19.56.16:008][416]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-19.56.16:174][426]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-19.56.16:341][436]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-19.56.16:524][447]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-19.56.16:674][456]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-19.56.16:891][469]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-19.56.17:308][494]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.0
+[2023.02.04-19.56.22:036][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-19.56.22:036][776]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-19.56.22:038][776]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-19.56.22:050][776]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-19.56.22:050][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.56.22:067][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-19.56.22:081][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-19.56.22:148][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-19.56.22:148][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.02.04-19.56.22:151][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.02.04-19.56.22:188][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.02.04-19.56.22:224][777]LogPlayLevel: Display: Destroying online subsystem :Context_41
