@@ -6557,3 +6557,1223 @@ Script Stack (0 frames) :
 [2023.02.04-21.50.00:712][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
 [2023.02.04-21.50.01:621][472]BlueprintLog: New page: Compile Player
 [2023.02.04-21.50.01:761][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.02.04-21.52.16:563][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GnomeGuardian.GnomeGuardian
+[2023.02.04-21.52.16:564][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.52.25:912][607]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.52.25:912][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.52.26:068][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GnomeGuardian.GnomeGuardian
+[2023.02.04-21.52.26:068][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.53.28:000][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.53.28:094][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GnomeGuardian" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/GnomeGuardian.uasset" SILENT=true
+[2023.02.04-21.53.28:097][178]LogSavePackage: Moving output files for package: /Game/Blueprints/GnomeGuardian
+[2023.02.04-21.53.28:097][178]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/GnomeGuardianEB2DEFE645BF71966478F78BBB579F4F.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/GnomeGuardian.uasset'
+[2023.02.04-21.53.28:107][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 7.31 sec)
+[2023.02.04-21.53.28:120][178]AssetCheck: New page: Asset Save: GnomeGuardian
+[2023.02.04-21.53.28:120][178]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GnomeGuardian.GnomeGuardian
+[2023.02.04-21.53.28:999][229]BlueprintLog: New page: Compile GnomeGuardian
+[2023.02.04-21.53.29:134][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.02.04-21.53.42:842][769]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-21.53.42:842][769]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-21.53.42:842][769]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-21.55.33:922][239]BlueprintLog: New page: Compile GnomeGuardian
+[2023.02.04-21.55.34:047][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.04-21.57.12:699][844]BlueprintLog: New page: Compile Player
+[2023.02.04-21.57.12:843][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.04-21.57.13:804][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.57.13:912][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.57.13:935][885]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.57.13:935][885]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerBBBA3AB841419BFBBF43C1B997D5C8C6.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.57.13:945][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 7.45 sec)
+[2023.02.04-21.57.13:958][885]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.57.13:958][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.59.04:900][ 94]BlueprintLog: New page: Compile GnomeGuardian
+[2023.02.04-21.59.05:097][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.04-21.59.43:788][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2023.02.04-21.59.43:793][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.124
+[2023.02.04-21.59.43:794][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GnomeGuardian] ([2] browsable assets)...
+[2023.02.04-21.59.43:794][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GnomeGuardian]
+[2023.02.04-21.59.44:302][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GnomeGuardian_Auto3
+[2023.02.04-21.59.44:302][772]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/GnomeGuardian_Auto375660271481ECB6689A1FABC302B67BD.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/GnomeGuardian_Auto3.uasset'
+[2023.02.04-21.59.44:303][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-21.59.44:331][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-21.59.44:331][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-21.59.44:331][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.59.44:357][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto3
+[2023.02.04-21.59.44:358][772]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto3C52D96514F2F3C6A10C38C91FB14A240.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset'
+[2023.02.04-21.59.44:360][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIAssets/PlayerHeathBar] ([2] browsable assets)...
+[2023.02.04-21.59.44:370][772]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar]
+[2023.02.04-21.59.44:370][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/PlayerHeathBar]
+[2023.02.04-21.59.44:370][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.59.44:379][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/PlayerHeathBar_Auto3
+[2023.02.04-21.59.44:379][772]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar_Auto328BAA54A48E57194335C9397BDA267EB.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto3.uasset'
+[2023.02.04-21.59.44:381][772]LogFileHelpers: Auto-saving content packages took 0.588
+[2023.02.04-22.00.21:851][655]BlueprintLog: New page: Compile GnomeGuardian
+[2023.02.04-22.00.22:049][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.04-22.03.22:903][483]BlueprintLog: New page: Compile GnomeGuardian
+[2023.02.04-22.03.23:034][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.02.04-22.03.24:655][569]BlueprintLog: New page: Compile Player
+[2023.02.04-22.03.24:798][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.02.04-22.04.33:297][317]BlueprintLog: New page: Compile Player
+[2023.02.04-22.04.33:444][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.02.04-22.04.35:867][445]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-22.04.35:982][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-22.04.35:982][445]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 6:04:35 AM)
+[2023.02.04-22.04.35:983][445]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-22.04.35:986][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2023.02.04-22.04.35:986][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003325s)
+[2023.02.04-22.04.35:986][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-22.04.35:987][445]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-22.04.35:987][445]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2023.02.04-22.04.36:084][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.04-22.04.36:086][445]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-22.04.36:086][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-22.04.36:086][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-22.04.36:087][445]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-22.04.36:087][445]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-22.04.36:087][445]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-22.04.36:089][445]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-22.04.36:142][445]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-22.04.36:142][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-22.04.36:142][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-22.04.36:142][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-22.04.36:144][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2023.02.04-22.04.36:144][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2023.02.04-22.04.36:145][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2023.02.04-22.04.36:145][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2023.02.04-22.04.36:146][445]LogInit: FAudioDevice initialized.
+[2023.02.04-22.04.36:146][445]LogAudio: Display: Audio Device (ID: 52) registered with world 'SamTestScene'.
+[2023.02.04-22.04.36:148][445]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-22.04.36:150][445]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-14.04.36
+[2023.02.04-22.04.36:150][445]LogWorld: Bringing up level for play took: 0.000703
+[2023.02.04-22.04.36:152][445]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.02.04-22.04.36:167][445]PIE: Server logged in
+[2023.02.04-22.04.36:168][445]PIE: Play in editor total start time 0.186 seconds.
+[2023.02.04-22.04.48:432][165]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:432][165]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:433][165]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:433][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:447][166]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:447][166]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:447][166]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:447][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:459][167]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:459][167]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:459][167]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:459][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:476][168]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:476][168]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:476][168]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:476][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:492][169]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:492][169]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:492][169]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:492][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:508][170]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:508][170]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:508][170]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:508][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:525][171]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:525][171]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:525][171]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:525][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:543][172]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:543][172]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:543][172]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:543][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:558][173]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:558][173]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:558][173]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:558][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:577][174]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:577][174]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:577][174]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:577][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:594][175]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:594][175]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:594][175]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:594][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:608][176]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:608][176]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:608][176]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:608][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:624][177]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:625][177]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:625][177]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:625][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:642][178]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:642][178]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:642][178]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:642][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:658][179]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:658][179]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:658][179]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:658][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:675][180]LogScript: Warning: Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_0
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:675][180]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:675][180]LogScript: Warning: Accessed None trying to read property CharRef
+	PlayerHeathBar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_50.PlayerHeathBar_C_1
+	Function /Game/UIAssets/PlayerHeathBar.PlayerHeathBar_C:GetPercent:0027
+[2023.02.04-22.04.48:675][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:692][181]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:692][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:713][182]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:713][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:725][183]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:725][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:741][184]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:741][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:758][185]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:758][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:776][186]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:776][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:792][187]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:792][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:808][188]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:808][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:826][189]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:826][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:843][190]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:843][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:859][191]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:859][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:875][192]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:875][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:892][193]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:892][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:909][194]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:909][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:925][195]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:925][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:942][196]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:942][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:958][197]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:958][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:975][198]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:975][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:992][199]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.48:992][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:008][200]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:008][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:025][201]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:025][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:042][202]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:042][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:058][203]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:058][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:075][204]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:075][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:098][205]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:098][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:108][206]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:109][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:125][207]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:125][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:142][208]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:142][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:159][209]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:159][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:175][210]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:175][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:192][211]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:192][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:208][212]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:208][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:225][213]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:225][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:242][214]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:242][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:258][215]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:258][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:276][216]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:276][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:292][217]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:293][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:308][218]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:308][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:325][219]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:325][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:342][220]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:342][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:358][221]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:358][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:375][222]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:375][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:391][223]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:392][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:408][224]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:408][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:425][225]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:425][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:442][226]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:442][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:458][227]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:459][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:475][228]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:475][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:491][229]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:491][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:509][230]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:509][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:525][231]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:525][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:543][232]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:543][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:558][233]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:558][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:576][234]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:576][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:593][235]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:593][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:609][236]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:609][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:624][237]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:625][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:642][238]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:642][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:658][239]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:658][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:675][240]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:675][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:693][241]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:693][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:709][242]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:709][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:726][243]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:726][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:743][244]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:743][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:758][245]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:758][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:775][246]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:775][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:792][247]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:792][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:808][248]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:809][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:825][249]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:825][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:842][250]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:842][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:859][251]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:859][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:876][252]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:876][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:892][253]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:893][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:910][254]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:910][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:925][255]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:926][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:941][256]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:942][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:958][257]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:958][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:975][258]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:975][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:991][259]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.49:992][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:013][260]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:013][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:026][261]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:026][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:042][262]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:042][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:059][263]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:059][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:075][264]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:075][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:092][265]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:092][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:108][266]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:108][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:126][267]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:126][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:143][268]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:143][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:158][269]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:158][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:175][270]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:175][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:193][271]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:193][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:210][272]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:210][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:225][273]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:225][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:242][274]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:242][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:258][275]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:258][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:275][276]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:275][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:292][277]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:292][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:308][278]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:308][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:325][279]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:325][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:342][280]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:342][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:358][281]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:358][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:375][282]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:376][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:392][283]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:393][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:410][284]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:410][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:425][285]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:425][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:443][286]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:443][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:458][287]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:458][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:475][288]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:475][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:495][289]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:495][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:508][290]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:508][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:526][291]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:526][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:541][292]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:542][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:559][293]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:559][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:575][294]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:575][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:593][295]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:593][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:614][296]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:614][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:627][297]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:627][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:642][298]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:642][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:658][299]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:658][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:676][300]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:676][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:692][301]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:692][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:713][302]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:713][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:726][303]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:726][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:742][304]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:742][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:758][305]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:758][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:775][306]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:775][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:797][307]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:797][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:809][308]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:810][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:825][309]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:825][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:841][310]PIE: Error: Blueprint Runtime Error: "Attempted to access Player_C_0 via property CharRef, but Player_C_0 is not valid (pending kill or garbage)". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:842][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CharRef". Node:  Return Node Graph:  GetPercent Function:  Get Percent Blueprint:  PlayerHeathBar
+[2023.02.04-22.04.50:891][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-22.04.50:891][311]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-22.04.50:892][311]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.04.50:892][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.04.50:900][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-22.04.50:911][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.04.51:003][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-22.04.51:003][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.02.04-22.04.51:005][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.02.04-22.04.51:030][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.02.04-22.04.51:363][312]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.02.04-22.04.53:941][464]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-22.04.53:948][464]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-22.04.58:385][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-22.04.58:462][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DestroyableObj" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset" SILENT=true
+[2023.02.04-22.04.58:467][725]LogSavePackage: Moving output files for package: /Game/Blueprints/DestroyableObj
+[2023.02.04-22.04.58:467][725]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObj0FA099EF40FBC023D90B6F86416AD2A7.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DestroyableObj.uasset'
+[2023.02.04-22.04.58:478][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 7.54 sec)
+[2023.02.04-22.04.58:490][725]AssetCheck: New page: Asset Save: DestroyableObj
+[2023.02.04-22.04.58:490][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj
+[2023.02.04-22.05.13:559][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.04-22.05.15:054][616]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-22.05.15:070][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-22.05.15:164][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Box" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box.uasset" SILENT=true
+[2023.02.04-22.05.15:167][616]LogSavePackage: Moving output files for package: /Game/Models/Box
+[2023.02.04-22.05.15:167][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Box160F1AE04DC3988E074F7DBE534F3E63.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box.uasset'
+[2023.02.04-22.05.15:167][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Box_Skeleton" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box_Skeleton.uasset" SILENT=true
+[2023.02.04-22.05.15:168][616]LogSavePackage: Moving output files for package: /Game/Models/Box_Skeleton
+[2023.02.04-22.05.15:168][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Box_Skeleton6AF428A745B239D302F3609AA5138A2F.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Box_Skeleton.uasset'
+[2023.02.04-22.05.15:169][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DamageBox" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset" SILENT=true
+[2023.02.04-22.05.15:172][616]LogSavePackage: Moving output files for package: /Game/Blueprints/DamageBox
+[2023.02.04-22.05.15:173][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DamageBox3732DA6C44E8F92E4F1CE3A9E2DD2539.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset'
+[2023.02.04-22.05.15:174][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/Enemy_Health_Bar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Enemy_Health_Bar.uasset" SILENT=true
+[2023.02.04-22.05.15:374][616]LogSavePackage: Moving output files for package: /Game/UIAssets/Enemy_Health_Bar
+[2023.02.04-22.05.15:375][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Enemy_Health_Bar643442F34E3BC72CD8C9ACAF9228554B.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Enemy_Health_Bar.uasset'
+[2023.02.04-22.05.15:376][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GnomeGuardian" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/GnomeGuardian.uasset" SILENT=true
+[2023.02.04-22.05.15:382][616]LogSavePackage: Moving output files for package: /Game/Blueprints/GnomeGuardian
+[2023.02.04-22.05.15:383][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/GnomeGuardian474D742646A0CD7FE17B0EA1645AFE72.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/GnomeGuardian.uasset'
+[2023.02.04-22.05.15:384][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/Health_Bar_Outline" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Health_Bar_Outline.uasset" SILENT=true
+[2023.02.04-22.05.15:394][616]LogSavePackage: Moving output files for package: /Game/UIAssets/Health_Bar_Outline
+[2023.02.04-22.05.15:394][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Health_Bar_OutlineE3D886ED4D099DA66A1960A177A9EB4F.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Health_Bar_Outline.uasset'
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: ================================================
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Total job queries 230, among them cache hits 20 (8.70%)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 129 distinct outputs (72.47%)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: RAM used: 1.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Average time worker was idle: 963.31 s
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.16 s
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Job execution time: average 3.15 s, max 4.98 s
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 5.09
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.45 s
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Average processing rate: 2.13 jobs/sec
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Total thread time: 21.06 s
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Total thread preprocess time: 1.52 s
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Percentage time preprocessing: 7.24%
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Effective parallelization: 2.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.39 sec, max 1.66 sec, min 1.30 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 1.22 sec, max 1.46 sec, min 0.62 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.09 sec, max 1.11 sec, min 1.06 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.88% of total time (compiled    6 times, average 1.22 sec, max 1.46 sec, min 0.62 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.48% of total time (compiled    4 times, average 1.39 sec, max 1.66 sec, min 1.30 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.33% of total time (compiled    2 times, average 1.09 sec, max 1.11 sec, min 1.06 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.84% of total time (compiled    2 times, average 1.04 sec, max 1.42 sec, min 0.65 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.76% of total time (compiled    2 times, average 0.71 sec, max 0.73 sec, min 0.70 sec)
+[2023.02.04-22.05.15:553][616]LogShaderCompilers: Display: ================================================
+[2023.02.04-22.05.15:612][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/lambert1" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/lambert1.uasset" SILENT=true
+[2023.02.04-22.05.15:615][616]LogSavePackage: Moving output files for package: /Game/Models/lambert1
+[2023.02.04-22.05.15:615][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/lambert1AF03877E44270911EA2258B641CFE897.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/lambert1.uasset'
+[2023.02.04-22.05.15:626][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-22.05.15:648][616]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-22.05.15:648][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player65BD6F2640769856B2DBF1B18A469A23.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-22.05.15:649][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/Player_Health_Bar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Player_Health_Bar.uasset" SILENT=true
+[2023.02.04-22.05.15:658][616]LogSavePackage: Moving output files for package: /Game/UIAssets/Player_Health_Bar
+[2023.02.04-22.05.15:658][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Health_Bar11F3ECF94C28644BFC56129B4590898E.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Player_Health_Bar.uasset'
+[2023.02.04-22.05.15:664][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset" SILENT=true
+[2023.02.04-22.05.15:669][616]LogSavePackage: Moving output files for package: /Game/UIAssets/PlayerHeathBar
+[2023.02.04-22.05.15:669][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar71D53C894BDD3889E2B2B783AD3EDB4C.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset'
+[2023.02.04-22.05.15:670][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/Root_Health_Bar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Root_Health_Bar.uasset" SILENT=true
+[2023.02.04-22.05.15:680][616]LogSavePackage: Moving output files for package: /Game/UIAssets/Root_Health_Bar
+[2023.02.04-22.05.15:680][616]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Root_Health_Bar4D6010F54733A0644A8DF68026B9584D.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/Root_Health_Bar.uasset'
+[2023.02.04-22.05.15:691][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 620 ms (total: 8.17 sec)
+[2023.02.04-22.05.15:691][616]LogStall: Shutdown...
+[2023.02.04-22.05.15:717][616]LogStall: Shutdown complete.
+[2023.02.04-22.05.15:775][616]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.15:775][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.16:205][616]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.04-22.05.16:205][616]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.16:205][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.16:423][616]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.04-22.05.16:423][616]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.16:423][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.17:030][616]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.17:030][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.17:052][616]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.17:052][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.17:211][616]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.04-22.05.17:211][616]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.17:211][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.17:360][616]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.04-22.05.17:360][616]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.17:360][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.17:646][616]LogSlate: Window 'GnomeGuardian - Unreal Editor' being destroyed
+[2023.02.04-22.05.17:982][616]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GnomeGuardian.GnomeGuardian
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Models/Box_Skeleton.Box_Skeleton
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIAssets/Enemy_Health_Bar.Enemy_Health_Bar
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIAssets/Root_Health_Bar.Root_Health_Bar
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DamageBox.DamageBox
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/lambert1.lambert1
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Models/Box.Box
+[2023.02.04-22.05.17:982][616]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar
+[2023.02.04-22.05.17:985][616]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIAssets/Health_Bar_Outline.Health_Bar_Outline
+[2023.02.04-22.05.17:985][616]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UIAssets/Player_Health_Bar.Player_Health_Bar
+[2023.02.04-22.05.17:986][617]LogAutomationController: Ignoring very large delta of 4.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.04-22.05.17:986][617]Cmd: QUIT_EDITOR
+[2023.02.04-22.05.17:986][617]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.04-22.05.18:081][617]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.04-22.05.18:081][617]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.04-22.05.18:097][617]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.04-22.05.18:104][617]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.18:104][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-22.05.18:266][617]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.04-22.05.18:524][617]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.04-22.05.19:386][617]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.04-22.05.19:386][617]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.04-22.05.19:386][617]LogAudio: Display: Audio Device unregistered from world 'SamTestScene'.
+[2023.02.04-22.05.19:390][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.04-22.05.19:392][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.04-22.05.19:433][617]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.04-22.05.19:472][617]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.04-22.05.19:498][617]LogExit: Preparing to exit.
+[2023.02.04-22.05.20:270][617]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2023.02.04-22.05.20:281][617]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:281][617]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:283][617]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:284][617]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:284][617]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:284][617]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:284][617]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:285][617]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.20:286][617]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:759][617]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:771][617]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:784][617]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:794][617]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-22.05.22:805][617]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:817][617]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:827][617]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:837][617]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.22:851][617]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-22.05.23:196][617]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.02.04-22.05.23:333][617]LogExit: Editor shut down
+[2023.02.04-22.05.23:336][617]LogExit: Transaction tracking system shut down
+[2023.02.04-22.05.28:445][617]LogExit: Object subsystem successfully closed.
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: ================================================
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Total job queries 230, among them cache hits 20 (8.70%)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 129 distinct outputs (72.47%)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: RAM used: 1.39 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Average time worker was idle: 963.31 s
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.16 s
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Job execution time: average 3.15 s, max 4.98 s
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 5.09
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.45 s
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Average processing rate: 2.13 jobs/sec
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Total thread time: 21.06 s
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Total thread preprocess time: 1.52 s
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Percentage time preprocessing: 7.24%
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Effective parallelization: 2.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.39 sec, max 1.66 sec, min 1.30 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 1.22 sec, max 1.46 sec, min 0.62 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.09 sec, max 1.11 sec, min 1.06 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.88% of total time (compiled    6 times, average 1.22 sec, max 1.46 sec, min 0.62 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.48% of total time (compiled    4 times, average 1.39 sec, max 1.66 sec, min 1.30 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.33% of total time (compiled    2 times, average 1.09 sec, max 1.11 sec, min 1.06 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.84% of total time (compiled    2 times, average 1.04 sec, max 1.42 sec, min 0.65 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.76% of total time (compiled    2 times, average 0.71 sec, max 0.73 sec, min 0.70 sec)
+[2023.02.04-22.05.28:453][617]LogShaderCompilers: Display: ================================================
+[2023.02.04-22.05.28:462][617]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.04-22.05.28:756][617]LogVirtualization: UE::Virtualization was shutdown
+[2023.02.04-22.05.32:390][617]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1007)
+[2023.02.04-22.05.32:390][617]LogModuleManager: Shutting down and abandoning module DistCurveEditor (1005)
+[2023.02.04-22.05.32:390][617]LogModuleManager: Shutting down and abandoning module Cascade (1003)
+[2023.02.04-22.05.32:390][617]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1001)
+[2023.02.04-22.05.32:390][617]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (999)
+[2023.02.04-22.05.32:390][617]LogModuleManager: Shutting down and abandoning module Voice (997)
+[2023.02.04-22.05.32:397][617]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (995)
+[2023.02.04-22.05.32:397][617]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2023.02.04-22.05.32:397][617]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (991)
+[2023.02.04-22.05.32:397][617]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (989)
+[2023.02.04-22.05.32:397][617]LogModuleManager: Shutting down and abandoning module AddContentDialog (987)
+[2023.02.04-22.05.32:417][617]LogModuleManager: Shutting down and abandoning module WidgetCarousel (986)
+[2023.02.04-22.05.32:417][617]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.02.04-22.05.32:417][617]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.02.04-22.05.32:417][617]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2023.02.04-22.05.32:417][617]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2023.02.04-22.05.32:417][617]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2023.02.04-22.05.32:447][617]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2023.02.04-22.05.32:447][617]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2023.02.04-22.05.32:461][617]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (969)
+[2023.02.04-22.05.32:461][617]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (967)
+[2023.02.04-22.05.32:511][617]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (965)
+[2023.02.04-22.05.32:544][617]LogModuleManager: Shutting down and abandoning module PlanarCut (963)
+[2023.02.04-22.05.32:570][617]LogModuleManager: Shutting down and abandoning module CharacterAI (961)
+[2023.02.04-22.05.32:570][617]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (959)
+[2023.02.04-22.05.32:603][617]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (957)
+[2023.02.04-22.05.32:706][617]LogModuleManager: Shutting down and abandoning module TakesCore (955)
+[2023.02.04-22.05.32:706][617]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (953)
+[2023.02.04-22.05.32:728][617]LogModuleManager: Shutting down and abandoning module TextureAlignMode (951)
+[2023.02.04-22.05.32:728][617]LogModuleManager: Shutting down and abandoning module BspMode (949)
+[2023.02.04-22.05.32:751][617]LogModuleManager: Shutting down and abandoning module GeometryMode (947)
+[2023.02.04-22.05.32:784][617]LogModuleManager: Shutting down and abandoning module WaveTableEditor (945)
+[2023.02.04-22.05.32:830][617]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (943)
+[2023.02.04-22.05.32:830][617]LogModuleManager: Shutting down and abandoning module GooglePADEditor (941)
+[2023.02.04-22.05.32:830][617]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (939)
+[2023.02.04-22.05.32:830][617]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (937)
+[2023.02.04-22.05.32:830][617]LogModuleManager: Shutting down and abandoning module IKRigEditor (935)
+[2023.02.04-22.05.32:915][617]LogModuleManager: Shutting down and abandoning module ControlRigEditor (933)
+[2023.02.04-22.05.33:039][617]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (931)
+[2023.02.04-22.05.33:039][617]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (929)
+[2023.02.04-22.05.33:039][617]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (927)
+[2023.02.04-22.05.33:039][617]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (925)
+[2023.02.04-22.05.33:039][617]LogModuleManager: Shutting down and abandoning module WebMMedia (923)
+[2023.02.04-22.05.33:061][617]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (921)
+[2023.02.04-22.05.33:084][617]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (919)
+[2023.02.04-22.05.33:107][617]LogModuleManager: Shutting down and abandoning module SequenceRecorder (918)
+[2023.02.04-22.05.33:107][617]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (915)
+[2023.02.04-22.05.33:125][617]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (913)
+[2023.02.04-22.05.33:125][617]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (911)
+[2023.02.04-22.05.33:143][617]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (909)
+[2023.02.04-22.05.33:143][617]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (907)
+[2023.02.04-22.05.33:143][617]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (905)
+[2023.02.04-22.05.33:143][617]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (903)
+[2023.02.04-22.05.33:143][617]LogModuleManager: Shutting down and abandoning module SmartSnapping (901)
+[2023.02.04-22.05.33:143][617]LogModuleManager: Shutting down and abandoning module SessionServices (899)
+[2023.02.04-22.05.33:155][617]LogModuleManager: Shutting down and abandoning module MeshPaint (897)
+[2023.02.04-22.05.33:173][617]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (895)
+[2023.02.04-22.05.33:216][617]LogModuleManager: Shutting down and abandoning module PlacementMode (894)
+[2023.02.04-22.05.33:231][617]LogModuleManager: Shutting down and abandoning module FoliageEdit (891)
+[2023.02.04-22.05.33:265][617]LogModuleManager: Shutting down and abandoning module LandscapeEditor (889)
+[2023.02.04-22.05.33:385][617]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (887)
+[2023.02.04-22.05.33:385][617]LogModuleManager: Shutting down and abandoning module ActorPickerMode (885)
+[2023.02.04-22.05.33:385][617]LogModuleManager: Shutting down and abandoning module ViewportSnapping (883)
+[2023.02.04-22.05.33:385][617]LogModuleManager: Shutting down and abandoning module ViewportInteraction (881)
+[2023.02.04-22.05.33:385][617]LogModuleManager: Shutting down and abandoning module ClothPainter (879)
+[2023.02.04-22.05.33:418][617]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (878)
+[2023.02.04-22.05.33:518][617]LogModuleManager: Shutting down and abandoning module LogVisualizer (875)
+[2023.02.04-22.05.33:574][617]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (873)
+[2023.02.04-22.05.33:574][617]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (871)
+[2023.02.04-22.05.33:574][617]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (870)
+[2023.02.04-22.05.33:632][617]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (868)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (865)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (863)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (861)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (859)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module AnimationSettings (857)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (855)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module CSVtoSVG (853)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (851)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module EditorConfig (849)
+[2023.02.04-22.05.33:984][617]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (847)
+[2023.02.04-22.05.33:996][617]LogModuleManager: Shutting down and abandoning module EditorFramework (845)
+[2023.02.04-22.05.33:996][617]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (843)
+[2023.02.04-22.05.34:009][617]LogModuleManager: Shutting down and abandoning module TraceInsights (841)
+[2023.02.04-22.05.34:133][617]MemoryProfiler: Shutdown
+[2023.02.04-22.05.34:145][617]NetworkingProfiler: Shutdown
+[2023.02.04-22.05.34:145][617]LoadingProfiler: Shutdown
+[2023.02.04-22.05.34:145][617]TimingProfiler: Shutdown
+[2023.02.04-22.05.34:218][617]LogModuleManager: Shutting down and abandoning module TraceServices (840)
+[2023.02.04-22.05.34:264][617]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (837)
+[2023.02.04-22.05.34:264][617]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (836)
+[2023.02.04-22.05.34:276][617]LogModuleManager: Shutting down and abandoning module InputBindingEditor (833)
+[2023.02.04-22.05.34:307][617]LogModuleManager: Shutting down and abandoning module MergeActors (831)
+[2023.02.04-22.05.34:324][617]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (829)
+[2023.02.04-22.05.34:337][617]LogModuleManager: Shutting down and abandoning module LocalizationService (828)
+[2023.02.04-22.05.34:359][617]LogModuleManager: Shutting down and abandoning module HardwareTargeting (825)
+[2023.02.04-22.05.34:359][617]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (823)
+[2023.02.04-22.05.34:365][617]LogModuleManager: Shutting down and abandoning module UndoHistory (821)
+[2023.02.04-22.05.34:379][617]LogModuleManager: Shutting down and abandoning module XmlParser (819)
+[2023.02.04-22.05.34:392][617]LogModuleManager: Shutting down and abandoning module Blutility (817)
+[2023.02.04-22.05.34:392][617]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (815)
+[2023.02.04-22.05.34:392][617]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (814)
+[2023.02.04-22.05.34:393][617]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (811)
+[2023.02.04-22.05.34:393][617]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (810)
+[2023.02.04-22.05.34:393][617]LogModuleManager: Shutting down and abandoning module SettingsEditor (807)
+[2023.02.04-22.05.34:393][617]LogModuleManager: Shutting down and abandoning module ProjectLauncher (805)
+[2023.02.04-22.05.34:432][617]LogModuleManager: Shutting down and abandoning module SessionFrontend (803)
+[2023.02.04-22.05.34:443][617]LogModuleManager: Shutting down and abandoning module ProfilerClient (801)
+[2023.02.04-22.05.34:447][617]LogModuleManager: Shutting down and abandoning module DeviceManager (799)
+[2023.02.04-22.05.34:458][617]LogModuleManager: Shutting down and abandoning module AutomationController (797)
+[2023.02.04-22.05.34:465][617]LogModuleManager: Shutting down and abandoning module AutomationWindow (795)
+[2023.02.04-22.05.34:508][617]LogModuleManager: Shutting down and abandoning module Layers (793)
+[2023.02.04-22.05.34:533][617]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (791)
+[2023.02.04-22.05.34:533][617]LogModuleManager: Shutting down and abandoning module DetailCustomizations (789)
+[2023.02.04-22.05.34:533][617]LogModuleManager: Shutting down and abandoning module PackagesDialog (787)
+[2023.02.04-22.05.34:533][617]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (785)
+[2023.02.04-22.05.34:571][617]LogModuleManager: Shutting down and abandoning module Persona (783)
+[2023.02.04-22.05.34:619][617]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (782)
+[2023.02.04-22.05.34:619][617]LogModuleManager: Shutting down and abandoning module AnimGraph (780)
+[2023.02.04-22.05.34:668][617]LogModuleManager: Shutting down and abandoning module Kismet (777)
+[2023.02.04-22.05.34:720][617]LogModuleManager: Shutting down and abandoning module KismetWidgets (776)
+[2023.02.04-22.05.34:720][617]LogModuleManager: Shutting down and abandoning module GraphEditor (773)
+[2023.02.04-22.05.34:721][617]LogModuleManager: Shutting down and abandoning module StructViewer (771)
+[2023.02.04-22.05.34:721][617]LogModuleManager: Shutting down and abandoning module ClassViewer (769)
+[2023.02.04-22.05.34:725][617]LogModuleManager: Shutting down and abandoning module NaniteTools (767)
+[2023.02.04-22.05.34:725][617]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (765)
+[2023.02.04-22.05.34:727][617]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (763)
+[2023.02.04-22.05.34:727][617]LogModuleManager: Shutting down and abandoning module SourceControlWindows (761)
+[2023.02.04-22.05.34:745][617]LogModuleManager: Shutting down and abandoning module OutputLog (759)
+[2023.02.04-22.05.34:777][617]LogModuleManager: Shutting down and abandoning module Documentation (757)
+[2023.02.04-22.05.34:778][617]LogModuleManager: Shutting down and abandoning module LiveCoding (755)
+[2023.02.04-22.05.34:813][617]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (753)
+[2023.02.04-22.05.34:838][617]LogModuleManager: Shutting down and abandoning module MovieScene (751)
+[2023.02.04-22.05.34:896][617]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (749)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (747)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (745)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module AudioMixer (744)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module AudioMixerCore (743)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module LauncherPlatform (739)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module AnalyticsET (737)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module PortalServices (735)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module PortalRpc (733)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module MessagingRpc (731)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module AIModule (729)
+[2023.02.04-22.05.34:950][617]LogModuleManager: Shutting down and abandoning module GameplayDebugger (728)
+[2023.02.04-22.05.34:965][617]LogModuleManager: Shutting down and abandoning module AITestSuite (726)
+[2023.02.04-22.05.34:979][617]LogModuleManager: Shutting down and abandoning module NavigationSystem (724)
+[2023.02.04-22.05.34:979][617]LogModuleManager: Shutting down and abandoning module DataLayerEditor (721)
+[2023.02.04-22.05.34:979][617]LogModuleManager: Shutting down and abandoning module EditorWidgets (720)
+[2023.02.04-22.05.34:994][617]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (717)
+[2023.02.04-22.05.34:994][617]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (715)
+[2023.02.04-22.05.34:994][617]LogModuleManager: Shutting down and abandoning module TypedElementFramework (713)
+[2023.02.04-22.05.34:994][617]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (711)
+[2023.02.04-22.05.34:994][617]LogModuleManager: Shutting down and abandoning module ProfilerService (709)
+[2023.02.04-22.05.35:130][617]LogModuleManager: Shutting down and abandoning module TaskGraph (707)
+[2023.02.04-22.05.35:348][617]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2023.02.04-22.05.35:348][617]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2023.02.04-22.05.35:360][617]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2023.02.04-22.05.35:381][617]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (699)
+[2023.02.04-22.05.35:411][617]LogModuleManager: Shutting down and abandoning module LightMixer (697)
+[2023.02.04-22.05.35:411][617]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2023.02.04-22.05.35:411][617]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (693)
+[2023.02.04-22.05.35:412][617]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2023.02.04-22.05.35:412][617]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.02.04-22.05.35:413][617]LogModuleManager: Shutting down and abandoning module TemplateSequence (687)
+[2023.02.04-22.05.35:413][617]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (685)
+[2023.02.04-22.05.35:413][617]LogModuleManager: Shutting down and abandoning module SequencerScripting (683)
+[2023.02.04-22.05.35:432][617]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (681)
+[2023.02.04-22.05.35:449][617]LogModuleManager: Shutting down and abandoning module UVEditorTools (679)
+[2023.02.04-22.05.35:466][617]LogModuleManager: Shutting down and abandoning module UVEditor (677)
+[2023.02.04-22.05.35:475][617]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (675)
+[2023.02.04-22.05.35:475][617]LogOpenImageDenoise: OIDN shutting down
+[2023.02.04-22.05.35:475][617]LogModuleManager: Shutting down and abandoning module MeshLODToolset (673)
+[2023.02.04-22.05.35:475][617]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (671)
+[2023.02.04-22.05.35:484][617]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (669)
+[2023.02.04-22.05.35:501][617]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (667)
+[2023.02.04-22.05.35:509][617]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (665)
+[2023.02.04-22.05.35:587][617]LogModuleManager: Shutting down and abandoning module Iris (663)
+[2023.02.04-22.05.35:587][617]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (661)
+[2023.02.04-22.05.35:602][617]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (659)
+[2023.02.04-22.05.35:606][617]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (657)
+[2023.02.04-22.05.35:617][617]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (655)
+[2023.02.04-22.05.35:617][617]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (653)
+[2023.02.04-22.05.35:617][617]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (652)
+[2023.02.04-22.05.35:617][617]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (650)
+[2023.02.04-22.05.35:617][617]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (647)
+[2023.02.04-22.05.35:618][617]LogModuleManager: Shutting down and abandoning module DataflowNodes (645)
+[2023.02.04-22.05.35:618][617]LogModuleManager: Shutting down and abandoning module DataflowEditor (643)
+[2023.02.04-22.05.35:618][617]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (641)
+[2023.02.04-22.05.35:618][617]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (639)
+[2023.02.04-22.05.35:618][617]LogModuleManager: Shutting down and abandoning module ChaosNiagara (637)
+[2023.02.04-22.05.35:629][617]LogModuleManager: Shutting down and abandoning module FractureEditor (635)
+[2023.02.04-22.05.35:652][617]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (633)
+[2023.02.04-22.05.35:652][617]LogModuleManager: Shutting down and abandoning module BackChannel (631)
+[2023.02.04-22.05.35:657][617]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (629)
+[2023.02.04-22.05.35:657][617]LogModuleManager: Shutting down and abandoning module AutomationUtils (627)
+[2023.02.04-22.05.35:657][617]LogModuleManager: Shutting down and abandoning module TakeSequencer (625)
+[2023.02.04-22.05.35:657][617]LogModuleManager: Shutting down and abandoning module TakeMovieScene (623)
+[2023.02.04-22.05.35:657][617]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (621)
+[2023.02.04-22.05.35:682][617]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (619)
+[2023.02.04-22.05.35:682][617]LogModuleManager: Shutting down and abandoning module UObjectPlugin (617)
+[2023.02.04-22.05.35:682][617]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (615)
+[2023.02.04-22.05.35:694][617]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (613)
+[2023.02.04-22.05.35:703][617]LogModuleManager: Shutting down and abandoning module PluginUtils (611)
+[2023.02.04-22.05.35:727][617]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (609)
+[2023.02.04-22.05.35:749][617]LogModuleManager: Shutting down and abandoning module DumpGPUServices (607)
+[2023.02.04-22.05.35:778][617]LogModuleManager: Shutting down and abandoning module GitSourceControl (605)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (603)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (601)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (599)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module AlembicImporter (597)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module AlembicLibrary (596)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (591)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (589)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module StylusInput (587)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (585)
+[2023.02.04-22.05.35:816][617]LogModuleManager: Shutting down and abandoning module PluginBrowser (583)
+[2023.02.04-22.05.35:859][617]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (581)
+[2023.02.04-22.05.35:876][617]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (579)
+[2023.02.04-22.05.35:899][617]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (577)
+[2023.02.04-22.05.35:943][617]LogModuleManager: Shutting down and abandoning module GLTFImporter (575)
+[2023.02.04-22.05.35:967][617]LogModuleManager: Shutting down and abandoning module GLTFCore (573)
+[2023.02.04-22.05.35:967][617]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (571)
+[2023.02.04-22.05.35:967][617]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (569)
+[2023.02.04-22.05.35:968][617]LogModuleManager: Shutting down and abandoning module EditorDebugTools (567)
+[2023.02.04-22.05.35:976][617]LogModuleManager: Shutting down and abandoning module CurveEditorTools (565)
+[2023.02.04-22.05.35:992][617]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (563)
+[2023.02.04-22.05.35:992][617]LogModuleManager: Shutting down and abandoning module CryptoKeys (561)
+[2023.02.04-22.05.35:992][617]LogModuleManager: Shutting down and abandoning module VariantManager (559)
+[2023.02.04-22.05.36:065][617]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (558)
+[2023.02.04-22.05.36:065][617]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (555)
+[2023.02.04-22.05.36:078][617]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (553)
+[2023.02.04-22.05.36:078][617]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (551)
+[2023.02.04-22.05.36:092][617]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (549)
+[2023.02.04-22.05.36:107][617]LogModuleManager: Shutting down and abandoning module InterchangeTests (547)
+[2023.02.04-22.05.36:107][617]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (545)
+[2023.02.04-22.05.36:129][617]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (543)
+[2023.02.04-22.05.36:138][617]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (541)
+[2023.02.04-22.05.36:139][617]LogModuleManager: Shutting down and abandoning module InterchangePipelines (539)
+[2023.02.04-22.05.36:139][617]LogModuleManager: Shutting down and abandoning module InterchangeExport (537)
+[2023.02.04-22.05.36:139][617]LogModuleManager: Shutting down and abandoning module InterchangeMessages (535)
+[2023.02.04-22.05.36:139][617]LogModuleManager: Shutting down and abandoning module InterchangeImport (533)
+[2023.02.04-22.05.36:150][617]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (531)
+[2023.02.04-22.05.36:150][617]LogModuleManager: Shutting down and abandoning module InterchangeNodes (529)
+[2023.02.04-22.05.36:150][617]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (527)
+[2023.02.04-22.05.36:150][617]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (525)
+[2023.02.04-22.05.36:150][617]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (523)
+[2023.02.04-22.05.36:165][617]LogModuleManager: Shutting down and abandoning module InterchangeEditor (521)
+[2023.02.04-22.05.36:165][617]LogModuleManager: Shutting down and abandoning module SynthesisEditor (519)
+[2023.02.04-22.05.36:165][617]LogModuleManager: Shutting down and abandoning module ResonanceAudio (517)
+[2023.02.04-22.05.36:165][617]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (515)
+[2023.02.04-22.05.36:183][617]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (513)
+[2023.02.04-22.05.36:183][617]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (511)
+[2023.02.04-22.05.36:183][617]LogModuleManager: Shutting down and abandoning module ModelingOperators (509)
+[2023.02.04-22.05.36:205][617]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (507)
+[2023.02.04-22.05.36:206][617]LogModuleManager: Shutting down and abandoning module ModelingComponents (505)
+[2023.02.04-22.05.36:238][617]LogModuleManager: Shutting down and abandoning module GeometryFramework (504)
+[2023.02.04-22.05.36:254][617]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (501)
+[2023.02.04-22.05.36:254][617]LogModuleManager: Shutting down and abandoning module MeshModelingTools (499)
+[2023.02.04-22.05.36:270][617]LogModuleManager: Shutting down and abandoning module InputDebugging (497)
+[2023.02.04-22.05.36:270][617]LogModuleManager: Shutting down and abandoning module GooglePAD (495)
+[2023.02.04-22.05.36:270][617]LogModuleManager: Shutting down and abandoning module DynamicMesh (493)
+[2023.02.04-22.05.36:322][617]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (491)
+[2023.02.04-22.05.36:326][617]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (489)
+[2023.02.04-22.05.36:326][617]LogModuleManager: Shutting down and abandoning module GeometryCache (487)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (485)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (483)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module AudioCapture (479)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (478)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module AssetTags (475)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (473)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (471)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module AppleImageUtils (469)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module AndroidPermission (467)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (465)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (463)
+[2023.02.04-22.05.36:341][617]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (461)
+[2023.02.04-22.05.36:381][617]LogModuleManager: Shutting down and abandoning module ControlRigSpline (459)
+[2023.02.04-22.05.36:395][617]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (457)
+[2023.02.04-22.05.36:395][617]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (455)
+[2023.02.04-22.05.36:395][617]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (453)
+[2023.02.04-22.05.36:414][617]LogModuleManager: Shutting down and abandoning module MediaPlate (451)
+[2023.02.04-22.05.36:414][617]LogModuleManager: Shutting down and abandoning module MediaCompositing (449)
+[2023.02.04-22.05.36:414][617]LogModuleManager: Shutting down and abandoning module ImgMedia (447)
+[2023.02.04-22.05.36:426][617]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (445)
+[2023.02.04-22.05.36:426][617]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (443)
+[2023.02.04-22.05.36:427][617]LogModuleManager: Shutting down and abandoning module Paper2DEditor (441)
+[2023.02.04-22.05.36:470][617]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2023.02.04-22.05.36:470][617]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2023.02.04-22.05.36:485][617]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module ActorSequence (429)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (427)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module PBIK (425)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module FullBodyIK (423)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (421)
+[2023.02.04-22.05.36:508][617]LogModuleManager: Shutting down and abandoning module TakeRecorder (420)
+[2023.02.04-22.05.36:616][617]LogModuleManager: Shutting down and abandoning module ChaosCaching (417)
+[2023.02.04-22.05.36:616][617]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (415)
+[2023.02.04-22.05.36:674][617]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (413)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (411)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module AnimationSharing (409)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module GameplayCameras (407)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (405)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module DataValidation (403)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (401)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module FacialAnimation (399)
+[2023.02.04-22.05.36:703][617]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (397)
+[2023.02.04-22.05.36:725][617]LogModuleManager: Shutting down and abandoning module LevelEditor (396)
+[2023.02.04-22.05.36:935][617]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (395)
+[2023.02.04-22.05.36:959][617]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (393)
+[2023.02.04-22.05.36:959][617]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (391)
+[2023.02.04-22.05.36:961][617]LogModuleManager: Shutting down and abandoning module MainFrame (389)
+[2023.02.04-22.05.36:962][617]LogModuleManager: Shutting down and abandoning module HotReload (388)
+[2023.02.04-22.05.36:962][617]LogModuleManager: Shutting down and abandoning module TreeMap (384)
+[2023.02.04-22.05.36:962][617]LogModuleManager: Shutting down and abandoning module TcpMessaging (381)
+[2023.02.04-22.05.37:063][617]LogModuleManager: Shutting down and abandoning module UdpMessaging (379)
+[2023.02.04-22.05.37:184][617]LogModuleManager: Shutting down and abandoning module Synthesis (377)
+[2023.02.04-22.05.37:210][617]LogModuleManager: Shutting down and abandoning module SoundFields (375)
+[2023.02.04-22.05.37:210][617]LogModuleManager: Shutting down and abandoning module SignificanceManager (373)
+[2023.02.04-22.05.37:210][617]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (371)
+[2023.02.04-22.05.37:210][617]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (369)
+[2023.02.04-22.05.37:210][617]LogModuleManager: Shutting down and abandoning module MetasoundEditor (367)
+[2023.02.04-22.05.37:256][617]LogModuleManager: Shutting down and abandoning module AudioWidgets (366)
+[2023.02.04-22.05.37:256][617]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (365)
+[2023.02.04-22.05.37:291][617]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (361)
+[2023.02.04-22.05.37:301][617]LogModuleManager: Shutting down and abandoning module MetasoundEngine (359)
+[2023.02.04-22.05.37:307][617]LogModuleManager: Shutting down and abandoning module WaveTable (358)
+[2023.02.04-22.05.37:307][617]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (356)
+[2023.02.04-22.05.37:308][617]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (353)
+[2023.02.04-22.05.37:317][617]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (351)
+[2023.02.04-22.05.37:351][617]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (349)
+[2023.02.04-22.05.37:408][617]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (347)
+[2023.02.04-22.05.37:421][617]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (345)
+[2023.02.04-22.05.37:421][617]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (343)
+[2023.02.04-22.05.37:421][617]LogModuleManager: Shutting down and abandoning module CableComponent (341)
+[2023.02.04-22.05.37:436][617]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (339)
+[2023.02.04-22.05.37:436][617]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (338)
+[2023.02.04-22.05.37:436][617]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (335)
+[2023.02.04-22.05.37:436][617]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (333)
+[2023.02.04-22.05.37:436][617]LogModuleManager: Shutting down and abandoning module Niagara (331)
+[2023.02.04-22.05.37:464][617]LogModuleManager: Shutting down and abandoning module SignalProcessing (330)
+[2023.02.04-22.05.37:469][617]LogModuleManager: Shutting down and abandoning module NiagaraEditor (328)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module ToolMenus (326)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module NiagaraCore (319)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (317)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module IKRig (315)
+[2023.02.04-22.05.37:471][617]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (313)
+[2023.02.04-22.05.37:490][617]LogModuleManager: Shutting down and abandoning module ControlRig (311)
+[2023.02.04-22.05.37:500][617]LogModuleManager: Shutting down and abandoning module LevelSequence (310)
+[2023.02.04-22.05.37:500][617]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (307)
+[2023.02.04-22.05.37:500][617]LogModuleManager: Shutting down and abandoning module Paper2D (305)
+[2023.02.04-22.05.37:516][617]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2023.02.04-22.05.37:516][617]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2023.02.04-22.05.37:534][617]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2023.02.04-22.05.37:548][617]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2023.02.04-22.05.37:549][617]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2023.02.04-22.05.37:549][617]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2023.02.04-22.05.37:549][617]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2023.02.04-22.05.37:558][617]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2023.02.04-22.05.37:558][617]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2023.02.04-22.05.37:597][617]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2023.02.04-22.05.37:597][617]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2023.02.04-22.05.37:650][617]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2023.02.04-22.05.37:651][617]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2023.02.04-22.05.37:651][617]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2023.02.04-22.05.37:651][617]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2023.02.04-22.05.37:651][617]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2023.02.04-22.05.37:706][617]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2023.02.04-22.05.37:706][617]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2023.02.04-22.05.37:710][617]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2023.02.04-22.05.37:710][617]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2023.02.04-22.05.37:710][617]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2023.02.04-22.05.37:719][617]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2023.02.04-22.05.37:720][617]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2023.02.04-22.05.37:720][617]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2023.02.04-22.05.37:720][617]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2023.02.04-22.05.37:720][617]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2023.02.04-22.05.37:720][617]LogModuleManager: Shutting down and abandoning module Core (231)
+[2023.02.04-22.05.37:720][617]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2023.02.04-22.05.37:784][617]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2023.02.04-22.05.37:805][617]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2023.02.04-22.05.37:805][617]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2023.02.04-22.05.37:806][617]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2023.02.04-22.05.37:806][617]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2023.02.04-22.05.37:806][617]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2023.02.04-22.05.37:815][617]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2023.02.04-22.05.37:815][617]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2023.02.04-22.05.37:831][617]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2023.02.04-22.05.37:831][617]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2023.02.04-22.05.37:836][617]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2023.02.04-22.05.37:880][617]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2023.02.04-22.05.37:918][617]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2023.02.04-22.05.37:925][617]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2023.02.04-22.05.37:936][617]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2023.02.04-22.05.37:946][617]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2023.02.04-22.05.37:946][617]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.02.04-22.05.37:993][617]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.02.04-22.05.37:993][617]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.02.04-22.05.38:027][617]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.02.04-22.05.38:044][617]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.02.04-22.05.38:077][617]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.02.04-22.05.38:087][617]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.02.04-22.05.38:087][617]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2023.02.04-22.05.38:087][617]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2023.02.04-22.05.38:087][617]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.02.04-22.05.38:087][617]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2023.02.04-22.05.38:101][617]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.02.04-22.05.38:101][617]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.02.04-22.05.38:101][617]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.02.04-22.05.38:146][617]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.02.04-22.05.38:146][617]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.02.04-22.05.38:146][617]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.02.04-22.05.38:162][617]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.02.04-22.05.38:163][617]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.02.04-22.05.38:163][617]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.02.04-22.05.38:163][617]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.02.04-22.05.38:170][617]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.02.04-22.05.38:170][617]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.02.04-22.05.38:170][617]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.02.04-22.05.38:170][617]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.02.04-22.05.38:206][617]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.02.04-22.05.38:206][617]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.02.04-22.05.38:206][617]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.02.04-22.05.38:206][617]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.02.04-22.05.38:206][617]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.02.04-22.05.38:210][617]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.02.04-22.05.38:210][617]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.02.04-22.05.38:210][617]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.02.04-22.05.38:210][617]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.02.04-22.05.38:225][617]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.02.04-22.05.38:233][617]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.02.04-22.05.38:238][617]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.02.04-22.05.38:251][617]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.02.04-22.05.38:251][617]LogModuleManager: Shutting down and abandoning module ChaosCloth (112)
+[2023.02.04-22.05.38:272][617]LogModuleManager: Shutting down and abandoning module AISupportModule (110)
+[2023.02.04-22.05.38:272][617]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2023.02.04-22.05.38:288][617]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2023.02.04-22.05.38:289][617]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2023.02.04-22.05.38:289][617]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.02.04-22.05.38:325][617]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.02.04-22.05.38:341][617]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.02.04-22.05.38:463][617]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.02.04-22.05.38:484][617]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 2 outstanding Http Requests:
+[2023.02.04-22.05.38:484][617]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C597976-4555-FAF0-A758-028EDAE7F464%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=7c44b8d343a4f6f30f5d8ca71a988cd0%7Cedce5e26033e4b3a87ccbd7c7b97c535%7Cad4f2fb4-4b6d-4838-b46b-d816bf83ea99&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.04-22.05.38:484][617]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C597976-4555-FAF0-A758-028EDAE7F464%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=7c44b8d343a4f6f30f5d8ca71a988cd0%7Cedce5e26033e4b3a87ccbd7c7b97c535%7Cad4f2fb4-4b6d-4838-b46b-d816bf83ea99&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.04-22.05.38:543][617]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.02.04-22.05.38:550][617]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2023.02.04-22.05.38:569][617]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2023.02.04-22.05.38:576][617]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2023.02.04-22.05.38:637][617]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2023.02.04-22.05.38:637][617]LogModuleManager: Shutting down and abandoning module VariantManagerContent (80)
+[2023.02.04-22.05.38:637][617]LogModuleManager: Shutting down and abandoning module GLTFExporter (78)
+[2023.02.04-22.05.38:690][617]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2023.02.04-22.05.38:691][617]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (74)
+[2023.02.04-22.05.38:691][617]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (72)
+[2023.02.04-22.05.38:691][617]LogModuleManager: Shutting down and abandoning module ChunkDownloader (70)
+[2023.02.04-22.05.38:721][617]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2023.02.04-22.05.38:721][617]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2023.02.04-22.05.38:721][617]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2023.02.04-22.05.38:750][617]LogModuleManager: Shutting down and abandoning module Media (63)
+[2023.02.04-22.05.38:754][617]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (60)
+[2023.02.04-22.05.38:773][617]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.02.04-22.05.38:774][617]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.02.04-22.05.38:774][617]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.02.04-22.05.38:782][617]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.02.04-22.05.38:782][617]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.02.04-22.05.38:782][617]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.02.04-22.05.38:824][617]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.02.04-22.05.38:886][617]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.02.04-22.05.38:896][617]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.02.04-22.05.38:909][617]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.02.04-22.05.38:922][617]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.02.04-22.05.38:994][617]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.02.04-22.05.38:994][617]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.02.04-22.05.38:994][617]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.02.04-22.05.38:994][617]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.02.04-22.05.39:006][617]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.02.04-22.05.39:006][617]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.02.04-22.05.39:006][617]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.02.04-22.05.39:071][617]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.02.04-22.05.39:071][617]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.02.04-22.05.39:080][617]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.02.04-22.05.39:091][617]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.02.04-22.05.39:091][617]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.02.04-22.05.39:096][617]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.02.04-22.05.39:097][617]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.02.04-22.05.39:097][617]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.02.04-22.05.39:142][617]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.02.04-22.05.39:142][617]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.02.04-22.05.39:151][617]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.02.04-22.05.39:843][617]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.02.04-22.05.40:045][617]LogExit: Exiting.
+[2023.02.04-22.05.40:078][617]Log file closed, 02/04/23 14:05:40
