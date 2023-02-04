@@ -4903,3 +4903,1657 @@ Script Stack (0 frames) :
 [2023.02.04-20.14.43:617][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
 [2023.02.04-20.14.43:655][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
 [2023.02.04-20.14.43:691][111]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.02.04-20.15.21:649][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.02.04-20.15.21:652][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-20.15.21:659][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SamTestScene_Auto7
+[2023.02.04-20.15.21:659][ 18]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene_Auto70F15ED384AE2247F5C2A519D600F3D7C.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto7.umap'
+[2023.02.04-20.15.21:667][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.083
+[2023.02.04-20.15.21:667][ 18]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2023.02.04-20.15.21:667][ 18]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-20.15.21:711][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-20.15.21:711][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-20.15.21:711][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-20.15.21:752][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto7
+[2023.02.04-20.15.21:752][ 18]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto7C52837D24D43D5E0FAC0179C3F875CCD.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto7.uasset'
+[2023.02.04-20.15.21:753][ 18]LogFileHelpers: Auto-saving content packages took 0.086
+[2023.02.04-20.32.12:299][607]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-20.32.12:318][607]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-20.32.12:326][608]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-20.32.16:588][863]LogContentBrowser: Attempting asset rename: NewFolder -> UIAssets
+[2023.02.04-20.32.16:589][863]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-20.32.23:592][202]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-20.32.23:592][202]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-20.32.23:592][202]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-20.32.41:540][202]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.02.04-20.32.41:553][202]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.04-20.32.41:558][202]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.04-20.32.42:285][203]LogAutomationController: Ignoring very large delta of 18.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.04-20.32.42:309][204]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.02.04-20.32.48:820][587]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PlayerHeathBar
+[2023.02.04-20.32.48:995][587]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.04-20.32.49:731][629]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar
+[2023.02.04-20.32.49:731][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.32.49:737][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.32.49:841][629]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.02.04-20.32.50:672][629]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-20.32.50:672][629]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-20.32.51:832][629]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.02.04-20.32.51:873][629]LogSlate: Took 0.025650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.04-20.32.51:960][630]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.04-20.37.49:895][740]LogInterchangeEngine: [Pending] Importing
+[2023.02.04-20.37.49:897][740]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.04-20.37.49:943][741]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.04-20.37.50:347][742]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.04-20.37.50:347][742]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.02.04-20.37.50:536][742]LogTexture: Display: Building textures: /Game/UIAssets/Player_Health_Bar.Player_Health_Bar (BGRA8, 960x537 x1x1x1) (Required Memory Estimate: 15.139404 MB), EncodeSpeed: Fast
+[2023.02.04-20.37.50:537][742]LogTexture: Display: Building textures: /Game/UIAssets/Health_Bar_Outline.Health_Bar_Outline (BGRA8, 960x537 x1x1x1) (Required Memory Estimate: 15.139404 MB), EncodeSpeed: Fast
+[2023.02.04-20.37.50:596][742]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.02.04-20.37.50:669][742]LogInterchangeEngine: [Success] Import Done
+[2023.02.04-20.37.50:788][743]LogInterchangeEngine: [Success] Import Done
+[2023.02.04-20.40.38:967][  5]LogEditorTransaction: Undo Resize Widget
+[2023.02.04-20.41.16:663][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-20.41.16:747][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset" SILENT=true
+[2023.02.04-20.41.17:050][ 28]LogSavePackage: Moving output files for package: /Game/UIAssets/PlayerHeathBar
+[2023.02.04-20.41.17:050][ 28]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar7FFE5609411C54DCC38612BC30948C85.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset'
+[2023.02.04-20.41.17:063][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 400 ms (total: 4.55 sec)
+[2023.02.04-20.41.17:083][ 28]AssetCheck: New page: Asset Save: PlayerHeathBar
+[2023.02.04-20.41.17:083][ 28]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar
+[2023.02.04-20.41.45:441][ 72]LogEditorTransaction: Undo Resize Widget
+[2023.02.04-20.42.04:569][966]LogEditorTransaction: Undo Move Anchor
+[2023.02.04-20.42.08:231][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-20.42.08:324][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset" SILENT=true
+[2023.02.04-20.42.08:327][161]LogSavePackage: Moving output files for package: /Game/UIAssets/PlayerHeathBar
+[2023.02.04-20.42.08:327][161]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBarC6D3B2FA44A209BD394B62A70B521E7D.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset'
+[2023.02.04-20.42.08:336][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.65 sec)
+[2023.02.04-20.42.08:347][161]AssetCheck: New page: Asset Save: PlayerHeathBar
+[2023.02.04-20.42.08:347][161]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar
+[2023.02.04-20.42.09:122][208]BlueprintLog: New page: Compile PlayerHeathBar
+[2023.02.04-20.42.09:634][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.02.04-20.42.42:635][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.04-20.42.42:638][367]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.095
+[2023.02.04-20.42.42:639][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIAssets/Health_Bar_Outline] ([1] browsable assets)...
+[2023.02.04-20.42.42:640][367]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UIAssets/Health_Bar_Outline.Health_Bar_Outline]
+[2023.02.04-20.42.42:640][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/Health_Bar_Outline]
+[2023.02.04-20.42.42:643][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/Health_Bar_Outline_Auto8
+[2023.02.04-20.42.42:643][367]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Health_Bar_Outline_Auto882FF42374A206E1A4CD4FE99E9FE6622.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/Health_Bar_Outline_Auto8.uasset'
+[2023.02.04-20.42.42:644][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIAssets/Player_Health_Bar] ([1] browsable assets)...
+[2023.02.04-20.42.42:644][367]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UIAssets/Player_Health_Bar.Player_Health_Bar]
+[2023.02.04-20.42.42:646][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/Player_Health_Bar]
+[2023.02.04-20.42.42:759][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/Player_Health_Bar_Auto8
+[2023.02.04-20.42.42:759][367]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Health_Bar_Auto8CBD51CF8420C95675AC1D2A0078847CA.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/Player_Health_Bar_Auto8.uasset'
+[2023.02.04-20.42.42:759][367]LogFileHelpers: Auto-saving content packages took 0.120
+[2023.02.04-20.42.49:102][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.42.49:108][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.42.49:108][629]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 4:42:49 AM)
+[2023.02.04-20.42.49:108][629]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.42.49:110][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2023.02.04-20.42.49:110][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002065s)
+[2023.02.04-20.42.49:110][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.42.49:111][629]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-20.42.49:111][629]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.02.04-20.42.49:188][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.04-20.42.49:190][629]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.42.49:190][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-20.42.49:190][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.42.49:191][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.42.49:191][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.42.49:191][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.42.49:193][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.42.49:246][629]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-20.42.49:246][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.42.49:246][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.42.49:246][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.42.49:246][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.02.04-20.42.49:246][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.02.04-20.42.49:248][629]LogInit: FAudioDevice initialized.
+[2023.02.04-20.42.49:248][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.02.04-20.42.49:248][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.02.04-20.42.49:248][629]LogAudio: Display: Audio Device (ID: 39) registered with world 'SamTestScene'.
+[2023.02.04-20.42.49:251][629]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-20.42.49:251][629]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-12.42.49
+[2023.02.04-20.42.49:251][629]LogWorld: Bringing up level for play took: 0.000665
+[2023.02.04-20.42.49:253][629]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.02.04-20.42.49:254][629]PIE: Server logged in
+[2023.02.04-20.42.49:256][629]PIE: Play in editor total start time 0.148 seconds.
+[2023.02.04-20.43.03:396][471]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-20.43.03:396][471]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-20.43.03:396][471]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-20.43.03:413][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-20.43.03:414][472]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-20.43.03:430][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-20.43.03:431][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-20.43.03:431][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-20.43.03:431][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-20.43.03:431][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-20.43.03:447][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-20.43.03:447][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-20.43.03:447][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-20.43.03:447][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-20.43.03:447][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-20.43.03:464][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-20.43.03:481][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-20.43.03:482][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-20.43.03:482][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-20.43.03:497][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-20.43.03:497][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-20.43.03:497][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-20.43.03:497][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-20.43.03:497][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-20.43.03:498][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-20.43.03:498][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-20.43.42:078][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.43.42:078][785]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.43.42:078][785]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.43.42:080][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.43.42:099][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.43.42:109][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.43.42:187][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.43.42:187][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.02.04-20.43.42:189][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.02.04-20.43.42:219][785]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2023.02.04-20.43.42:294][786]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.02.04-20.44.43:987][474]BlueprintLog: New page: Compile PlayerHeathBar
+[2023.02.04-20.44.44:099][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.04-20.44.44:954][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-20.44.45:054][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset" SILENT=true
+[2023.02.04-20.44.45:057][523]LogSavePackage: Moving output files for package: /Game/UIAssets/PlayerHeathBar
+[2023.02.04-20.44.45:058][523]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBarF828AFDC4BF9B251BE953CA8F8F99B65.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/UIAssets/PlayerHeathBar.uasset'
+[2023.02.04-20.44.45:069][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.77 sec)
+[2023.02.04-20.44.45:082][523]AssetCheck: New page: Asset Save: PlayerHeathBar
+[2023.02.04-20.44.45:082][523]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar
+[2023.02.04-20.48.12:059][261]LogDerivedDataCache: C:/Users/skeel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.154 and deleted 0 files with total size 0 MiB. Scanned 2313 files in 2296 folders with total size 41 MiB.
+[2023.02.04-20.48.54:651][655]LogEditorTransaction: Undo Promote To Variable
+[2023.02.04-20.53.04:065][555]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-20.53.04:065][555]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-20.53.04:065][555]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-20.53.36:072][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-20.53.36:188][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-20.53.36:205][957]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-20.53.36:205][957]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player0FADE30A48E0A566D0B55CA5D52CB040.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-20.53.36:215][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 4.91 sec)
+[2023.02.04-20.53.36:232][957]AssetCheck: New page: Asset Save: Player
+[2023.02.04-20.53.36:232][957]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-20.53.36:747][986]BlueprintLog: New page: Compile Player
+[2023.02.04-20.53.36:884][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.02.04-20.53.37:369][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-20.53.37:484][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-20.53.37:499][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-20.53.37:499][  6]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player53A5E72A47DCDE3DAA0C80903A75979A.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-20.53.37:507][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 5.05 sec)
+[2023.02.04-20.53.37:517][  6]AssetCheck: New page: Asset Save: Player
+[2023.02.04-20.53.37:517][  6]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-20.53.39:694][136]BlueprintLog: New page: Compile PlayerHeathBar
+[2023.02.04-20.53.39:947][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.02.04-20.54.07:615][600]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.54.07:621][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.54.07:621][600]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 4:54:07 AM)
+[2023.02.04-20.54.07:621][600]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.54.07:623][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2023.02.04-20.54.07:623][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002107s)
+[2023.02.04-20.54.07:623][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.54.07:624][600]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-20.54.07:624][600]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2023.02.04-20.54.07:702][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.02.04-20.54.07:705][600]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.54.07:705][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-20.54.07:705][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.54.07:706][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.54.07:706][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.54.07:706][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.54.07:708][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.54.07:760][600]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-20.54.07:760][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.54.07:760][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.54.07:760][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.54.07:761][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.02.04-20.54.07:761][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.02.04-20.54.07:763][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.02.04-20.54.07:763][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.02.04-20.54.07:763][600]LogInit: FAudioDevice initialized.
+[2023.02.04-20.54.07:763][600]LogAudio: Display: Audio Device (ID: 40) registered with world 'SamTestScene'.
+[2023.02.04-20.54.07:765][600]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-20.54.07:766][600]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-12.54.07
+[2023.02.04-20.54.07:766][600]LogWorld: Bringing up level for play took: 0.000674
+[2023.02.04-20.54.07:768][600]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.02.04-20.54.07:895][600]PIE: Server logged in
+[2023.02.04-20.54.07:896][600]PIE: Play in editor total start time 0.277 seconds.
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-20.54.08:902][651]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-20.54.08:909][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-20.54.08:909][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-20.54.08:909][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-20.54.08:909][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-20.54.08:909][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-20.54.08:910][652]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-20.54.08:926][653]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-20.54.08:926][653]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-20.54.08:927][653]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-20.54.08:943][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-20.54.08:943][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-20.54.08:943][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-20.54.08:943][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-20.54.08:943][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-20.54.08:944][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-20.54.08:944][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-20.54.08:944][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-20.54.08:944][654]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-20.54.08:960][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-20.54.08:960][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-20.54.08:960][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-20.54.08:960][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-20.54.08:960][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-20.54.08:960][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-20.54.08:961][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-20.54.08:961][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-20.54.08:961][655]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-20.54.08:977][656]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-20.54.08:977][656]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-20.54.08:977][656]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.4
+[2023.02.04-20.54.08:977][656]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.3
+[2023.02.04-20.54.08:977][656]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.2
+[2023.02.04-20.54.09:520][688]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.1
+[2023.02.04-20.54.09:520][688]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-20.54.09:520][688]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.9
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.8
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.7
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.6
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.5
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.4
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.3
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.2
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.1
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-20.54.09:536][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.9
+[2023.02.04-20.54.09:537][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.8
+[2023.02.04-20.54.09:537][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.7
+[2023.02.04-20.54.09:537][689]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.6
+[2023.02.04-20.54.09:553][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.5
+[2023.02.04-20.54.09:553][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.4
+[2023.02.04-20.54.09:553][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.3
+[2023.02.04-20.54.09:553][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.2
+[2023.02.04-20.54.09:554][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.1
+[2023.02.04-20.54.09:554][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-20.54.09:554][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.9
+[2023.02.04-20.54.09:554][690]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.8
+[2023.02.04-20.54.09:569][691]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.7
+[2023.02.04-20.54.09:569][691]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.6
+[2023.02.04-20.54.09:569][691]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.5
+[2023.02.04-20.54.09:569][691]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.4
+[2023.02.04-20.54.09:569][691]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.3
+[2023.02.04-20.54.09:570][691]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.2
+[2023.02.04-20.54.09:586][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.1
+[2023.02.04-20.54.09:586][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-20.54.09:586][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.9
+[2023.02.04-20.54.09:586][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.8
+[2023.02.04-20.54.09:586][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.7
+[2023.02.04-20.54.09:587][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.6
+[2023.02.04-20.54.09:587][692]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.5
+[2023.02.04-20.54.09:603][693]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.4
+[2023.02.04-20.54.09:603][693]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.3
+[2023.02.04-20.54.09:603][693]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.2
+[2023.02.04-20.54.09:604][693]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.1
+[2023.02.04-20.54.09:604][693]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.9
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.8
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.7
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.6
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.5
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.4
+[2023.02.04-20.54.09:620][694]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.3
+[2023.02.04-20.54.10:241][731]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.2
+[2023.02.04-20.54.10:241][731]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.1
+[2023.02.04-20.54.10:241][731]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.0
+[2023.02.04-20.54.10:241][731]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.1
+[2023.02.04-20.54.11:398][799]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=700.00 Y=0.00 Z=0.00 Location: X=-134.05 Y=-10.21 Z=89.65 Normal: X=-0.02 Y=0.87 Z=-0.49 PenetrationDepth:19.126 Actor:BP_Bullet_C_277 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-20.54.12:585][869]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=21.71 Y=-699.66 Z=0.00 Location: X=379.17 Y=-457.59 Z=87.72 Normal: X=-0.51 Y=0.83 Z=-0.23 PenetrationDepth:1.062 Actor:BP_Bullet_C_549 Component:Sphere BoneName:None (1 other events since notify)
+[2023.02.04-20.54.13:742][938]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=34.12 Y=0.97 Z=0.00 Location: X=387.67 Y=-762.62 Z=89.65 Normal: X=0.10 Y=-0.99 Z=-0.02 PenetrationDepth:4.254 Actor:BP_Bullet_C_695 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-20.54.14:793][  0]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=34.15 Y=-111.19 Z=0.00 Location: X=898.98 Y=-742.54 Z=89.65 Normal: X=-0.84 Y=0.54 Z=-0.00 PenetrationDepth:11.787 Actor:BP_Bullet_C_859 Component:Sphere BoneName:None (2 other events since notify)
+[2023.02.04-20.54.15:857][ 60]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-699.68 Y=-21.13 Z=0.00 Location: X=512.66 Y=-1076.57 Z=89.65 Normal: X=-0.33 Y=0.94 Z=0.00 PenetrationDepth:2.823 Actor:BP_Bullet_C_1217 Component:Sphere BoneName:None (2 other events since notify)
+[2023.02.04-20.54.19:575][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.54.19:575][244]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.54.19:578][244]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.54.19:586][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.54.19:602][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.54.19:612][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.54.19:694][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.54.19:695][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.02.04-20.54.19:696][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.02.04-20.54.19:734][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.02.04-20.54.19:802][245]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.02.04-20.54.20:699][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-20.54.20:775][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.54.20:854][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.02.04-20.54.20:863][297]LogSavePackage: Moving output files for package: /Game/SamTestScene
+[2023.02.04-20.54.20:863][297]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene70695B7E4F784062181088BF61BCC78A.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap'
+[2023.02.04-20.54.20:894][297]LogFileHelpers: Saving map 'SamTestScene' took 0.118
+[2023.02.04-20.54.20:902][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 5.25 sec)
+[2023.02.04-20.54.20:914][297]AssetCheck: New page: Asset Save: SamTestScene
+[2023.02.04-20.54.20:914][297]LogContentValidation: Display: Validating /Script/Engine.World /Game/SamTestScene.SamTestScene
+[2023.02.04-20.59.42:256][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.59.42:263][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.59.42:263][491]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 4:59:42 AM)
+[2023.02.04-20.59.42:263][491]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.59.42:266][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002511s)
+[2023.02.04-20.59.42:266][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002557s)
+[2023.02.04-20.59.42:266][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.59.42:267][491]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-20.59.42:267][491]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2023.02.04-20.59.42:360][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.02.04-20.59.42:362][491]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.59.42:362][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-20.59.42:362][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.59.42:363][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.59.42:363][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.59.42:363][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.59.42:365][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.59.42:419][491]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-20.59.42:420][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.59.42:420][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.59.42:420][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.59.42:421][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.02.04-20.59.42:421][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.02.04-20.59.42:423][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.02.04-20.59.42:423][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.02.04-20.59.42:423][491]LogInit: FAudioDevice initialized.
+[2023.02.04-20.59.42:423][491]LogAudio: Display: Audio Device (ID: 41) registered with world 'SamTestScene'.
+[2023.02.04-20.59.42:425][491]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-20.59.42:426][491]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-12.59.42
+[2023.02.04-20.59.42:426][491]LogWorld: Bringing up level for play took: 0.000596
+[2023.02.04-20.59.42:428][491]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.02.04-20.59.42:431][491]PIE: Server logged in
+[2023.02.04-20.59.42:432][491]PIE: Play in editor total start time 0.169 seconds.
+[2023.02.04-20.59.44:644][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.59.44:644][615]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.59.44:645][615]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.59.44:645][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.59.44:658][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.59.44:671][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.59.44:754][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.59.44:754][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.02.04-20.59.44:755][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.02.04-20.59.44:791][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.59.44:795][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.02.04-20.59.44:866][616]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.02.04-20.59.45:446][649]Cmd: SELECT NONE
+[2023.02.04-20.59.46:411][706]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.59.46:417][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.59.46:417][706]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 4:59:46 AM)
+[2023.02.04-20.59.46:417][706]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.59.46:420][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002063s)
+[2023.02.04-20.59.46:420][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002115s)
+[2023.02.04-20.59.46:420][706]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.59.46:420][706]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-20.59.46:420][706]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2023.02.04-20.59.46:500][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.04-20.59.46:503][706]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.59.46:503][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-20.59.46:503][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.59.46:503][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.59.46:503][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.59.46:503][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.59.46:505][706]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.59.46:560][706]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-20.59.46:560][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.59.46:560][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.59.46:560][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.59.46:561][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.02.04-20.59.46:561][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.02.04-20.59.46:563][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.02.04-20.59.46:563][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.02.04-20.59.46:563][706]LogInit: FAudioDevice initialized.
+[2023.02.04-20.59.46:563][706]LogAudio: Display: Audio Device (ID: 42) registered with world 'SamTestScene'.
+[2023.02.04-20.59.46:566][706]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-20.59.46:566][706]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-12.59.46
+[2023.02.04-20.59.46:567][706]LogWorld: Bringing up level for play took: 0.000595
+[2023.02.04-20.59.46:569][706]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.02.04-20.59.46:571][706]PIE: Server logged in
+[2023.02.04-20.59.46:572][706]PIE: Play in editor total start time 0.156 seconds.
+[2023.02.04-20.59.47:474][753]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-84.28 Y=467.98 Z=0.00 Location: X=134.80 Y=-1034.54 Z=89.65 Normal: X=-0.97 Y=-0.25 Z=-0.00 PenetrationDepth:2.363 Actor:BP_Bullet_C_76 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-20.59.48:640][822]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=122.68 Y=-689.17 Z=0.00 Location: X=-190.73 Y=-1145.93 Z=89.65 Normal: X=-0.87 Y=0.50 Z=-0.00 PenetrationDepth:8.435 Actor:BP_Bullet_C_133 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-20.59.49:690][884]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=457.26 Y=530.01 Z=0.00 Location: X=382.45 Y=-1157.22 Z=89.65 Normal: X=-0.83 Y=0.55 Z=0.00 PenetrationDepth:7.809 Actor:BP_Bullet_C_306 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-20.59.51:288][976]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=538.46 Y=-447.28 Z=0.00 Location: X=411.45 Y=-994.12 Z=89.65 Normal: X=-0.85 Y=0.52 Z=0.00 PenetrationDepth:14.967 Actor:BP_Bullet_C_694 Component:Sphere BoneName:None (3 other events since notify)
+[2023.02.04-20.59.52:351][ 35]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=539.10 Y=-446.52 Z=0.00 Location: X=990.30 Y=-1459.09 Z=89.65 Normal: X=-0.69 Y=-0.72 Z=0.00 PenetrationDepth:34.788 Actor:BP_Bullet_C_885 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-20.59.53:864][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.59.53:865][106]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-20.59.53:867][106]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.59.53:876][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.59.53:885][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.59.53:895][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.59.53:977][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.59.53:977][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.02.04-20.59.53:979][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.02.04-20.59.54:039][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.02.04-20.59.54:097][107]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.02.04-21.05.04:320][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.05.04:432][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.05.04:455][495]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.05.04:455][495]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player18FF172949BD2FBC9615ECB8E2919783.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.05.04:464][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 5.39 sec)
+[2023.02.04-21.05.04:481][495]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.05.04:481][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.05.06:007][578]BlueprintLog: New page: Compile Player
+[2023.02.04-21.05.06:140][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.02.04-21.09.08:202][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.02.04-21.09.08:205][873]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.090
+[2023.02.04-21.09.08:206][873]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-21.09.08:235][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-21.09.08:235][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-21.09.08:235][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.09.08:253][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto9
+[2023.02.04-21.09.08:253][873]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto984A9843E40EF7F8EDC8D62AABA0E66C1.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto9.uasset'
+[2023.02.04-21.09.08:254][873]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIAssets/PlayerHeathBar] ([2] browsable assets)...
+[2023.02.04-21.09.08:257][873]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar]
+[2023.02.04-21.09.08:257][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/PlayerHeathBar]
+[2023.02.04-21.09.08:257][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.09.08:263][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/PlayerHeathBar_Auto9
+[2023.02.04-21.09.08:263][873]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar_Auto91C2FCD2F48B19AF9211319988AA4BE77.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto9.uasset'
+[2023.02.04-21.09.08:264][873]LogFileHelpers: Auto-saving content packages took 0.059
+[2023.02.04-21.09.16:523][333]LogEditorTransaction: Undo Rename Variable
+[2023.02.04-21.11.08:457][952]BlueprintLog: New page: Compile Player
+[2023.02.04-21.11.08:588][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.04-21.12.01:664][358]Cmd: TRANSACTION UNDO
+[2023.02.04-21.12.01:664][358]LogEditorTransaction: Undo Add Variable
+[2023.02.04-21.12.14:069][ 74]BlueprintLog: New page: Compile Player
+[2023.02.04-21.12.14:195][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.02.04-21.15.46:281][856]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-21.15.46:282][856]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-21.15.46:282][856]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-21.19.11:962][446]BlueprintLog: New page: Compile Player
+[2023.02.04-21.19.12:116][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.02.04-21.19.12:534][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.19.12:649][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.19.12:666][460]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.19.12:667][460]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerF793627F49C2A310A8A44D95BF2E6C9C.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.19.12:676][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 5.54 sec)
+[2023.02.04-21.19.12:690][460]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.19.12:690][460]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.19.14:588][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.19.14:663][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.19.14:679][571]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.19.14:680][571]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerDC29C9A846A3B63CBDDDC3B511A41A6F.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.19.14:689][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 5.64 sec)
+[2023.02.04-21.19.14:701][571]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.19.14:701][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.20.19:098][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.02.04-21.20.19:101][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.104
+[2023.02.04-21.20.19:101][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-21.20.19:128][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-21.20.19:128][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-21.20.19:128][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.20.19:148][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto0
+[2023.02.04-21.20.19:149][657]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto08105B0BD4E57AF07ADAE1ABFA11091B7.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto0.uasset'
+[2023.02.04-21.20.19:149][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIAssets/PlayerHeathBar] ([2] browsable assets)...
+[2023.02.04-21.20.19:153][657]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar]
+[2023.02.04-21.20.19:153][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/PlayerHeathBar]
+[2023.02.04-21.20.19:153][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.20.19:161][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/PlayerHeathBar_Auto0
+[2023.02.04-21.20.19:161][657]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar_Auto032A9A92148BB0F05FA2F7CB0B7EA022C.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto0.uasset'
+[2023.02.04-21.20.19:161][657]LogFileHelpers: Auto-saving content packages took 0.060
+[2023.02.04-21.20.36:017][824]BlueprintLog: New page: Compile Player
+[2023.02.04-21.20.36:141][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.04-21.20.46:512][375]LogViewport: Scene viewport resized to 1268x639, mode Windowed.
+[2023.02.04-21.21.04:178][391]LogContentBrowser: Deferred new asset file creation: DestroyableObj1
+[2023.02.04-21.21.04:197][391]LogContentBrowser: Creating deferred item: DestroyableObj1
+[2023.02.04-21.21.04:207][392]LogContentBrowser: Renaming the item being created (Deferred Item: DestroyableObj1).
+[2023.02.04-21.21.08:601][656]LogContentBrowser: Attempting asset rename: DestroyableObj1 -> DamageBox
+[2023.02.04-21.21.08:857][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.04-21.21.08:921][656]LogContentBrowser: End creating deferred item DestroyableObj1
+[2023.02.04-21.21.10:042][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DamageBox.DamageBox
+[2023.02.04-21.21.10:042][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.21.15:867][978]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.21.15:983][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.02.04-21.21.17:193][ 44]LogViewport: Scene viewport resized to 1268x641, mode Windowed.
+[2023.02.04-21.24.41:368][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.24.41:473][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DamageBox" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset" SILENT=true
+[2023.02.04-21.24.41:478][342]LogSavePackage: Moving output files for package: /Game/Blueprints/DamageBox
+[2023.02.04-21.24.41:478][342]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DamageBox44D45FBF46E78A4ED2CC23AE15FFA2A8.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset'
+[2023.02.04-21.24.41:488][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 5.76 sec)
+[2023.02.04-21.24.41:500][342]AssetCheck: New page: Asset Save: DamageBox
+[2023.02.04-21.24.41:500][342]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DamageBox.DamageBox
+[2023.02.04-21.24.42:779][416]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.24.42:904][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.02.04-21.27.00:437][305]LogInterchangeEngine: [Pending] Importing
+[2023.02.04-21.27.00:437][305]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.04-21.27.00:454][306]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.02.04-21.27.00:456][306]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.02.04-21.27.00:473][306]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.04-21.27.00:774][306]LogTexture: Display: Building textures: /Game/UIAssets/Root_Health_Bar.Root_Health_Bar (BGRA8, 960x537 x1x1x1) (Required Memory Estimate: 15.139404 MB), EncodeSpeed: Fast
+[2023.02.04-21.27.00:776][306]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.02.04-21.27.00:777][306]LogTexture: Display: Building textures: /Game/UIAssets/Enemy_Health_Bar.Enemy_Health_Bar (BGRA8, 960x537 x1x1x1) (Required Memory Estimate: 15.139404 MB), EncodeSpeed: Fast
+[2023.02.04-21.27.00:802][306]LogInterchangeEngine: [Success] Import Done
+[2023.02.04-21.27.00:861][307]LogInterchangeEngine: [Success] Import Done
+[2023.02.04-21.27.58:459][550]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.27.58:588][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.02.04-21.27.59:609][609]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.27.59:635][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.27.59:635][609]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:27:59 AM)
+[2023.02.04-21.27.59:637][609]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.27.59:639][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2023.02.04-21.27.59:639][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001997s)
+[2023.02.04-21.27.59:639][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.27.59:639][609]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.27.59:639][609]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2023.02.04-21.27.59:733][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.02.04-21.27.59:735][609]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.27.59:735][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.27.59:735][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.27.59:735][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.27.59:735][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.27.59:735][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.27.59:739][609]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.27.59:799][609]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.27.59:800][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.27.59:800][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.27.59:800][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.27.59:801][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.02.04-21.27.59:801][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.02.04-21.27.59:803][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.02.04-21.27.59:803][609]LogInit: FAudioDevice initialized.
+[2023.02.04-21.27.59:803][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.02.04-21.27.59:803][609]LogAudio: Display: Audio Device (ID: 43) registered with world 'SamTestScene'.
+[2023.02.04-21.27.59:852][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.27.59:852][609]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.27.59:853][609]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.27.59
+[2023.02.04-21.27.59:853][609]LogWorld: Bringing up level for play took: 0.000766
+[2023.02.04-21.27.59:855][609]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.02.04-21.27.59:856][609]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-21.27.59:863][609]PIE: Server logged in
+[2023.02.04-21.27.59:864][609]PIE: Play in editor total start time 0.227 seconds.
+[2023.02.04-21.27.59:871][609]LogViewport: Scene viewport resized to 1371x970, mode Windowed.
+[2023.02.04-21.28.01:284][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-21.28.01:284][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-21.28.01:285][644]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-21.28.01:292][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-21.28.01:293][645]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-21.28.01:307][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-21.28.01:309][646]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-21.28.01:325][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-21.28.01:325][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-21.28.01:325][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-21.28.01:327][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-21.28.01:327][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-21.28.01:327][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-21.28.01:327][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-21.28.01:327][647]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-21.28.01:341][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-21.28.01:342][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-21.28.01:342][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-21.28.01:342][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-21.28.01:342][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-21.28.01:342][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-21.28.01:343][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-21.28.01:343][648]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-21.28.01:359][649]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-21.28.01:359][649]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-21.28.01:360][649]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.4
+[2023.02.04-21.28.01:360][649]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.3
+[2023.02.04-21.28.01:360][649]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.2
+[2023.02.04-21.28.01:360][649]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.1
+[2023.02.04-21.28.03:029][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.28.03:029][747]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.28.03:032][747]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-21.28.03:042][747]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.28.03:042][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.28.03:057][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.28.03:071][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.28.03:170][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.02.04-21.28.03:171][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.02.04-21.28.03:197][747]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.02.04-21.28.03:219][748]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.02.04-21.28.09:427][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DamageBox.DamageBox_C
+[2023.02.04-21.28.09:427][105]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DamageBox.DamageBox_C
+[2023.02.04-21.28.09:428][105]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DamageBox.DamageBox as actor: DamageBox_C /Game/SamTestScene.SamTestScene:PersistentLevel.DamageBox_C_0
+[2023.02.04-21.28.09:430][105]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DamageBox.DamageBox as actor: DamageBox_C /Game/SamTestScene.SamTestScene:PersistentLevel.DamageBox_C_0
+[2023.02.04-21.28.10:241][152]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DamageBox.DamageBox_C
+[2023.02.04-21.28.10:241][152]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/DamageBox.DamageBox_C
+[2023.02.04-21.28.10:243][152]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DamageBox.DamageBox as actor: DamageBox_C /Game/SamTestScene.SamTestScene:PersistentLevel.DamageBox_C_1
+[2023.02.04-21.28.10:245][152]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/DamageBox.DamageBox as actor: DamageBox_C /Game/SamTestScene.SamTestScene:PersistentLevel.DamageBox_C_1
+[2023.02.04-21.28.22:700][876]Cmd: TRANSACTION UNDO
+[2023.02.04-21.28.22:700][876]LogEditorTransaction: Undo Scale Elements
+[2023.02.04-21.28.27:819][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.28.27:829][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.28.27:829][160]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:28:27 AM)
+[2023.02.04-21.28.27:830][160]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.28.27:831][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001902s)
+[2023.02.04-21.28.27:831][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001938s)
+[2023.02.04-21.28.27:832][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.28.27:832][160]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.28.27:832][160]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.02.04-21.28.27:919][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.02.04-21.28.27:921][160]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.28.27:921][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.28.27:921][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.28.27:922][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.28.27:922][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.28.27:922][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.28.27:924][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.28.27:978][160]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.28.27:978][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.28.27:978][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.28.27:978][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.28.27:980][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.02.04-21.28.27:980][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.02.04-21.28.27:981][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.02.04-21.28.27:981][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.02.04-21.28.27:981][160]LogInit: FAudioDevice initialized.
+[2023.02.04-21.28.27:981][160]LogAudio: Display: Audio Device (ID: 44) registered with world 'SamTestScene'.
+[2023.02.04-21.28.27:984][160]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.28.27:985][160]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.28.27
+[2023.02.04-21.28.27:985][160]LogWorld: Bringing up level for play took: 0.000672
+[2023.02.04-21.28.27:987][160]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.02.04-21.28.27:990][160]PIE: Server logged in
+[2023.02.04-21.28.27:991][160]PIE: Play in editor total start time 0.165 seconds.
+[2023.02.04-21.28.40:358][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.28.40:358][877]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.28.40:359][877]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.28.40:359][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.28.40:367][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.28.40:378][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.28.40:464][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.28.40:464][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.02.04-21.28.40:465][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.02.04-21.28.40:504][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.28.40:513][877]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2023.02.04-21.28.40:590][878]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.02.04-21.29.01:928][839]LogViewport: Scene viewport resized to 1268x639, mode Windowed.
+[2023.02.04-21.29.22:091][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.29.22:181][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DamageBox" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset" SILENT=true
+[2023.02.04-21.29.22:185][ 20]LogSavePackage: Moving output files for package: /Game/Blueprints/DamageBox
+[2023.02.04-21.29.22:185][ 20]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DamageBoxAE0C00534528D04EDDA8DABAA6378D3E.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset'
+[2023.02.04-21.29.22:195][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.86 sec)
+[2023.02.04-21.29.22:206][ 20]AssetCheck: New page: Asset Save: DamageBox
+[2023.02.04-21.29.22:207][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DamageBox.DamageBox
+[2023.02.04-21.30.35:673][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.04-21.30.35:675][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-21.30.35:681][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SamTestScene_Auto1
+[2023.02.04-21.30.35:681][482]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene_Auto186E85D4C464F20DD761735AEE1D87A95.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto1.umap'
+[2023.02.04-21.30.35:688][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.106
+[2023.02.04-21.30.35:688][482]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2023.02.04-21.30.35:689][482]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIAssets/PlayerHeathBar] ([2] browsable assets)...
+[2023.02.04-21.30.35:693][482]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar]
+[2023.02.04-21.30.35:693][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/PlayerHeathBar]
+[2023.02.04-21.30.35:693][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.30.35:698][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/PlayerHeathBar_Auto1
+[2023.02.04-21.30.35:698][482]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar_Auto1AC16BB0D49057908D0F9D59349E87BD3.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto1.uasset'
+[2023.02.04-21.30.35:993][482]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIAssets/Root_Health_Bar] ([1] browsable assets)...
+[2023.02.04-21.30.35:997][482]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UIAssets/Root_Health_Bar.Root_Health_Bar]
+[2023.02.04-21.30.35:997][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/Root_Health_Bar]
+[2023.02.04-21.30.36:204][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/Root_Health_Bar_Auto1
+[2023.02.04-21.30.36:204][482]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Root_Health_Bar_Auto1F0F7F4BB4A6D2A9BCA2CF9BD8F4F1851.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/Root_Health_Bar_Auto1.uasset'
+[2023.02.04-21.30.36:207][482]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIAssets/Enemy_Health_Bar] ([1] browsable assets)...
+[2023.02.04-21.30.36:211][482]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UIAssets/Enemy_Health_Bar.Enemy_Health_Bar]
+[2023.02.04-21.30.36:211][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/Enemy_Health_Bar]
+[2023.02.04-21.30.36:217][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/Enemy_Health_Bar_Auto1
+[2023.02.04-21.30.36:217][482]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Enemy_Health_Bar_Auto135D26C5E4D5E96E5068779A72AEB9B8C.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/Enemy_Health_Bar_Auto1.uasset'
+[2023.02.04-21.30.36:218][482]LogFileHelpers: Auto-saving content packages took 0.529
+[2023.02.04-21.31.59:709][  8]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.31.59:715][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.31.59:715][  8]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:31:59 AM)
+[2023.02.04-21.31.59:747][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.31.59:750][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003287s)
+[2023.02.04-21.31.59:750][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003342s)
+[2023.02.04-21.31.59:750][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.31.59:751][  8]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.31.59:751][  8]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2023.02.04-21.31.59:843][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.02.04-21.31.59:844][  8]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.31.59:845][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.31.59:845][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.31.59:845][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.31.59:845][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.31.59:845][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.31.59:848][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.31.59:900][  8]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.31.59:900][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.31.59:900][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.31.59:900][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.31.59:902][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.02.04-21.31.59:902][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.02.04-21.31.59:903][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.02.04-21.31.59:903][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.02.04-21.31.59:903][  8]LogInit: FAudioDevice initialized.
+[2023.02.04-21.31.59:903][  8]LogAudio: Display: Audio Device (ID: 45) registered with world 'SamTestScene'.
+[2023.02.04-21.31.59:906][  8]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.31.59:907][  8]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.31.59
+[2023.02.04-21.31.59:907][  8]LogWorld: Bringing up level for play took: 0.001172
+[2023.02.04-21.31.59:910][  8]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.02.04-21.31.59:914][  8]PIE: Server logged in
+[2023.02.04-21.31.59:914][  8]PIE: Play in editor total start time 0.199 seconds.
+[2023.02.04-21.32.03:788][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.32.03:788][225]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.32.03:788][225]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.32.03:789][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.32.03:806][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.32.03:817][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.32.03:902][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.32.03:903][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.02.04-21.32.03:904][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.02.04-21.32.03:928][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.32.03:937][225]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2023.02.04-21.32.03:998][226]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.02.04-21.32.05:205][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.32.05:210][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.32.05:210][297]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:32:05 AM)
+[2023.02.04-21.32.05:210][297]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.32.05:213][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001938s)
+[2023.02.04-21.32.05:213][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001971s)
+[2023.02.04-21.32.05:213][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.32.05:213][297]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.32.05:213][297]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2023.02.04-21.32.05:301][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.02.04-21.32.05:303][297]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.32.05:303][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.32.05:303][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.32.05:303][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.32.05:303][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.32.05:303][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.32.05:305][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.32.05:358][297]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.32.05:359][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.32.05:359][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.32.05:359][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.32.05:359][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.02.04-21.32.05:359][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.02.04-21.32.05:361][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.02.04-21.32.05:361][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.02.04-21.32.05:361][297]LogInit: FAudioDevice initialized.
+[2023.02.04-21.32.05:361][297]LogAudio: Display: Audio Device (ID: 46) registered with world 'SamTestScene'.
+[2023.02.04-21.32.05:364][297]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.32.05:364][297]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.32.05
+[2023.02.04-21.32.05:364][297]LogWorld: Bringing up level for play took: 0.000656
+[2023.02.04-21.32.05:366][297]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.02.04-21.32.05:369][297]PIE: Server logged in
+[2023.02.04-21.32.05:369][297]PIE: Play in editor total start time 0.16 seconds.
+[2023.02.04-21.32.06:276][342]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-21.32.06:276][342]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-21.32.06:276][342]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-21.32.06:276][342]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-21.32.06:276][342]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-21.32.06:292][343]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-21.32.06:292][343]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-21.32.06:292][343]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-21.32.06:310][344]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-21.32.06:311][344]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-21.32.06:311][344]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-21.32.06:326][345]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-21.32.06:344][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-21.32.06:345][346]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-21.32.06:361][347]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-21.32.06:361][347]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-21.32.06:361][347]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-21.32.06:361][347]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-21.32.06:361][347]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-21.32.06:377][348]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-21.32.06:393][349]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-21.32.06:393][349]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-21.32.06:394][349]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-21.32.06:394][349]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-21.32.06:411][350]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-21.32.08:141][453]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=127.19 Y=-49.61 Z=0.00 Location: X=-574.84 Y=339.72 Z=89.65 Normal: X=0.24 Y=0.97 Z=-0.00 PenetrationDepth:24.758 Actor:BP_Bullet_C_175 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.32.08:465][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-21.32.08:466][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-21.32.08:466][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.4
+[2023.02.04-21.32.08:466][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.3
+[2023.02.04-21.32.08:467][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.2
+[2023.02.04-21.32.08:467][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.1
+[2023.02.04-21.32.08:467][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-21.32.08:467][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.9
+[2023.02.04-21.32.08:467][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.8
+[2023.02.04-21.32.08:467][473]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.7
+[2023.02.04-21.32.08:483][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.6
+[2023.02.04-21.32.08:483][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.5
+[2023.02.04-21.32.08:483][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.4
+[2023.02.04-21.32.08:483][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.3
+[2023.02.04-21.32.08:483][474]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.2
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.1
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.9
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.8
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.7
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.6
+[2023.02.04-21.32.08:500][475]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.5
+[2023.02.04-21.32.08:516][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.4
+[2023.02.04-21.32.08:516][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.3
+[2023.02.04-21.32.08:516][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.2
+[2023.02.04-21.32.08:517][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.1
+[2023.02.04-21.32.08:517][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-21.32.08:517][476]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.9
+[2023.02.04-21.32.08:532][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.8
+[2023.02.04-21.32.08:532][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.7
+[2023.02.04-21.32.08:532][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.6
+[2023.02.04-21.32.08:532][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.5
+[2023.02.04-21.32.08:533][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.4
+[2023.02.04-21.32.08:533][477]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.3
+[2023.02.04-21.32.08:549][478]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.2
+[2023.02.04-21.32.08:549][478]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.1
+[2023.02.04-21.32.08:549][478]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-21.32.08:549][478]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.9
+[2023.02.04-21.32.08:565][479]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.8
+[2023.02.04-21.32.08:565][479]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.7
+[2023.02.04-21.32.08:565][479]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.6
+[2023.02.04-21.32.08:884][498]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.5
+[2023.02.04-21.32.08:886][498]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.4
+[2023.02.04-21.32.08:901][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.3
+[2023.02.04-21.32.08:901][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.2
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.1
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.9
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.8
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.7
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.6
+[2023.02.04-21.32.08:902][499]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.5
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.4
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.3
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.2
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.1
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.0
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.1
+[2023.02.04-21.32.08:919][500]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.2
+[2023.02.04-21.32.09:968][562]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-18.45 Y=-699.76 Z=0.00 Location: X=-268.14 Y=-29.55 Z=89.65 Normal: X=0.84 Y=0.07 Z=-0.54 PenetrationDepth:15.959 Actor:BP_Bullet_C_309 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.32.16:557][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.32.16:557][954]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.32.16:557][954]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.32.16:558][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.32.16:564][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.32.16:575][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.32.16:664][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.32.16:664][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.02.04-21.32.16:666][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.02.04-21.32.16:692][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2023.02.04-21.32.16:756][955]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.02.04-21.33.09:406][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.33.09:520][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.33.09:540][447]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.33.09:541][447]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player6E98F8BB4AC9F26041C756B840BF1A05.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.33.09:549][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 6.00 sec)
+[2023.02.04-21.33.09:565][447]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.33.09:565][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.33.13:085][656]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.33.13:090][656]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.04-21.33.13:096][656]LogPlayLevel: [PlayLevel] Compiling Player before play...
+[2023.02.04-21.33.13:290][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.04-21.33.13:292][656]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2023.02.04-21.33.13:292][656]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:33:13 AM)
+[2023.02.04-21.33.13:292][656]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.33.13:294][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001835s)
+[2023.02.04-21.33.13:294][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001866s)
+[2023.02.04-21.33.13:294][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.33.13:294][656]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.33.13:294][656]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2023.02.04-21.33.13:381][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.04-21.33.13:383][656]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.33.13:383][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.33.13:383][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.33.13:383][656]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.33.13:383][656]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.33.13:383][656]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.33.13:385][656]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.33.13:437][656]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.33.13:438][656]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.33.13:438][656]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.33.13:438][656]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.33.13:439][656]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.02.04-21.33.13:439][656]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.02.04-21.33.13:440][656]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.02.04-21.33.13:440][656]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.02.04-21.33.13:440][656]LogInit: FAudioDevice initialized.
+[2023.02.04-21.33.13:440][656]LogAudio: Display: Audio Device (ID: 47) registered with world 'SamTestScene'.
+[2023.02.04-21.33.13:443][656]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.33.13:444][656]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.33.13
+[2023.02.04-21.33.13:444][656]LogWorld: Bringing up level for play took: 0.000642
+[2023.02.04-21.33.13:446][656]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.02.04-21.33.13:448][656]PIE: Server logged in
+[2023.02.04-21.33.13:449][656]PIE: Play in editor total start time 0.359 seconds.
+[2023.02.04-21.33.14:646][660]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-33.54 Y=-6.31 Z=0.00 Location: X=298.48 Y=-880.05 Z=89.65 Normal: X=-0.25 Y=-0.97 Z=-0.00 PenetrationDepth:19.485 Actor:BP_Bullet_C_8 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.33.21:580][ 74]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-21.33.21:580][ 74]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-21.33.21:580][ 74]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-21.33.21:590][ 75]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-21.33.21:606][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-21.33.21:607][ 76]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-21.33.21:623][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-21.33.21:623][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-21.33.21:623][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-21.33.21:624][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-21.33.21:624][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-21.33.21:624][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-21.33.21:624][ 77]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-21.33.21:640][ 78]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-21.33.21:640][ 78]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-21.33.21:640][ 78]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-21.33.21:640][ 78]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-21.33.21:640][ 78]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-21.33.21:656][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-21.33.21:657][ 79]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-21.33.21:674][ 80]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-21.33.22:559][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-21.33.22:559][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-21.33.22:559][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.4
+[2023.02.04-21.33.22:559][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.3
+[2023.02.04-21.33.22:560][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.2
+[2023.02.04-21.33.22:576][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.1
+[2023.02.04-21.33.22:577][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-21.33.22:577][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.9
+[2023.02.04-21.33.22:577][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.8
+[2023.02.04-21.33.22:577][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.7
+[2023.02.04-21.33.22:592][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.6
+[2023.02.04-21.33.22:592][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.5
+[2023.02.04-21.33.22:592][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.4
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.3
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.2
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.1
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.9
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.8
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.7
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.6
+[2023.02.04-21.33.22:593][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.5
+[2023.02.04-21.33.22:609][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.4
+[2023.02.04-21.33.22:609][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.3
+[2023.02.04-21.33.22:609][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.2
+[2023.02.04-21.33.22:609][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.1
+[2023.02.04-21.33.22:610][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-21.33.22:610][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.9
+[2023.02.04-21.33.22:610][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.8
+[2023.02.04-21.33.22:610][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.7
+[2023.02.04-21.33.22:610][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.6
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.5
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.4
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.3
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.2
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.1
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-21.33.22:626][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.9
+[2023.02.04-21.33.22:642][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.8
+[2023.02.04-21.33.22:642][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.7
+[2023.02.04-21.33.22:642][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.6
+[2023.02.04-21.33.22:642][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.5
+[2023.02.04-21.33.22:643][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.4
+[2023.02.04-21.33.22:643][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.3
+[2023.02.04-21.33.22:643][138]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.2
+[2023.02.04-21.33.22:659][139]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.1
+[2023.02.04-21.33.22:659][139]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-21.33.22:659][139]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.9
+[2023.02.04-21.33.22:659][139]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.8
+[2023.02.04-21.33.22:659][139]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.7
+[2023.02.04-21.33.23:094][165]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.6
+[2023.02.04-21.33.23:094][165]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.5
+[2023.02.04-21.33.23:094][165]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.4
+[2023.02.04-21.33.23:094][165]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.3
+[2023.02.04-21.33.23:094][165]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.2
+[2023.02.04-21.33.23:111][166]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.1
+[2023.02.04-21.33.23:111][166]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.0
+[2023.02.04-21.33.23:111][166]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.1
+[2023.02.04-21.33.23:112][166]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.2
+[2023.02.04-21.33.23:112][166]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.3
+[2023.02.04-21.33.23:112][166]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.4
+[2023.02.04-21.33.23:112][166]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.5
+[2023.02.04-21.33.25:175][289]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=673.76 Y=-189.87 Z=0.00 Location: X=32.45 Y=-560.54 Z=89.65 Normal: X=-0.12 Y=-0.77 Z=-0.62 PenetrationDepth:8.798 Actor:BP_Bullet_C_279 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.33.27:171][408]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=677.39 Y=-176.46 Z=0.00 Location: X=431.95 Y=-641.55 Z=89.65 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:19.708 Actor:BP_Bullet_C_466 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.33.29:357][538]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-107.82 Y=28.23 Z=0.00 Location: X=-121.48 Y=-542.46 Z=89.65 Normal: X=-0.49 Y=-0.87 Z=-0.00 PenetrationDepth:7.136 Actor:BP_Bullet_C_798 Component:Sphere BoneName:None (2 other events since notify)
+[2023.02.04-21.33.30:445][603]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=70.35 Y=-381.00 Z=0.00 Location: X=298.38 Y=-852.03 Z=89.65 Normal: X=0.29 Y=0.20 Z=-0.94 PenetrationDepth:11.818 Actor:BP_Bullet_C_869 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.33.31:067][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.33.31:067][638]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.33.31:069][638]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.33.31:071][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.33.31:090][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.33.31:105][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.33.31:196][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.33.31:196][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.02.04-21.33.31:197][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.02.04-21.33.31:252][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2023.02.04-21.33.31:328][639]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.02.04-21.34.10:259][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.34.10:887][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DamageBox" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset" SILENT=true
+[2023.02.04-21.34.10:892][150]LogSavePackage: Moving output files for package: /Game/Blueprints/DamageBox
+[2023.02.04-21.34.10:892][150]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DamageBox2A317D0B4087393DD36DF3B5F6AB7508.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/DamageBox.uasset'
+[2023.02.04-21.34.10:903][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 643 ms (total: 6.65 sec)
+[2023.02.04-21.34.10:913][150]AssetCheck: New page: Asset Save: DamageBox
+[2023.02.04-21.34.10:913][150]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/DamageBox.DamageBox
+[2023.02.04-21.34.12:149][221]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.34.12:273][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.02.04-21.34.13:403][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.34.13:409][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.34.13:409][283]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:34:13 AM)
+[2023.02.04-21.34.13:409][283]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.34.13:411][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001874s)
+[2023.02.04-21.34.13:411][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001907s)
+[2023.02.04-21.34.13:411][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.34.13:412][283]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.34.13:412][283]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2023.02.04-21.34.13:498][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.02.04-21.34.13:500][283]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.34.13:500][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.34.13:500][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.34.13:501][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.34.13:501][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.34.13:501][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.34.13:770][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.34.13:822][283]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.34.13:822][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.34.13:822][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.34.13:822][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.34.13:824][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.02.04-21.34.13:824][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.02.04-21.34.13:826][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.02.04-21.34.13:826][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.02.04-21.34.13:826][283]LogInit: FAudioDevice initialized.
+[2023.02.04-21.34.13:826][283]LogAudio: Display: Audio Device (ID: 48) registered with world 'SamTestScene'.
+[2023.02.04-21.34.13:883][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.34.13:884][283]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.34.13:885][283]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.34.13
+[2023.02.04-21.34.13:885][283]LogWorld: Bringing up level for play took: 0.001116
+[2023.02.04-21.34.13:887][283]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2023.02.04-21.34.13:888][283]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-21.34.13:893][283]PIE: Server logged in
+[2023.02.04-21.34.13:893][283]PIE: Play in editor total start time 0.484 seconds.
+[2023.02.04-21.34.13:901][283]LogViewport: Scene viewport resized to 1373x970, mode Windowed.
+[2023.02.04-21.34.14:488][296]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-21.34.14:488][296]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-21.34.14:489][296]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-21.34.14:489][296]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-21.34.14:489][296]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-21.34.14:489][296]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-21.34.14:498][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-21.34.14:498][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-21.34.14:498][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-21.34.14:499][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-21.34.14:500][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-21.34.14:500][297]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-21.34.14:515][298]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-21.34.14:515][298]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-21.34.14:515][298]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-21.34.14:515][298]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-21.34.14:531][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-21.34.14:531][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-21.34.14:531][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-21.34.14:532][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-21.34.14:532][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-21.34.14:532][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-21.34.14:532][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-21.34.14:532][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-21.34.14:532][299]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-21.34.14:550][300]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-21.34.14:550][300]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-21.34.14:550][300]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-21.34.14:550][300]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-21.34.14:550][300]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-21.34.14:551][300]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-21.34.14:567][301]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-21.34.14:567][301]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-21.34.14:567][301]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-21.34.14:567][301]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-21.34.14:567][301]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-21.34.16:592][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-21.34.16:592][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.4
+[2023.02.04-21.34.16:593][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.3
+[2023.02.04-21.34.16:593][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.2
+[2023.02.04-21.34.16:593][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.1
+[2023.02.04-21.34.16:593][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-21.34.16:593][421]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.9
+[2023.02.04-21.34.16:609][422]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.8
+[2023.02.04-21.34.16:609][422]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.7
+[2023.02.04-21.34.16:610][422]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.6
+[2023.02.04-21.34.16:610][422]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.5
+[2023.02.04-21.34.16:610][422]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.4
+[2023.02.04-21.34.16:627][423]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.3
+[2023.02.04-21.34.16:627][423]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.2
+[2023.02.04-21.34.16:627][423]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.1
+[2023.02.04-21.34.16:627][423]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-21.34.16:627][423]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.9
+[2023.02.04-21.34.16:627][423]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.8
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.7
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.6
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.5
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.4
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.3
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.2
+[2023.02.04-21.34.16:644][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.1
+[2023.02.04-21.34.16:645][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-21.34.16:645][424]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.9
+[2023.02.04-21.34.16:660][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.8
+[2023.02.04-21.34.16:660][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.7
+[2023.02.04-21.34.16:660][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.6
+[2023.02.04-21.34.16:660][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.5
+[2023.02.04-21.34.16:660][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.4
+[2023.02.04-21.34.16:661][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.3
+[2023.02.04-21.34.16:661][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.2
+[2023.02.04-21.34.16:661][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.1
+[2023.02.04-21.34.16:661][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-21.34.16:661][425]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.9
+[2023.02.04-21.34.16:677][426]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.8
+[2023.02.04-21.34.16:677][426]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.7
+[2023.02.04-21.34.16:678][426]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.6
+[2023.02.04-21.34.16:693][427]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.5
+[2023.02.04-21.34.16:693][427]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.4
+[2023.02.04-21.34.16:693][427]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.3
+[2023.02.04-21.34.17:147][454]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.2
+[2023.02.04-21.34.17:147][454]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.1
+[2023.02.04-21.34.17:147][454]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-21.34.17:164][455]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.9
+[2023.02.04-21.34.17:164][455]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.8
+[2023.02.04-21.34.17:165][455]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.7
+[2023.02.04-21.34.17:165][455]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.6
+[2023.02.04-21.34.17:165][455]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.5
+[2023.02.04-21.34.17:165][455]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.4
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.3
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.2
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.1
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.0
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.1
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.2
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.3
+[2023.02.04-21.34.17:181][456]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.4
+[2023.02.04-21.34.29:449][179]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-75.23 Y=-411.25 Z=0.00 Location: X=541.52 Y=-850.59 Z=89.65 Normal: X=-0.92 Y=0.22 Z=-0.33 PenetrationDepth:11.991 Actor:BP_Bullet_C_335 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.34.44:647][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.34.44:647][ 17]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.34.44:649][ 17]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-21.34.44:671][ 17]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.34.44:677][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.34.44:688][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.34.44:704][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.34.44:811][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.34.44:811][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.02.04-21.34.44:813][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.02.04-21.34.44:851][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.02.04-21.34.44:946][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.02.04-21.34.49:443][133]LogViewport: Scene viewport resized to 1268x641, mode Windowed.
+[2023.02.04-21.37.28:370][ 45]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.37.28:492][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.02.04-21.37.29:327][ 90]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.37.29:333][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.37.29:333][ 90]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:37:29 AM)
+[2023.02.04-21.37.29:335][ 90]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.37.29:337][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002081s)
+[2023.02.04-21.37.29:337][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.002123s)
+[2023.02.04-21.37.29:337][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.37.29:337][ 90]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.37.29:337][ 90]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2023.02.04-21.37.29:424][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.02.04-21.37.29:426][ 90]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.02.04-21.37.29:426][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.37.29:426][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.37.29:426][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.37.29:426][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.37.29:427][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.37.29:427][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.37.29:427][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.37.29:427][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.37.29:427][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.37.29:427][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.37.29:427][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.37.29:429][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.37.29:482][ 90]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.37.29:482][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.37.29:482][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.37.29:482][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.37.29:483][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.02.04-21.37.29:483][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.02.04-21.37.29:484][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.02.04-21.37.29:484][ 90]LogInit: FAudioDevice initialized.
+[2023.02.04-21.37.29:484][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.02.04-21.37.29:484][ 90]LogAudio: Display: Audio Device (ID: 49) registered with world 'SamTestScene'.
+[2023.02.04-21.37.29:543][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.37.29:543][ 90]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.37.29:544][ 90]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.37.29
+[2023.02.04-21.37.29:544][ 90]LogWorld: Bringing up level for play took: 0.000739
+[2023.02.04-21.37.29:546][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.02.04-21.37.29:546][ 90]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-21.37.29:552][ 90]PIE: Server logged in
+[2023.02.04-21.37.29:552][ 90]PIE: Play in editor total start time 0.218 seconds.
+[2023.02.04-21.37.29:560][ 90]LogViewport: Scene viewport resized to 1374x970, mode Windowed.
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.9
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.8
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.7
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.6
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.5
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.4
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.3
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.2
+[2023.02.04-21.37.30:488][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.1
+[2023.02.04-21.37.30:489][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 9.0
+[2023.02.04-21.37.30:489][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.9
+[2023.02.04-21.37.30:489][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.8
+[2023.02.04-21.37.30:489][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.7
+[2023.02.04-21.37.30:489][132]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.6
+[2023.02.04-21.37.30:495][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.5
+[2023.02.04-21.37.30:495][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.4
+[2023.02.04-21.37.30:495][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.3
+[2023.02.04-21.37.30:496][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.2
+[2023.02.04-21.37.30:496][133]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.1
+[2023.02.04-21.37.30:511][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 8.0
+[2023.02.04-21.37.30:511][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.9
+[2023.02.04-21.37.30:511][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.8
+[2023.02.04-21.37.30:511][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.7
+[2023.02.04-21.37.30:511][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.6
+[2023.02.04-21.37.30:512][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.5
+[2023.02.04-21.37.30:512][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.4
+[2023.02.04-21.37.30:512][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.3
+[2023.02.04-21.37.30:512][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.2
+[2023.02.04-21.37.30:512][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.1
+[2023.02.04-21.37.30:512][134]LogBlueprintUserMessages: [DestroyableObj_C_1] 7.0
+[2023.02.04-21.37.30:529][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.9
+[2023.02.04-21.37.30:529][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.8
+[2023.02.04-21.37.30:529][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.7
+[2023.02.04-21.37.30:529][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.6
+[2023.02.04-21.37.30:529][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.5
+[2023.02.04-21.37.30:529][135]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.4
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.3
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.2
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.1
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 6.0
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.9
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.8
+[2023.02.04-21.37.30:545][136]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.7
+[2023.02.04-21.37.30:562][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.6
+[2023.02.04-21.37.30:562][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.5
+[2023.02.04-21.37.30:562][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.4
+[2023.02.04-21.37.30:563][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.3
+[2023.02.04-21.37.30:563][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.2
+[2023.02.04-21.37.30:563][137]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.1
+[2023.02.04-21.37.31:174][173]LogBlueprintUserMessages: [DestroyableObj_C_1] 5.0
+[2023.02.04-21.37.31:174][173]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.9
+[2023.02.04-21.37.31:174][173]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.8
+[2023.02.04-21.37.31:174][173]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.7
+[2023.02.04-21.37.31:181][174]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.6
+[2023.02.04-21.37.31:181][174]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.5
+[2023.02.04-21.37.31:181][174]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.4
+[2023.02.04-21.37.31:181][174]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.3
+[2023.02.04-21.37.31:181][174]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.2
+[2023.02.04-21.37.31:181][174]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.1
+[2023.02.04-21.37.31:197][175]LogBlueprintUserMessages: [DestroyableObj_C_1] 4.0
+[2023.02.04-21.37.31:197][175]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.9
+[2023.02.04-21.37.31:197][175]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.8
+[2023.02.04-21.37.31:197][175]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.7
+[2023.02.04-21.37.31:198][175]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.6
+[2023.02.04-21.37.31:198][175]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.5
+[2023.02.04-21.37.31:214][176]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.4
+[2023.02.04-21.37.31:214][176]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.3
+[2023.02.04-21.37.31:214][176]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.2
+[2023.02.04-21.37.31:215][176]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.1
+[2023.02.04-21.37.31:215][176]LogBlueprintUserMessages: [DestroyableObj_C_1] 3.0
+[2023.02.04-21.37.31:215][176]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.9
+[2023.02.04-21.37.31:231][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.8
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.7
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.6
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.5
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.4
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.3
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.2
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.1
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 2.0
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.9
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.8
+[2023.02.04-21.37.31:232][177]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.7
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.6
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.5
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.4
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.3
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.2
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.1
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 1.0
+[2023.02.04-21.37.31:248][178]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.9
+[2023.02.04-21.37.31:264][179]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.8
+[2023.02.04-21.37.31:264][179]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.7
+[2023.02.04-21.37.31:264][179]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.6
+[2023.02.04-21.37.31:264][179]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.5
+[2023.02.04-21.37.31:265][179]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.4
+[2023.02.04-21.37.31:281][180]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.3
+[2023.02.04-21.37.31:873][215]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.2
+[2023.02.04-21.37.31:873][215]LogBlueprintUserMessages: [DestroyableObj_C_1] 0.1
+[2023.02.04-21.37.31:875][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.0
+[2023.02.04-21.37.31:879][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.1
+[2023.02.04-21.37.31:880][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.2
+[2023.02.04-21.37.31:881][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.3
+[2023.02.04-21.37.31:881][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.4
+[2023.02.04-21.37.31:885][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.5
+[2023.02.04-21.37.31:886][215]LogBlueprintUserMessages: [DestroyableObj_C_1] -0.6
+[2023.02.04-21.37.33:499][312]LogBlueprintUserMessages: [DamageBox_C_1] Collided
+[2023.02.04-21.37.34:558][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.37.34:558][373]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.37.34:562][373]LogSlate: Window 'GnomeGuardian Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.04-21.37.34:575][373]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.37.34:575][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.37.34:598][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.37.34:613][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.37.34:709][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.37.34:709][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.02.04-21.37.34:711][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.02.04-21.37.34:741][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2023.02.04-21.37.34:781][374]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.02.04-21.39.01:953][135]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.39.02:078][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.02.04-21.39.21:749][282]BlueprintLog: New page: Compile DestroyableObj
+[2023.02.04-21.39.21:877][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.02.04-21.39.23:987][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.39.23:993][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.39.23:993][398]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:39:23 AM)
+[2023.02.04-21.39.23:993][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.39.23:995][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2023.02.04-21.39.23:996][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001990s)
+[2023.02.04-21.39.23:996][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.39.23:996][398]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.39.23:996][398]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2023.02.04-21.39.24:083][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.04-21.39.24:086][398]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.39.24:086][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.39.24:086][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.39.24:087][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.39.24:087][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.39.24:087][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.39.24:088][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.39.24:142][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.39.24:142][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.39.24:142][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.39.24:142][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.39.24:143][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2023.02.04-21.39.24:143][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2023.02.04-21.39.24:145][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2023.02.04-21.39.24:145][398]LogInit: FAudioDevice initialized.
+[2023.02.04-21.39.24:145][398]LogAudio: Display: Audio Device (ID: 50) registered with world 'SamTestScene'.
+[2023.02.04-21.39.24:145][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2023.02.04-21.39.24:147][398]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.39.24:148][398]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.39.24
+[2023.02.04-21.39.24:148][398]LogWorld: Bringing up level for play took: 0.000682
+[2023.02.04-21.39.24:150][398]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.02.04-21.39.24:153][398]PIE: Server logged in
+[2023.02.04-21.39.24:153][398]PIE: Play in editor total start time 0.161 seconds.
+[2023.02.04-21.39.27:553][577]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=78.62 Y=79.01 Z=0.00 Location: X=-79.74 Y=-600.67 Z=89.65 Normal: X=-0.81 Y=0.58 Z=-0.00 PenetrationDepth:28.024 Actor:BP_Bullet_C_120 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.04-21.39.29:721][701]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.32:166][848]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.34:049][961]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.35:535][ 50]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.37:133][146]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.39:500][288]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.40:851][369]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.42:153][447]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.43:588][533]LogBlueprintUserMessages: [Player_C_0] Player took damage
+[2023.02.04-21.39.46:177][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.39.46:177][686]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.39.46:177][686]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.39.46:178][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.39.46:200][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.39.46:212][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.39.46:302][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.39.46:302][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.02.04-21.39.46:303][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.02.04-21.39.46:330][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.39.46:338][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.02.04-21.39.46:405][687]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.02.04-21.39.51:543][988]BlueprintLog: New page: Compile DamageBox
+[2023.02.04-21.39.51:665][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.04-21.42.08:855][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.02.04-21.42.08:858][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-21.42.08:865][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SamTestScene_Auto2
+[2023.02.04-21.42.08:865][  1]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene_Auto213CB642D4C137F5CF14E9CA4F1CF9AE5.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto2.umap'
+[2023.02.04-21.42.08:871][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.106
+[2023.02.04-21.42.08:871][  1]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2023.02.04-21.42.08:872][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DestroyableObj] ([2] browsable assets)...
+[2023.02.04-21.42.08:898][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DestroyableObj.DestroyableObj]
+[2023.02.04-21.42.08:898][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DestroyableObj]
+[2023.02.04-21.42.08:903][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DestroyableObj_Auto2
+[2023.02.04-21.42.08:903][  1]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DestroyableObj_Auto2379BA58B43CA2AEBC5CB9EA2C753018F.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/DestroyableObj_Auto2.uasset'
+[2023.02.04-21.42.08:904][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIAssets/PlayerHeathBar] ([2] browsable assets)...
+[2023.02.04-21.42.08:907][  1]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIAssets/PlayerHeathBar.PlayerHeathBar]
+[2023.02.04-21.42.08:908][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIAssets/PlayerHeathBar]
+[2023.02.04-21.42.08:908][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIAssets/PlayerHeathBar" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.42.08:913][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIAssets/PlayerHeathBar_Auto2
+[2023.02.04-21.42.08:913][  1]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerHeathBar_Auto2C13F7F974DC1071069DAE6B36B9D1CEB.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/UIAssets/PlayerHeathBar_Auto2.uasset'
+[2023.02.04-21.42.08:914][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/DamageBox] ([2] browsable assets)...
+[2023.02.04-21.42.08:923][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DamageBox.DamageBox]
+[2023.02.04-21.42.08:923][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DamageBox]
+[2023.02.04-21.42.08:923][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DamageBox" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/DamageBox_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.42.09:281][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DamageBox_Auto2
+[2023.02.04-21.42.09:281][  1]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/DamageBox_Auto26C79D1B84E9C9086769B56B2909256FF.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/DamageBox_Auto2.uasset'
+[2023.02.04-21.42.09:281][  1]LogFileHelpers: Auto-saving content packages took 0.409
+[2023.02.04-21.44.56:710][ 57]BlueprintLog: New page: Compile Player
+[2023.02.04-21.44.56:850][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.02.04-21.44.59:101][161]BlueprintLog: New page: Compile Player
+[2023.02.04-21.44.59:218][161]LogClass: Warning: Type mismatch in MaxHealth of Player_C - Previous (ObjectProperty) Current(DoubleProperty) for package:  FObjectReader
+[2023.02.04-21.44.59:351][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.02.04-21.48.13:018][282]LogDerivedDataCache: C:/Users/skeel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.113 and deleted 0 files with total size 0 MiB. Scanned 2315 files in 2298 folders with total size 41 MiB.
+[2023.02.04-21.49.15:109][946]BlueprintLog: New page: Compile Player
+[2023.02.04-21.49.15:258][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.02.04-21.49.17:039][ 37]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-21.49.17:044][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-21.49.17:045][ 37]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 5:49:17 AM)
+[2023.02.04-21.49.17:045][ 37]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.49.17:047][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001925s)
+[2023.02.04-21.49.17:047][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.001961s)
+[2023.02.04-21.49.17:047][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-21.49.17:047][ 37]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.04-21.49.17:048][ 37]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.02.04-21.49.17:133][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.02.04-21.49.17:137][ 37]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-21.49.17:137][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.04-21.49.17:137][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-21.49.17:137][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-21.49.17:137][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-21.49.17:137][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-21.49.17:139][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-21.49.17:192][ 37]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.04-21.49.17:192][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-21.49.17:192][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-21.49.17:192][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-21.49.17:193][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2023.02.04-21.49.17:193][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2023.02.04-21.49.17:195][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2023.02.04-21.49.17:195][ 37]LogInit: FAudioDevice initialized.
+[2023.02.04-21.49.17:195][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2023.02.04-21.49.17:195][ 37]LogAudio: Display: Audio Device (ID: 51) registered with world 'SamTestScene'.
+[2023.02.04-21.49.17:198][ 37]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.04-21.49.17:199][ 37]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-13.49.17
+[2023.02.04-21.49.17:199][ 37]LogWorld: Bringing up level for play took: 0.000755
+[2023.02.04-21.49.17:201][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.02.04-21.49.17:204][ 37]PIE: Server logged in
+[2023.02.04-21.49.17:205][ 37]PIE: Play in editor total start time 0.161 seconds.
+[2023.02.04-21.49.38:914][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.49.38:914][322]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.04-21.49.38:914][322]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.49.38:914][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.49.38:923][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-21.49.38:933][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.49.39:017][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-21.49.39:017][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.02.04-21.49.39:019][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.02.04-21.49.39:041][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-21.49.39:047][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.02.04-21.49.39:114][323]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.02.04-21.49.40:587][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.49.40:666][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-21.49.40:753][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.02.04-21.49.40:762][409]LogSavePackage: Moving output files for package: /Game/SamTestScene
+[2023.02.04-21.49.40:763][409]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestSceneBB4F874E4892539B06C406931523A6E7.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap'
+[2023.02.04-21.49.40:771][409]LogFileHelpers: Saving map 'SamTestScene' took 0.106
+[2023.02.04-21.49.40:782][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 6.84 sec)
+[2023.02.04-21.49.40:794][409]AssetCheck: New page: Asset Save: SamTestScene
+[2023.02.04-21.49.40:794][409]LogContentValidation: Display: Validating /Script/Engine.World /Game/SamTestScene.SamTestScene
+[2023.02.04-21.49.54:931][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.49.55:036][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.49.55:171][ 93]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.49.55:172][ 93]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player191168D742421ED1ACC3FDA68D7A2B40.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.49.55:184][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 251 ms (total: 7.10 sec)
+[2023.02.04-21.49.55:197][ 93]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.49.55:197][ 93]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.50.00:593][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-21.50.00:671][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-21.50.00:690][417]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-21.50.00:690][417]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player1FDA5E464CB3F4AD3D07BAB92563B3A0.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-21.50.00:700][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 7.20 sec)
+[2023.02.04-21.50.00:712][417]AssetCheck: New page: Asset Save: Player
+[2023.02.04-21.50.00:712][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-21.50.01:621][472]BlueprintLog: New page: Compile Player
+[2023.02.04-21.50.01:761][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
