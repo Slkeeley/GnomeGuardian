@@ -6267,3 +6267,134 @@ Script Stack (1 frames) :
 [2023.02.04-07.11.55:056][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.04-07.11.55:062][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
 [2023.02.04-07.11.55:128][994]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.02.04-07.12.42:934][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.04-07.12.42:937][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-07.12.42:944][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SamTestScene_Auto2
+[2023.02.04-07.12.42:944][422]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene_Auto26E6B827544D2F5448A75D99B6CC01BE7.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/SamTestScene_Auto2.umap'
+[2023.02.04-07.12.42:952][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SamTestScene' took 0.076
+[2023.02.04-07.12.42:952][422]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
+[2023.02.04-07.12.42:952][422]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player] ([2] browsable assets)...
+[2023.02.04-07.12.42:992][422]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player.Player]
+[2023.02.04-07.12.42:992][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2023.02.04-07.12.42:992][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-07.12.43:006][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player_Auto2
+[2023.02.04-07.12.43:006][422]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Player_Auto212E8A1794142CAEFA3A5379CC3667606.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Autosaves/Game/Blueprints/Player_Auto2.uasset'
+[2023.02.04-07.12.43:006][422]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.02.04-07.13.26:510][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.04-07.13.28:369][628]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-07.13.28:384][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.13.28:460][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-07.13.28:512][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.04-07.13.28:518][628]LogSavePackage: Moving output files for package: /Game/SamTestScene
+[2023.02.04-07.13.28:519][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene3A2C26E54F6B575C82E6BAB2DD3850D4.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap'
+[2023.02.04-07.13.28:524][628]LogFileHelpers: Saving map 'SamTestScene' took 0.065
+[2023.02.04-07.13.28:525][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Collapse01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Collapse01.uasset" SILENT=true
+[2023.02.04-07.13.28:526][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Collapse01
+[2023.02.04-07.13.28:527][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Collapse01BCEDF2FF4DE0366AE76E9A8EA35A8CF9.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Collapse01.uasset'
+[2023.02.04-07.13.28:528][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Collapse02" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Collapse02.uasset" SILENT=true
+[2023.02.04-07.13.28:529][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Collapse02
+[2023.02.04-07.13.28:529][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Collapse02826FC4504D7C64FAD6C6A99BB85386FF.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Collapse02.uasset'
+[2023.02.04-07.13.28:530][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Explosion01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Explosion01.uasset" SILENT=true
+[2023.02.04-07.13.28:531][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Explosion01
+[2023.02.04-07.13.28:531][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Explosion01CC1DA8DB42F50793E48E0CB22A81DBF3.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Explosion01.uasset'
+[2023.02.04-07.13.28:532][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Explosion02" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Explosion02.uasset" SILENT=true
+[2023.02.04-07.13.28:533][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Explosion02
+[2023.02.04-07.13.28:534][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Explosion02215D201F412900853F6D13877073CC04.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Explosion02.uasset'
+[2023.02.04-07.13.28:535][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Fire01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Fire01.uasset" SILENT=true
+[2023.02.04-07.13.28:536][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Fire01
+[2023.02.04-07.13.28:537][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Fire015097776444068C4CB931CDA7A97D0D95.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Fire01.uasset'
+[2023.02.04-07.13.28:537][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Fire_Sparks01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Fire_Sparks01.uasset" SILENT=true
+[2023.02.04-07.13.28:539][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Fire_Sparks01
+[2023.02.04-07.13.28:539][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Fire_Sparks01AA3105ED4F46D32D989E9FB765D65E45.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Fire_Sparks01.uasset'
+[2023.02.04-07.13.28:540][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GnomeGuardian" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/GnomeGuardian.uasset" SILENT=true
+[2023.02.04-07.13.28:543][628]LogSavePackage: Moving output files for package: /Game/Blueprints/GnomeGuardian
+[2023.02.04-07.13.28:543][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/GnomeGuardian131330084F136097B4428A9A3F302BCB.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/GnomeGuardian.uasset'
+[2023.02.04-07.13.28:543][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Light01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Light01.uasset" SILENT=true
+[2023.02.04-07.13.28:544][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Light01
+[2023.02.04-07.13.28:545][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Light019F15C559462171452E0F99A621097EAD.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Light01.uasset'
+[2023.02.04-07.13.28:545][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Light02" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Light02.uasset" SILENT=true
+[2023.02.04-07.13.28:546][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Light02
+[2023.02.04-07.13.28:547][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Light02404200564425EB5C969DCA9862A180E7.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Light02.uasset'
+[2023.02.04-07.13.28:548][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset" SILENT=true
+[2023.02.04-07.13.28:557][628]LogSavePackage: Moving output files for package: /Game/Blueprints/Player
+[2023.02.04-07.13.28:558][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/PlayerC363D7A4436702F172BEDAA1A3E7DC99.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/Player.uasset'
+[2023.02.04-07.13.28:558][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Smoke01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Smoke01.uasset" SILENT=true
+[2023.02.04-07.13.28:559][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Smoke01
+[2023.02.04-07.13.28:560][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Smoke0131173ED241D3B3ACCA254290CCA8E028.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Smoke01.uasset'
+[2023.02.04-07.13.28:560][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Starter_Music01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Starter_Music01.uasset" SILENT=true
+[2023.02.04-07.13.28:570][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Starter_Music01
+[2023.02.04-07.13.28:570][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Starter_Music0190AD213A442BA7DD4282FA81CDFFA5CC.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Starter_Music01.uasset'
+[2023.02.04-07.13.28:572][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Steam01" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Steam01.uasset" SILENT=true
+[2023.02.04-07.13.28:574][628]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Steam01
+[2023.02.04-07.13.28:574][628]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Steam01B231729E4CA88D1CF4E6E081BD543E30.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/StarterContent/Audio/Steam01.uasset'
+[2023.02.04-07.13.28:587][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 10.8 sec)
+[2023.02.04-07.13.28:587][628]LogStall: Shutdown...
+[2023.02.04-07.13.28:734][628]LogStall: Shutdown complete.
+[2023.02.04-07.13.28:785][628]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.28:785][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.13.28:859][628]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.04-07.13.28:859][628]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.28:859][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.13.29:060][628]LogSlate: Window 'GnomeGuardian - Unreal Editor' being destroyed
+[2023.02.04-07.13.29:450][628]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GnomeGuardian.GnomeGuardian
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.World /Game/SamTestScene.SamTestScene
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Steam01.Steam01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Light02.Light02
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Light01.Light01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/StarterContent/Audio/Fire01.Fire01
+[2023.02.04-07.13.29:450][628]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player.Player
+[2023.02.04-07.13.29:452][629]Cmd: QUIT_EDITOR
+[2023.02.04-07.13.29:452][629]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.04-07.13.29:506][629]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.04-07.13.29:506][629]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.04-07.13.29:518][629]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.04-07.13.29:532][629]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.29:532][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.13.29:896][629]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.04-07.13.30:038][629]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.04-07.13.30:827][629]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.04-07.13.30:827][629]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.04-07.13.30:827][629]LogAudio: Display: Audio Device unregistered from world 'SamTestScene'.
+[2023.02.04-07.13.30:827][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.04-07.13.30:830][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.04-07.13.30:983][629]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.04-07.13.31:039][629]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.04-07.13.31:063][629]LogExit: Preparing to exit.
+[2023.02.04-07.13.31:610][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.04-07.13.31:628][629]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:628][629]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:631][629]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.31:632][629]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-07.13.33:474][629]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:478][629]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:481][629]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:484][629]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:487][629]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:489][629]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:492][629]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.13.33:926][629]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.02.04-07.13.34:050][629]LogExit: Editor shut down
+[2023.02.04-07.13.34:058][629]LogExit: Transaction tracking system shut down
