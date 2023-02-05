@@ -10446,3 +10446,1002 @@ Would you like to regenerate the Skeleton from this mesh?
 [2023.02.05-04.48.37:998][221]LogBlueprint: Warning: [AssetLog] D:\Classwork\GnomeGuardian\GnomeGuardian\Content\Blueprints\BP_Bullet.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Sphere)  and was replaced as a Custom Event!
 [2023.02.05-04.48.50:034][918]LogEditorTransaction: Undo Move Nodes
 [2023.02.05-04.48.51:393][981]LogEditorTransaction: Undo Paste clipboard contents
+[2023.02.05-04.49.34:843][373]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.02.05-04.49.34:843][373]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2023.02.05-04.49.34:843][373]LogStatusBar: StatusBar: BlueprintEditorApp_3 was content browser was not opened
+[2023.02.05-04.49.34:843][373]LogStatusBar: StatusBar: BlueprintEditorApp_5 was content browser was not opened
+[2023.02.05-04.49.34:843][373]LogStatusBar: Using status bar: BlueprintEditorApp_6 to dock content browser
+[2023.02.05-04.49.46:434][751]LogEditorFactories: Performing atomic reimport of [D:/New folder/Beetle_low.fbx]
+[2023.02.05-04.49.46:443][751]LogFbx: Loading FBX Scene from D:/New folder/Beetle_low.fbx
+[2023.02.05-04.49.46:463][751]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.05-04.49.46:663][751]LogFbx: Triangulating skeletal mesh head_low
+[2023.02.05-04.49.46:670][751]LogFbx: Triangulating skeletal mesh thorax_low
+[2023.02.05-04.49.46:673][751]LogFbx: Triangulating skeletal mesh abdomen_low
+[2023.02.05-04.49.46:677][751]LogFbx: Triangulating skeletal mesh big_meaty_claws_R_low
+[2023.02.05-04.49.46:682][751]LogFbx: Triangulating skeletal mesh eyes_low
+[2023.02.05-04.49.46:687][751]LogFbx: Triangulating skeletal mesh meat_low
+[2023.02.05-04.49.46:720][751]LogFbx: Triangulating skeletal mesh big_meaty_claws_L_low
+[2023.02.05-04.49.46:725][751]LogFbx: Triangulating skeletal mesh r_ant_low
+[2023.02.05-04.49.46:734][751]LogFbx: Triangulating skeletal mesh Plane.014_low
+[2023.02.05-04.49.46:736][751]LogFbx: Triangulating skeletal mesh Cylinder.003_low
+[2023.02.05-04.49.46:746][751]LogFbx: Triangulating skeletal mesh Cylinder.004_low
+[2023.02.05-04.49.46:755][751]LogFbx: Triangulating skeletal mesh Plane.013_low
+[2023.02.05-04.49.46:757][751]LogFbx: Triangulating skeletal mesh Plane.012_low
+[2023.02.05-04.49.46:761][751]LogFbx: Triangulating skeletal mesh Cylinder.005_low
+[2023.02.05-04.49.46:768][751]LogFbx: Triangulating skeletal mesh Plane.008_low
+[2023.02.05-04.49.46:771][751]LogFbx: Triangulating skeletal mesh Cylinder_low
+[2023.02.05-04.49.46:780][751]LogFbx: Triangulating skeletal mesh Cylinder.001_low
+[2023.02.05-04.49.46:787][751]LogFbx: Triangulating skeletal mesh Plane.010_low
+[2023.02.05-04.49.46:790][751]LogFbx: Triangulating skeletal mesh Plane.011_low
+[2023.02.05-04.49.46:792][751]LogFbx: Triangulating skeletal mesh Cylinder.002_low
+[2023.02.05-04.49.46:800][751]LogFbx: Triangulating skeletal mesh l_ant_low
+[2023.02.05-04.49.46:941][751]LogFbx: Bones digested - 30  Depth of hierarchy - 4
+[2023.02.05-04.49.47:122][751]LogSkeletalMesh: Section 0: Material=0, 6496 triangles
+[2023.02.05-04.49.47:171][751]LogEditorFactories: -- imported successfully
+[2023.02.05-04.49.47:174][751]LogSkeletalMesh: Building Skeletal Mesh Beetle_low...
+[2023.02.05-04.49.47:190][751]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Beetle_low) ...
+[2023.02.05-04.49.47:346][751]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/Models/Beetle_low.Beetle_low
+[2023.02.05-04.49.47:348][751]FBXImport: FBX File Loading: Found name clash, node 'leg_1' was renamed to 'leg_11' 
+[2023.02.05-04.49.47:348][751]FBXImport: FBX File Loading: Found name clash, node 'leg_2' was renamed to 'leg_22' 
+[2023.02.05-04.49.47:348][751]FBXImport: FBX File Loading: Found name clash, node 'leg_3' was renamed to 'leg_33' 
+[2023.02.05-04.49.47:348][751]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.05-04.49.47:348][751]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.02.05-04.49.59:253][175]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\New folder\Termite_low.fbx)
+[2023.02.05-04.49.59:259][175]LogFbx: Loading FBX Scene from D:\New folder\Termite_low.fbx
+[2023.02.05-04.49.59:280][175]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.05-04.50.02:634][175]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.05-04.50.02:762][175]LogFbx: Triangulating skeletal mesh head_low
+[2023.02.05-04.50.02:778][175]LogFbx: Triangulating skeletal mesh body_low
+[2023.02.05-04.50.02:800][175]LogFbx: Triangulating skeletal mesh teef_low
+[2023.02.05-04.50.02:812][175]LogFbx: Triangulating skeletal mesh antennae_low
+[2023.02.05-04.50.02:824][175]LogFbx: Triangulating skeletal mesh eyes_low
+[2023.02.05-04.50.02:828][175]LogFbx: Triangulating skeletal mesh Plane.011_low
+[2023.02.05-04.50.02:836][175]LogFbx: Triangulating skeletal mesh Plane.008_low
+[2023.02.05-04.50.02:845][175]LogFbx: Triangulating skeletal mesh Plane.010_low
+[2023.02.05-04.50.02:853][175]LogFbx: Triangulating skeletal mesh Plane.012_low
+[2023.02.05-04.50.02:862][175]LogFbx: Triangulating skeletal mesh Plane.013_low
+[2023.02.05-04.50.02:869][175]LogFbx: Triangulating skeletal mesh Plane.014_low
+[2023.02.05-04.50.02:878][175]LogFbx: Triangulating skeletal mesh Plane.007_low
+[2023.02.05-04.50.02:880][175]LogFbx: Triangulating skeletal mesh Plane_low
+[2023.02.05-04.50.02:882][175]LogFbx: Triangulating skeletal mesh Plane.002_low
+[2023.02.05-04.50.02:884][175]LogFbx: Triangulating skeletal mesh Plane.001_low
+[2023.02.05-04.50.02:886][175]LogFbx: Triangulating skeletal mesh Plane.003_low
+[2023.02.05-04.50.02:889][175]LogFbx: Triangulating skeletal mesh Plane.004_low
+[2023.02.05-04.50.02:892][175]LogFbx: Triangulating skeletal mesh Plane.005_low
+[2023.02.05-04.50.02:894][175]LogFbx: Triangulating skeletal mesh Plane.006_low
+[2023.02.05-04.50.02:902][175]LogFbx: Bones digested - 23  Depth of hierarchy - 3
+[2023.02.05-04.50.03:156][175]LogSkeletalMesh: Section 0: Material=0, 6556 triangles
+[2023.02.05-04.50.03:165][175]LogSkeletalMesh: Building Skeletal Mesh Termite_low...
+[2023.02.05-04.50.03:182][175]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Termite_low) ...
+[2023.02.05-04.50.03:316][175]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.50.04:349][175]LogSlate: Window 'Message' being destroyed
+[2023.02.05-04.50.04:358][175]Message dialog closed, result: Yes, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2023.02.05-04.50.05:398][175]LogSlate: Window 'Message' being destroyed
+[2023.02.05-04.50.05:405][175]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2023.02.05-04.50.06:939][175]LogSlate: Window 'Message' being destroyed
+[2023.02.05-04.50.06:947][175]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'Box'.
+[2023.02.05-04.50.07:782][175]LogSlate: Window 'Message' being destroyed
+[2023.02.05-04.50.07:791][175]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'Beetle_low'.
+[2023.02.05-04.50.07:953][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.50.07:967][175]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-04.50.07:967][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-04.50.08:068][175]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.05-04.50.08:068][175]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.02.05-04.50.12:534][430]LogSlate: Window 'Message Log' being destroyed
+[2023.02.05-04.50.12:541][430]LogSlate: Window 'Message Log' being destroyed
+[2023.02.05-04.50.20:322][875]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.05-04.50.20:331][875]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.05-04.50.20:343][876]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.02.05-04.50.28:173][342]LogContentBrowser: Attempting asset rename: NewMaterial -> TermiteMat
+[2023.02.05-04.50.28:174][342]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.05-04.50.36:608][654]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.50.37:116][654]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.50.37:118][654]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.50.37:154][654]LogTexture: Display: Building textures: /Game/Materials/beetleV2_low_lambert1_OcclusionRoughnessMetallic.beetleV2_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.50.37:928][654]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.50.37:929][654]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.50.37:943][654]LogTexture: Display: Building textures: /Game/Materials/beetleV2_low_lambert1_Normal.beetleV2_low_lambert1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.50.38:427][654]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.05-04.50.38:464][654]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.50.38:493][655]LogTexture: Display: Building textures: /Game/Materials/beetleV2_low_lambert1_BaseColor.beetleV2_low_lambert1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.50.38:532][655]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.50.38:572][655]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.50.38:604][655]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.15:225][129]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.52.15:604][129]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.15:605][129]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.52.15:617][129]LogTexture: Display: Building textures: /Game/Materials/beetleV2_low_lambert1_OcclusionRoughnessMetallic.beetleV2_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.16:281][129]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.16:281][129]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.52.16:296][129]LogTexture: Display: Building textures: /Game/Materials/beetleV2_low_lambert1_Normal.beetleV2_low_lambert1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.16:716][129]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.05-04.52.16:755][129]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.16:779][130]LogTexture: Display: Building textures: /Game/Materials/beetleV2_low_lambert1_BaseColor.beetleV2_low_lambert1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.16:822][130]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.16:866][130]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.16:894][130]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.30:658][619]LogInterchangeEngine: [Pending] Importing
+[2023.02.05-04.52.30:658][619]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.05-04.52.30:658][619]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.02.05-04.52.30:704][620]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.02.05-04.52.30:971][620]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.02.05-04.52.30:991][620]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.05-04.52.30:991][620]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.02.05-04.52.31:006][620]LogTexture: Display: Building textures: /Game/Materials/Termite_low_lambert1_Normal.Termite_low_lambert1_Normal (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.31:015][620]LogTexture: Display: Building textures: /Game/Materials/Termite_low_lambert1_BaseColor.Termite_low_lambert1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.31:689][622]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.31:729][623]LogInterchangeEngine: [Success] Import Done
+[2023.02.05-04.52.31:846][623]LogTexture: Display: Building textures: /Game/Materials/Termite_low_lambert1_OcclusionRoughnessMetallic.Termite_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.32:025][623]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.02.05-04.52.32:066][623]LogTexture: Display: Building textures: /Game/Materials/Termite_low_lambert1_Normal.Termite_low_lambert1_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.52.34:250][732]LogSlate: Window 'Content Browser' being destroyed
+[2023.02.05-04.52.34:259][732]LogSlate: Window 'Content Browser' being destroyed
+[2023.02.05-04.52.36:161][841]BlueprintLog: New page: Compile BP_Bullet
+[2023.02.05-04.52.36:370][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.02.05-04.52.38:516][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-04.52.38:522][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-04.52.38:522][963]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 12:52:38 PM)
+[2023.02.05-04.52.38:549][963]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.05-04.52.38:556][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007323s)
+[2023.02.05-04.52.38:556][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.007411s)
+[2023.02.05-04.52.38:556][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.52.38:556][963]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.05-04.52.38:558][963]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2023.02.05-04.52.38:626][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.02.05-04.52.38:629][963]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-04.52.38:629][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.05-04.52.38:629][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-04.52.38:629][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-04.52.38:629][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-04.52.38:629][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-04.52.38:631][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-04.52.38:688][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.05-04.52.38:688][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-04.52.38:688][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-04.52.38:688][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-04.52.38:689][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.02.05-04.52.38:689][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.02.05-04.52.38:691][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.02.05-04.52.38:691][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.02.05-04.52.38:691][963]LogInit: FAudioDevice initialized.
+[2023.02.05-04.52.38:691][963]LogAudio: Display: Audio Device (ID: 34) registered with world 'SamTestScene'.
+[2023.02.05-04.52.38:694][963]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.05-04.52.38:695][963]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-20.52.38
+[2023.02.05-04.52.38:695][963]LogWorld: Bringing up level for play took: 0.001225
+[2023.02.05-04.52.38:696][963]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.02.05-04.52.38:700][963]PIE: Server logged in
+[2023.02.05-04.52.38:701][963]PIE: Play in editor total start time 0.179 seconds.
+[2023.02.05-04.52.46:139][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-04.52.46:139][370]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.05-04.52.46:140][370]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-04.52.46:140][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-04.52.46:149][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-04.52.46:159][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-04.52.46:229][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-04.52.46:230][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.02.05-04.52.46:231][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.02.05-04.52.46:246][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-04.52.46:252][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.02.05-04.52.46:326][371]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.02.05-04.52.49:122][533]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.02.05-04.52.49:122][533]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.02.05-04.52.49:157][533]LogViewport: Scene viewport resized to 1523x549, mode Windowed.
+[2023.02.05-04.52.51:854][681]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/TermiteMat.TermiteMat
+[2023.02.05-04.52.51:860][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.52.52:103][681]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.52.52:103][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-04.52.52:103][681]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.52.52:109][681]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: ================================================
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Total job queries 272, among them cache hits 99 (36.40%)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Tracking 170 distinct input hashes that result in 112 distinct outputs (65.88%)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: RAM used: 1.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Shaders Compiled: 61
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Jobs assigned 64, completed 61 (95.31%)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Average time worker was idle: 795.60 s
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 2.00 s
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Job execution time: average 1.82 s, max 5.06 s
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 5.17
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.73 s
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Jobs were issued in 58 batches (only local compilation was used), average 1.10 jobs/batch
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Average processing rate: 2.37 jobs/sec
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Total thread time: 63.81 s
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Total thread preprocess time: 4.16 s
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Percentage time preprocessing: 6.51%
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.54 sec, max 1.73 sec, min 1.35 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.46 sec, max 1.64 sec, min 1.28 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.45 sec, max 1.61 sec, min 1.29 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.43 sec, max 1.60 sec, min 1.25 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.37 sec, max 1.46 sec, min 1.29 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.01% of total time (compiled   11 times, average 1.04 sec, max 1.52 sec, min 0.83 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.77% of total time (compiled   11 times, average 0.97 sec, max 1.49 sec, min 0.79 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.19% of total time (compiled    7 times, average 0.93 sec, max 1.20 sec, min 0.86 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.03% of total time (compiled    8 times, average 0.64 sec, max 0.88 sec, min 0.56 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.83% of total time (compiled    2 times, average 1.54 sec, max 1.73 sec, min 1.35 sec)
+[2023.02.05-04.52.55:660][886]LogShaderCompilers: Display: ================================================
+[2023.02.05-04.52.55:999][895]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.05-04.52.56:000][895]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.52.56:000][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-04.52.56:000][895]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.52.56:033][896]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.02.05-04.52.56:033][896]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2023.02.05-04.52.56:033][896]LogStatusBar: StatusBar: BlueprintEditorApp_3 was content browser was not opened
+[2023.02.05-04.52.56:033][896]LogStatusBar: StatusBar: BlueprintEditorApp_5 was content browser was not opened
+[2023.02.05-04.52.56:033][896]LogStatusBar: StatusBar: BlueprintEditorApp_6 was content browser was not opened
+[2023.02.05-04.52.56:033][896]LogStatusBar: StatusBar: BlueprintEditorApp_7 was content browser was not opened
+[2023.02.05-04.52.56:033][896]LogStatusBar: StatusBar: BlueprintEditorApp_8 was content browser was not opened
+[2023.02.05-04.52.56:033][896]LogStatusBar: Using status bar: MaterialEditorApp_9 to dock content browser
+[2023.02.05-04.52.56:212][897]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.02.05-04.52.56:212][897]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.05-04.52.56:212][897]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.52.56:212][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-04.52.56:212][897]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.00:629][149]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Termite_low_lambert1_OcclusionRoughnessMetallic.Termite_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-04.53.00:919][149]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2023.02.05-04.53.05:816][401]LogTexture: Display: Building textures: /Game/Materials/Termite_low_lambert1_OcclusionRoughnessMetallic.Termite_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.02.05-04.53.07:678][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.53.08:160][507]LogSavePackage: Moving output files for package: /Game/Materials/Termite_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-04.53.08:161][507]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Termite_low_lambert1_OcclusionRoAA8DB48E4D4667DE59DC65BC6520A24F.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/Termite_low_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.02.05-04.53.08:170][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 492 ms (total: 30.8 sec)
+[2023.02.05-04.53.08:177][507]AssetCheck: New page: Asset Save: Termite_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-04.53.08:177][507]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/Termite_low_lambert1_OcclusionRoughnessMetallic.Termite_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-04.53.10:617][649]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/Termite_low_lambert1_BaseColor.Termite_low_lambert1_BaseColor
+[2023.02.05-04.53.10:700][649]LogViewport: Scene viewport resized to 1419x843, mode Windowed.
+[2023.02.05-04.53.14:483][871]LogSlate: Window 'Content Browser' being destroyed
+[2023.02.05-04.53.14:489][871]LogSlate: Window 'Content Browser' being destroyed
+[2023.02.05-04.53.23:306][361]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.23:306][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-04.53.23:306][361]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.23:387][363]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.02.05-04.53.23:387][363]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.05-04.53.23:387][363]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.23:387][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-04.53.23:387][363]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.31:340][832]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.31:340][832]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-04.53.31:340][832]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.31:340][832]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.32:633][904]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.05-04.53.32:633][904]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-04.53.32:633][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.32:633][904]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.32:901][918]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.32:902][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-04.53.32:902][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.32:902][918]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.34:076][984]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.34:076][984]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-04.53.34:076][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.34:076][984]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.34:445][999]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.34:445][999]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.34:445][999]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-04.53.34:445][999]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.34:445][999]MaterialEditorStats: Shader Count: 2
+[2023.02.05-04.53.34:515][  2]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.02.05-04.53.34:515][  2]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.34:515][  2]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.05-04.53.34:515][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-04.53.34:515][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.34:515][  2]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.35:473][ 48]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.35:474][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.35:474][ 48]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.35:474][ 48]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.36:315][ 99]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.36:315][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.36:315][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.36:315][ 99]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.36:732][124]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.36:732][124]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.36:732][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.36:732][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.36:732][124]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.53.36:831][130]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.02.05-04.53.36:831][130]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.36:831][130]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.05-04.53.36:831][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.36:831][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.36:831][130]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.40:785][359]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.40:785][359]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.40:785][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.40:785][359]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.41:690][408]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.53.41:690][408]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.41:690][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.41:690][408]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.41:967][421]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.41:968][421]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.53.41:968][421]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.41:968][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.41:968][421]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.53.42:068][425]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.02.05-04.53.42:068][425]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.42:068][425]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.53.42:068][425]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.42:068][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.42:068][425]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.42:623][453]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.42:623][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.42:623][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.42:623][453]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.43:432][498]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.53.43:432][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.43:432][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.43:432][498]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.43:836][521]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.43:836][521]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.53.43:836][521]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.43:836][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.43:836][521]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.53.43:953][528]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-04.53.43:953][528]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.43:953][528]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.53.43:953][528]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.43:953][528]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.43:953][528]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.48:645][802]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/BeetleMat.BeetleMat
+[2023.02.05-04.53.48:649][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.53.48:898][802]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.48:898][802]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.48:898][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.48:898][802]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.48:903][802]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2023.02.05-04.53.50:204][874]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.53.50:204][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.50:204][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.50:204][874]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.50:826][910]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.50:827][910]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.53.50:827][910]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.50:827][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.50:827][910]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.53.50:927][916]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-04.53.50:927][916]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.50:927][916]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.53.50:928][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.50:928][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.50:928][916]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.53.58:172][337]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.53.58:172][337]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.58:172][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.58:172][337]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.53.58:967][384]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.58:967][384]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.58:967][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.58:967][384]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.53.59:471][409]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.59:471][409]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.53.59:471][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.59:471][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.59:471][409]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.53.59:571][415]MaterialEditorStats: Base pass shader: 228 instructions
+[2023.02.05-04.53.59:571][415]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.53.59:571][415]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.53.59:571][415]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.53.59:571][415]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.53.59:571][415]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.54.00:396][459]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.54.00:396][459]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.00:396][459]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.00:396][459]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.54.00:422][461]MaterialEditorStats: Base pass shader: 225 instructions
+[2023.02.05-04.54.00:422][461]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.54.00:422][461]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.05-04.54.00:422][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.00:422][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.00:422][461]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.54.01:908][543]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.54.01:908][543]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.01:908][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.01:908][543]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.54.02:629][584]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.54.02:629][584]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.02:629][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.02:629][584]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.54.03:039][604]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.54.03:039][604]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-04.54.03:039][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.03:039][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.03:039][604]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.54.03:140][609]MaterialEditorStats: Base pass shader: 228 instructions
+[2023.02.05-04.54.03:140][609]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.54.03:140][609]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.54.03:140][609]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.03:140][609]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.03:141][609]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.54.03:704][640]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.54.03:705][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.03:705][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.03:705][640]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.54.04:419][683]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.54.04:420][683]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.04:420][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.04:420][683]MaterialEditorStats: Shader Count: 1
+[2023.02.05-04.54.04:719][701]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.54.04:720][701]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-04.54.04:720][701]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.04:720][701]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.04:720][701]MaterialEditorStats: Shader Count: 3
+[2023.02.05-04.54.04:819][707]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-04.54.04:819][707]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.54.04:819][707]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.54.04:819][707]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.54.04:819][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.54.04:819][707]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.54.23:779][824]LogMaterialEditor: Saving and Compiling material BeetleMat
+[2023.02.05-04.54.23:782][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.54.23:865][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BeetleMat" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/BeetleMat.uasset" SILENT=true
+[2023.02.05-04.54.23:867][824]LogSavePackage: Moving output files for package: /Game/Materials/BeetleMat
+[2023.02.05-04.54.23:867][824]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/BeetleMat507CF4414F3348C80EF4B1BD6B1021C4.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/BeetleMat.uasset'
+[2023.02.05-04.54.23:882][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 30.9 sec)
+[2023.02.05-04.54.23:892][824]AssetCheck: New page: Asset Save: BeetleMat
+[2023.02.05-04.54.23:892][824]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/BeetleMat.BeetleMat
+[2023.02.05-04.54.24:681][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.54.24:783][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-04.54.24:872][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.05-04.54.24:885][861]LogSavePackage: Moving output files for package: /Game/SamTestScene
+[2023.02.05-04.54.24:885][861]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene4B4B121C498A1D2BC5AB019647767362.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap'
+[2023.02.05-04.54.24:895][861]LogFileHelpers: Saving map 'SamTestScene' took 0.112
+[2023.02.05-04.54.24:908][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 31.1 sec)
+[2023.02.05-04.54.24:926][861]AssetCheck: New page: Asset Save: SamTestScene
+[2023.02.05-04.54.24:926][861]LogContentValidation: Display: Validating /Script/Engine.World /Game/SamTestScene.SamTestScene
+[2023.02.05-04.54.55:851][698]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.54.55:851][698]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.54.55:852][698]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Termite_low.Termite_low as actor: SkeletalMeshActor /Game/SamTestScene.SamTestScene:PersistentLevel.SkeletalMeshActor_2
+[2023.02.05-04.54.55:853][698]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Termite_low.Termite_low as actor: SkeletalMeshActor /Game/SamTestScene.SamTestScene:PersistentLevel.SkeletalMeshActor_2
+[2023.02.05-04.54.56:392][730]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.54.56:392][730]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.54.56:393][730]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Termite_low.Termite_low as actor: SkeletalMeshActor /Game/SamTestScene.SamTestScene:PersistentLevel.SkeletalMeshActor_3
+[2023.02.05-04.54.56:395][730]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Termite_low.Termite_low as actor: SkeletalMeshActor /Game/SamTestScene.SamTestScene:PersistentLevel.SkeletalMeshActor_3
+[2023.02.05-04.55.07:610][382]Cmd: TRANSACTION UNDO
+[2023.02.05-04.55.07:610][382]LogEditorTransaction: Undo Move Elements
+[2023.02.05-04.55.08:623][418]Cmd: TRANSACTION UNDO
+[2023.02.05-04.55.08:623][418]LogEditorTransaction: Undo Scale Elements
+[2023.02.05-04.55.10:261][510]Cmd: TRANSACTION UNDO
+[2023.02.05-04.55.10:261][510]LogEditorTransaction: Undo Create Actors
+[2023.02.05-04.55.12:344][621]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.55.12:520][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.55.12:530][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.05-04.55.12:817][621]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.02.05-04.55.13:115][621]LogViewport: Scene viewport resized to 1138x803, mode Windowed.
+[2023.02.05-04.55.25:255][302]Cmd: TRANSACTION UNDO
+[2023.02.05-04.55.25:255][302]LogEditorTransaction: Undo Persona editor: Add material slot
+[2023.02.05-04.55.25:357][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.05-04.55.55:805][ 25]LogMaterial: Display: Material /Game/Materials/TermiteMat.TermiteMat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.02.05-04.55.55:904][ 25]LogMaterial: Display: Material /Engine/Transient.TermiteMat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.02.05-04.55.56:010][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-04.55.56:010][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.55.56:010][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.55.56:010][ 25]MaterialEditorStats: Shader Count: 0
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: ================================================
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Total job queries 423, among them cache hits 162 (38.30%)
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 116 distinct outputs (54.46%)
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: RAM used: 1.58 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Shaders Compiled: 104
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Jobs assigned 124, completed 104 (83.87%)
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Average time worker was idle: 820.96 s
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 2.00 s
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 5.06 s
+[2023.02.05-04.55.56:014][ 25]LogShaderCompilers: Display: Job life time (pending + execution): average 1.76 s, max 5.17
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.96 s
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Jobs were issued in 105 batches (only local compilation was used), average 1.18 jobs/batch
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Average processing rate: 2.67 jobs/sec
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Total thread time: 109.60 s
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Total thread preprocess time: 6.84 s
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Percentage time preprocessing: 6.24%
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Effective parallelization: 2.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.54 sec, max 1.73 sec, min 1.35 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.46 sec, max 1.64 sec, min 1.28 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.45 sec, max 1.61 sec, min 1.29 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.43 sec, max 1.60 sec, min 1.25 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.37 sec, max 1.46 sec, min 1.29 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.31% of total time (compiled   23 times, average 1.16 sec, max 1.82 sec, min 0.83 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.63% of total time (compiled   23 times, average 1.08 sec, max 1.67 sec, min 0.79 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.24% of total time (compiled   17 times, average 0.98 sec, max 1.49 sec, min 0.82 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.45% of total time (compiled   17 times, average 0.67 sec, max 1.05 sec, min 0.54 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.81% of total time (compiled    2 times, average 1.54 sec, max 1.73 sec, min 1.35 sec)
+[2023.02.05-04.55.56:015][ 25]LogShaderCompilers: Display: ================================================
+[2023.02.05-04.55.56:069][ 26]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-04.55.56:069][ 26]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.55.56:070][ 26]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.55.56:070][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.55.56:070][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.55.56:070][ 26]MaterialEditorStats: Shader Count: 4
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.56.01:972][293]MaterialEditorStats: Shader Count: 15
+[2023.02.05-04.56.13:721][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.56.13:808][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Termite_low" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Termite_low.uasset" SILENT=true
+[2023.02.05-04.56.13:825][940]LogSavePackage: Moving output files for package: /Game/Models/Termite_low
+[2023.02.05-04.56.13:825][940]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Termite_lowD1F044DE449F726AF6354F8988232907.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Models/Termite_low.uasset'
+[2023.02.05-04.56.13:836][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 31.2 sec)
+[2023.02.05-04.56.13:844][940]AssetCheck: New page: Asset Save: Termite_low
+[2023.02.05-04.56.13:844][940]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Models/Termite_low.Termite_low
+[2023.02.05-04.56.16:260][ 82]LogMaterialEditor: Saving and Compiling material TermiteMat
+[2023.02.05-04.56.20:860][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.02.05-04.56.21:738][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.05-04.56.21:749][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.56.23:323][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/TermiteMat" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/TermiteMat.uasset" SILENT=true
+[2023.02.05-04.56.23:421][ 82]LogSavePackage: Moving output files for package: /Game/Materials/TermiteMat
+[2023.02.05-04.56.23:422][ 82]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/TermiteMat1B0BDAF847E7C446743231B5D5E01061.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/TermiteMat.uasset'
+[2023.02.05-04.56.23:431][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.68 sec (total: 32.9 sec)
+[2023.02.05-04.56.23:439][ 82]AssetCheck: New page: Asset Save: TermiteMat
+[2023.02.05-04.56.23:439][ 82]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/TermiteMat.TermiteMat
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: Base pass vertex shader: 533 instructions
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-04.56.23:440][ 82]MaterialEditorStats: Shader Count: 32
+[2023.02.05-04.57.28:510][161]LogContentBrowser: Deferred new asset file creation: BeetleEnemy1
+[2023.02.05-04.57.28:532][161]LogContentBrowser: Creating deferred item: BeetleEnemy1
+[2023.02.05-04.57.28:543][162]LogContentBrowser: Renaming the item being created (Deferred Item: BeetleEnemy1).
+[2023.02.05-04.57.33:670][470]LogContentBrowser: Attempting asset rename: BeetleEnemy1 -> TermiteEnemy
+[2023.02.05-04.57.33:885][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.05-04.57.33:941][470]LogContentBrowser: End creating deferred item BeetleEnemy1
+[2023.02.05-04.57.36:465][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-04.57.36:465][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.57.51:566][409]LogViewport: Scene viewport resized to 1268x641, mode Windowed.
+[2023.02.05-04.57.58:715][827]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.05-04.57.58:832][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.05-04.58.30:491][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.58.30:609][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TermiteEnemy" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset" SILENT=true
+[2023.02.05-04.58.30:625][679]LogSavePackage: Moving output files for package: /Game/Blueprints/TermiteEnemy
+[2023.02.05-04.58.30:625][679]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/TermiteEnemyE55DDD3C4A9F166CAD7A7EB4EBBA4C8D.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset'
+[2023.02.05-04.58.30:635][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 33.0 sec)
+[2023.02.05-04.58.30:649][679]AssetCheck: New page: Asset Save: TermiteEnemy
+[2023.02.05-04.58.30:649][679]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-04.58.33:224][826]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:227][826]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:247][827]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:478][841]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:478][841]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:497][842]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:511][843]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:528][844]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:544][845]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:560][846]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:577][847]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:595][848]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:611][849]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:629][850]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:644][851]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.33:661][852]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.34:493][901]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.05-04.58.34:502][901]LogPhysics: Warning: Scale for /Engine/Transient.World_26:PersistentLevel.TermiteEnemy_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=-0.687 Z=-1.375
+[2023.02.05-04.58.34:593][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.05-04.58.43:368][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.58.43:471][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TermiteEnemy" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset" SILENT=true
+[2023.02.05-04.58.43:485][399]LogSavePackage: Moving output files for package: /Game/Blueprints/TermiteEnemy
+[2023.02.05-04.58.43:486][399]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/TermiteEnemyD4947334412DC04CA2C4E3B0FC66EFFB.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset'
+[2023.02.05-04.58.43:496][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 33.2 sec)
+[2023.02.05-04.58.43:507][399]AssetCheck: New page: Asset Save: TermiteEnemy
+[2023.02.05-04.58.43:507][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-04.58.46:421][573]BlueprintLog: New page: Compile TermiteEnemy
+[2023.02.05-04.58.46:575][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.05-04.58.51:831][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-04.58.51:929][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TermiteEnemy" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset" SILENT=true
+[2023.02.05-04.58.51:942][879]LogSavePackage: Moving output files for package: /Game/Blueprints/TermiteEnemy
+[2023.02.05-04.58.51:943][879]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/TermiteEnemy1D06ACEF41D03B18D46E54B64562333C.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset'
+[2023.02.05-04.58.51:954][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 33.3 sec)
+[2023.02.05-04.58.51:961][879]AssetCheck: New page: Asset Save: TermiteEnemy
+[2023.02.05-04.58.51:961][879]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-04.58.56:934][176]BlueprintLog: New page: Compile TermiteEnemy
+[2023.02.05-04.58.57:041][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.05-04.59.48:765][166]BlueprintLog: New page: Compile BeetleEnemy
+[2023.02.05-04.59.48:885][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.05-04.59.50:899][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-04.59.50:899][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-04.59.50:903][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_0
+[2023.02.05-04.59.50:905][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_0
+[2023.02.05-04.59.51:374][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-04.59.51:376][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-04.59.51:379][292]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_1
+[2023.02.05-04.59.51:381][292]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_1
+[2023.02.05-04.59.55:163][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-04.59.55:288][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-04.59.55:288][510]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 12:59:55 PM)
+[2023.02.05-04.59.55:327][510]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.05-04.59.55:331][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003921s)
+[2023.02.05-04.59.55:331][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003973s)
+[2023.02.05-04.59.55:332][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-04.59.55:332][510]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.05-04.59.55:332][510]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2023.02.05-04.59.55:412][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.05-04.59.55:414][510]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-04.59.55:414][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.05-04.59.55:414][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-04.59.55:414][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-04.59.55:414][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-04.59.55:414][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-04.59.55:417][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-04.59.55:473][510]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.05-04.59.55:474][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-04.59.55:474][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-04.59.55:474][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-04.59.55:475][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.02.05-04.59.55:475][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.02.05-04.59.55:477][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.02.05-04.59.55:477][510]LogInit: FAudioDevice initialized.
+[2023.02.05-04.59.55:477][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.02.05-04.59.55:477][510]LogAudio: Display: Audio Device (ID: 35) registered with world 'SamTestScene'.
+[2023.02.05-04.59.55:480][510]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.05-04.59.55:481][510]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-20.59.55
+[2023.02.05-04.59.55:482][510]LogWorld: Bringing up level for play took: 0.001830
+[2023.02.05-04.59.55:484][510]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.02.05-04.59.55:487][510]PIE: Server logged in
+[2023.02.05-04.59.55:487][510]PIE: Play in editor total start time 0.317 seconds.
+[2023.02.05-04.59.58:727][598]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-265.01 Y=214.84 Z=0.00 Location: X=-1178.85 Y=1105.10 Z=89.65 Normal: X=0.14 Y=0.99 Z=0.00 PenetrationDepth:13.998 Actor:BP_Bullet_C_67 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.00.00:309][691]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=102.26 Y=177.43 Z=0.00 Location: X=-1150.95 Y=1094.17 Z=89.65 Normal: X=-0.70 Y=-0.67 Z=-0.25 PenetrationDepth:2.982 Actor:BP_Bullet_C_384 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.00.03:241][860]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=613.07 Y=337.86 Z=0.00 Location: X=-66.40 Y=1264.18 Z=89.65 Normal: X=-0.18 Y=0.98 Z=-0.00 PenetrationDepth:1.693 Actor:BP_Bullet_C_734 Component:Sphere BoneName:None (2 other events since notify)
+[2023.02.05-05.00.12:065][388]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-52.06 Y=44.16 Z=0.00 Location: X=-9.10 Y=1456.66 Z=89.63 Normal: X=0.86 Y=0.50 Z=-0.00 PenetrationDepth:1.653 Actor:BP_Bullet_C_949 Component:Sphere BoneName:None (1 other events since notify)
+[2023.02.05-05.00.12:271][400]LogCharacterMovement: TermiteEnemy_C_1 is stuck and failed to move! Velocity: X=-238.80 Y=193.26 Z=0.00 Location: X=34.50 Y=1422.49 Z=89.65 Normal: X=-0.76 Y=-0.65 Z=0.04 PenetrationDepth:4.582 Actor:BP_Bullet_C_969 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.00.13:142][451]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-535.21 Y=451.16 Z=0.00 Location: X=-481.92 Y=1855.44 Z=89.63 Normal: X=0.59 Y=0.65 Z=-0.47 PenetrationDepth:10.432 Actor:BP_Bullet_C_1118 Component:Sphere BoneName:None (3 other events since notify)
+[2023.02.05-05.00.14:348][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.00.14:348][520]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.00.14:351][520]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.00.14:353][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.00.14:366][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-05.00.14:376][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.00.14:456][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-05.00.14:456][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.02.05-05.00.14:458][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.02.05-05.00.14:482][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.00.14:493][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.05-05.00.14:595][521]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.02.05-05.00.17:459][680]LogViewport: Scene viewport resized to 1268x639, mode Windowed.
+[2023.02.05-05.00.28:019][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-05.00.28:130][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TermiteEnemy" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset" SILENT=true
+[2023.02.05-05.00.28:145][287]LogSavePackage: Moving output files for package: /Game/Blueprints/TermiteEnemy
+[2023.02.05-05.00.28:145][287]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/TermiteEnemy72D06BCB48D5D1084FE2569EA43C5143.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset'
+[2023.02.05-05.00.28:158][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 33.4 sec)
+[2023.02.05-05.00.28:167][287]AssetCheck: New page: Asset Save: TermiteEnemy
+[2023.02.05-05.00.28:168][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-05.00.32:132][519]LogDerivedDataCache: C:/Users/skeel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.180 and deleted 0 files with total size 0 MiB. Scanned 2694 files in 2673 folders with total size 96 MiB.
+[2023.02.05-05.00.39:701][967]BlueprintLog: New page: Compile TermiteEnemy
+[2023.02.05-05.00.39:970][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.05-05.00.41:891][ 61]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.00.41:891][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.00.43:360][126]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.05-05.00.43:360][126]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.00.43:360][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.00.50:034][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-05.00.50:141][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BeetleEnemy" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/BeetleEnemy.uasset" SILENT=true
+[2023.02.05-05.00.50:157][511]LogSavePackage: Moving output files for package: /Game/Blueprints/BeetleEnemy
+[2023.02.05-05.00.50:158][511]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/BeetleEnemy40532F50482E89CE5AA6C3B4EEB87048.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/BeetleEnemy.uasset'
+[2023.02.05-05.00.50:169][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 33.6 sec)
+[2023.02.05-05.00.50:177][511]AssetCheck: New page: Asset Save: BeetleEnemy
+[2023.02.05-05.00.50:177][511]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BeetleEnemy.BeetleEnemy
+[2023.02.05-05.00.51:681][601]BlueprintLog: New page: Compile BeetleEnemy
+[2023.02.05-05.00.51:805][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.02.05-05.00.54:242][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-05.00.54:249][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-05.00.54:249][739]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 1:00:54 PM)
+[2023.02.05-05.00.54:249][739]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.00.54:253][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003920s)
+[2023.02.05-05.00.54:253][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003956s)
+[2023.02.05-05.00.54:253][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-05.00.54:253][739]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.05-05.00.54:254][739]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2023.02.05-05.00.54:314][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.05-05.00.54:316][739]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.02.05-05.00.54:316][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-05.00.54:316][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-05.00.54:317][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-05.00.54:317][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-05.00.54:317][739]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.05-05.00.54:317][739]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-05.00.54:317][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.05-05.00.54:317][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-05.00.54:317][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-05.00.54:317][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-05.00.54:317][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-05.00.54:319][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-05.00.54:373][739]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.05-05.00.54:374][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-05.00.54:374][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-05.00.54:374][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-05.00.54:374][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.02.05-05.00.54:374][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.02.05-05.00.54:376][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.02.05-05.00.54:376][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.02.05-05.00.54:376][739]LogInit: FAudioDevice initialized.
+[2023.02.05-05.00.54:376][739]LogAudio: Display: Audio Device (ID: 36) registered with world 'SamTestScene'.
+[2023.02.05-05.00.54:379][739]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.05-05.00.54:380][739]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-21.00.54
+[2023.02.05-05.00.54:381][739]LogWorld: Bringing up level for play took: 0.001903
+[2023.02.05-05.00.54:383][739]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.02.05-05.00.54:387][739]PIE: Server logged in
+[2023.02.05-05.00.54:387][739]PIE: Play in editor total start time 0.139 seconds.
+[2023.02.05-05.01.06:937][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.01.06:937][403]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.01.06:937][403]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.01.06:938][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.01.06:972][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-05.01.06:979][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.01.07:042][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-05.01.07:042][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.02.05-05.01.07:044][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.02.05-05.01.07:076][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.01.07:085][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.02.05-05.01.07:187][404]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.02.05-05.03.02:271][290]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.03.02:271][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.03.03:412][351]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.03.03:412][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.03.05:036][419]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.03.05:036][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.03.05:754][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.05-05.03.05:754][446]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.03.05:754][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.03.39:212][373]BlueprintLog: New page: Compile BP_Bullet
+[2023.02.05-05.03.39:791][373]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2023.02.05-05.03.41:489][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-05.03.41:495][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-05.03.41:495][466]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 1:03:41 PM)
+[2023.02.05-05.03.41:496][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.03.41:499][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003710s)
+[2023.02.05-05.03.41:499][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003751s)
+[2023.02.05-05.03.41:499][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-05.03.41:500][466]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.05-05.03.41:500][466]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2023.02.05-05.03.41:554][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.05-05.03.41:557][466]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-05.03.41:557][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.05-05.03.41:557][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-05.03.41:557][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-05.03.41:557][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-05.03.41:557][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-05.03.41:559][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-05.03.41:611][466]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.05-05.03.41:612][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-05.03.41:612][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-05.03.41:612][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-05.03.41:613][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.02.05-05.03.41:613][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.02.05-05.03.41:615][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.02.05-05.03.41:615][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.02.05-05.03.41:615][466]LogInit: FAudioDevice initialized.
+[2023.02.05-05.03.41:615][466]LogAudio: Display: Audio Device (ID: 37) registered with world 'SamTestScene'.
+[2023.02.05-05.03.41:618][466]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.05-05.03.41:619][466]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-21.03.41
+[2023.02.05-05.03.41:620][466]LogWorld: Bringing up level for play took: 0.001768
+[2023.02.05-05.03.41:622][466]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2023.02.05-05.03.41:626][466]PIE: Server logged in
+[2023.02.05-05.03.41:626][466]PIE: Play in editor total start time 0.131 seconds.
+[2023.02.05-05.03.43:397][557]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-57.13 Y=-95.70 Z=0.00 Location: X=232.46 Y=1761.84 Z=88.17 Normal: X=0.19 Y=0.98 Z=0.00 PenetrationDepth:1.919 Actor:BP_Bullet_C_58 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.03.45:938][706]LogCharacterMovement: BeetleEnemy_C_3 is stuck and failed to move! Velocity: X=288.13 Y=85.52 Z=0.00 Location: X=149.13 Y=1655.35 Z=89.65 Normal: X=-0.29 Y=0.96 Z=0.00 PenetrationDepth:11.502 Actor:BP_Bullet_C_709 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.03.51:608][ 37]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=320.94 Y=194.80 Z=0.00 Location: X=259.47 Y=1779.21 Z=89.65 Normal: X=0.99 Y=-0.11 Z=-0.00 PenetrationDepth:14.568 Actor:BP_Bullet_C_2042 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.03.51:609][ 37]LogCharacterMovement: BeetleEnemy_C_3 is stuck and failed to move! Velocity: X=142.93 Y=157.12 Z=0.00 Location: X=207.88 Y=1685.81 Z=89.65 Normal: X=0.69 Y=-0.73 Z=-0.00 PenetrationDepth:10.194 Actor:BP_Bullet_C_2039 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.03.51:781][ 47]LogCharacterMovement: TermiteEnemy_C_1 is stuck and failed to move! Velocity: X=180.40 Y=95.27 Z=0.00 Location: X=189.28 Y=1753.80 Z=89.34 Normal: X=-0.64 Y=-0.60 Z=-0.49 PenetrationDepth:1.658 Actor:BP_Bullet_C_2069 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.03.52:614][ 96]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=505.87 Y=483.84 Z=0.00 Location: X=700.67 Y=2127.46 Z=89.65 Normal: X=-0.44 Y=-0.90 Z=0.00 PenetrationDepth:30.228 Actor:BP_Bullet_C_2283 Component:Sphere BoneName:None (4 other events since notify)
+[2023.02.05-05.03.53:641][156]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=341.82 Y=610.87 Z=0.00 Location: X=964.15 Y=2549.97 Z=89.65 Normal: X=1.00 Y=0.07 Z=0.00 PenetrationDepth:2.942 Actor:BP_Bullet_C_2555 Component:Sphere BoneName:None (4 other events since notify)
+[2023.02.05-05.03.55:737][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.03.55:737][276]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.03.55:740][276]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.03.55:743][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.03.55:751][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-05.03.55:760][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.03.55:822][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-05.03.55:823][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.02.05-05.03.55:824][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.02.05-05.03.55:866][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.03.55:896][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.05-05.03.56:004][277]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.02.05-05.04.37:754][643]LogContentBrowser: Deferred new asset file creation: BeetleEnemy_Child
+[2023.02.05-05.04.37:768][643]LogContentBrowser: Creating deferred item: BeetleEnemy_Child
+[2023.02.05-05.04.37:778][644]LogContentBrowser: Renaming the item being created (Deferred Item: BeetleEnemy_Child).
+[2023.02.05-05.04.43:992][ 17]LogContentBrowser: Attempting asset rename: BeetleEnemy_Child -> BeetleEnemy_Child
+[2023.02.05-05.04.43:992][ 17]LogContentBrowser: End creating deferred item BeetleEnemy_Child
+[2023.02.05-05.04.47:606][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.05-05.04.55:847][200]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.05-05.04.56:136][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.05-05.04.56:136][200]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.04.56:136][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.04.56:282][200]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.05-05.04.56:282][200]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.04.56:282][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.04.56:359][200]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/TermiteEnemy.TermiteEnemy
+	Asset Type: Blueprint
+[2023.02.05-05.04.59:537][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.05-05.05.00:186][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2023.02.05-05.05.00:264][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.05-05.05.00:304][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.05-05.05.02:878][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-05.05.02:979][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-05.05.03:021][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.05-05.05.03:031][342]LogSavePackage: Moving output files for package: /Game/SamTestScene
+[2023.02.05-05.05.03:032][342]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene3A7B06E64C0D99FF8EDC85BA00728FDA.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap'
+[2023.02.05-05.05.03:039][342]LogFileHelpers: Saving map 'SamTestScene' took 0.060
+[2023.02.05-05.05.03:049][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 33.7 sec)
+[2023.02.05-05.05.03:056][342]AssetCheck: New page: Asset Save: SamTestScene
+[2023.02.05-05.05.03:056][342]LogContentValidation: Display: Validating /Script/Engine.World /Game/SamTestScene.SamTestScene
+[2023.02.05-05.05.05:374][469]LogContentBrowser: Deferred new asset file creation: BeetleEnemy_Child
+[2023.02.05-05.05.05:411][469]LogContentBrowser: Creating deferred item: BeetleEnemy_Child
+[2023.02.05-05.05.05:421][470]LogContentBrowser: Renaming the item being created (Deferred Item: BeetleEnemy_Child).
+[2023.02.05-05.05.09:648][724]LogContentBrowser: Attempting asset rename: BeetleEnemy_Child -> TermiteEnemy
+[2023.02.05-05.05.09:968][724]LogContentBrowser: End creating deferred item BeetleEnemy_Child
+[2023.02.05-05.05.18:006][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-05.05.18:007][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-05.05.18:783][162]LogViewport: Scene viewport resized to 1268x641, mode Windowed.
+[2023.02.05-05.05.49:744][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-05.05.49:867][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TermiteEnemy" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset" SILENT=true
+[2023.02.05-05.05.50:180][970]LogSavePackage: Moving output files for package: /Game/Blueprints/TermiteEnemy
+[2023.02.05-05.05.50:180][970]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/TermiteEnemyEAAEF33B4C828F42EF47F99596B6C522.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Blueprints/TermiteEnemy.uasset'
+[2023.02.05-05.05.50:195][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 450 ms (total: 34.2 sec)
+[2023.02.05-05.05.50:202][970]AssetCheck: New page: Asset Save: TermiteEnemy
+[2023.02.05-05.05.50:202][970]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy
+[2023.02.05-05.05.50:992][ 16]BlueprintLog: New page: Compile TermiteEnemy
+[2023.02.05-05.05.51:180][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.05-05.06.21:500][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-05.06.21:500][781]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-05.06.21:503][781]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_0
+[2023.02.05-05.06.21:504][781]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_0
+[2023.02.05-05.06.22:145][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-05.06.22:145][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TermiteEnemy.TermiteEnemy_C
+[2023.02.05-05.06.22:149][818]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_1
+[2023.02.05-05.06.22:150][818]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TermiteEnemy.TermiteEnemy as actor: TermiteEnemy_C /Game/SamTestScene.SamTestScene:PersistentLevel.TermiteEnemy_C_1
+[2023.02.05-05.06.26:165][ 51]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-05.06.26:178][ 51]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.05-05.06.26:180][ 51]LogPlayLevel: [PlayLevel] Compiling BP_Bullet before play...
+[2023.02.05-05.06.26:252][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.05-05.06.26:256][ 51]LogPlayLevel: PlayLevel: Blueprint regeneration took 77 ms (1 blueprints)
+[2023.02.05-05.06.26:256][ 51]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 1:06:26 PM)
+[2023.02.05-05.06.26:256][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.06.26:259][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003169s)
+[2023.02.05-05.06.26:259][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003198s)
+[2023.02.05-05.06.26:259][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-05.06.26:260][ 51]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.05-05.06.26:260][ 51]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.02.05-05.06.26:307][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.05-05.06.26:309][ 51]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-05.06.26:309][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.05-05.06.26:309][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-05.06.26:309][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-05.06.26:310][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-05.06.26:310][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-05.06.26:311][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-05.06.26:367][ 51]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.05-05.06.26:367][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-05.06.26:367][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-05.06.26:367][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-05.06.26:368][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.02.05-05.06.26:368][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.02.05-05.06.26:370][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.02.05-05.06.26:370][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.02.05-05.06.26:370][ 51]LogInit: FAudioDevice initialized.
+[2023.02.05-05.06.26:370][ 51]LogAudio: Display: Audio Device (ID: 38) registered with world 'SamTestScene'.
+[2023.02.05-05.06.26:373][ 51]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.05-05.06.26:375][ 51]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-21.06.26
+[2023.02.05-05.06.26:375][ 51]LogWorld: Bringing up level for play took: 0.001847
+[2023.02.05-05.06.26:377][ 51]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.02.05-05.06.26:381][ 51]PIE: Server logged in
+[2023.02.05-05.06.26:381][ 51]PIE: Play in editor total start time 0.21 seconds.
+[2023.02.05-05.06.30:672][221]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=173.33 Y=164.46 Z=0.00 Location: X=1521.14 Y=2931.01 Z=89.65 Normal: X=0.89 Y=-0.45 Z=-0.00 PenetrationDepth:8.304 Actor:BP_Bullet_C_77 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.06.35:267][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.06.35:267][488]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.06.35:269][488]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.06.35:271][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.06.35:285][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-05.06.35:293][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.06.35:341][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.06.35:345][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.02.05-05.06.35:347][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.02.05-05.06.35:399][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.02.05-05.06.35:502][489]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.02.05-05.06.36:596][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bullet.BP_Bullet
+[2023.02.05-05.06.36:596][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-05.06.51:210][369]BlueprintLog: New page: Compile BP_Bullet
+[2023.02.05-05.06.51:290][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.05-05.06.52:618][439]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-05.06.52:624][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-05.06.52:624][439]PIE: New page: PIE session: SamTestScene (Feb 4, 2023, 1:06:52 PM)
+[2023.02.05-05.06.52:625][439]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.06.52:628][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003571s)
+[2023.02.05-05.06.52:628][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SamTestScene.SamTestScene to /Game/UEDPIE_0_SamTestScene.SamTestScene (0.003625s)
+[2023.02.05-05.06.52:628][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-05.06.52:629][439]LogAIModule: Creating AISystem for world SamTestScene
+[2023.02.05-05.06.52:629][439]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2023.02.05-05.06.52:683][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.05-05.06.52:686][439]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-05.06.52:686][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.05-05.06.52:686][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-05.06.52:686][439]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-05.06.52:686][439]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-05.06.52:686][439]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-05.06.52:688][439]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-05.06.52:745][439]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2023.02.05-05.06.52:745][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-05.06.52:745][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-05.06.52:745][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-05.06.52:746][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.02.05-05.06.52:746][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.02.05-05.06.52:747][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.02.05-05.06.52:747][439]LogInit: FAudioDevice initialized.
+[2023.02.05-05.06.52:747][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.02.05-05.06.52:747][439]LogAudio: Display: Audio Device (ID: 39) registered with world 'SamTestScene'.
+[2023.02.05-05.06.52:750][439]LogLoad: Game class is 'GnomeGuardian_C'
+[2023.02.05-05.06.52:751][439]LogWorld: Bringing World /Game/UEDPIE_0_SamTestScene.SamTestScene up for play (max tick rate 60) at 2023.02.04-21.06.52
+[2023.02.05-05.06.52:752][439]LogWorld: Bringing up level for play took: 0.001784
+[2023.02.05-05.06.52:754][439]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.02.05-05.06.52:757][439]PIE: Server logged in
+[2023.02.05-05.06.52:757][439]PIE: Play in editor total start time 0.134 seconds.
+[2023.02.05-05.06.54:365][518]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-307.29 Y=-356.42 Z=0.00 Location: X=1586.40 Y=2956.69 Z=87.90 Normal: X=0.09 Y=0.56 Z=-0.83 PenetrationDepth:2.625 Actor:BP_Bullet_C_248 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.06.55:458][582]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-475.73 Y=-513.50 Z=0.00 Location: X=1117.22 Y=2442.48 Z=89.65 Normal: X=0.99 Y=-0.16 Z=0.00 PenetrationDepth:10.621 Actor:BP_Bullet_C_495 Component:Sphere BoneName:None (4 other events since notify)
+[2023.02.05-05.06.58:858][784]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=205.80 Y=272.31 Z=0.00 Location: X=182.84 Y=1395.05 Z=89.65 Normal: X=-0.98 Y=0.11 Z=-0.16 PenetrationDepth:6.189 Actor:BP_Bullet_C_792 Component:Sphere BoneName:None (0 other events since notify)
+[2023.02.05-05.07.00:006][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.07.00:006][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SamTestScene
+[2023.02.05-05.07.00:008][851]LogWorld: UWorld::CleanupWorld for SamTestScene, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-05.07.00:010][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.07.00:021][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-05.07.00:030][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-05.07.00:090][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-05.07.00:090][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.02.05-05.07.00:091][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.02.05-05.07.00:124][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-05.07.00:133][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.05-05.07.00:247][852]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.02.05-05.07.00:502][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-05.07.00:591][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SamTestScene" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-05.07.00:646][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.05-05.07.00:656][866]LogSavePackage: Moving output files for package: /Game/SamTestScene
+[2023.02.05-05.07.00:657][866]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/SamTestScene078247E947C996A31F4D8DB83B0B8018.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/SamTestScene.umap'
+[2023.02.05-05.07.00:665][866]LogFileHelpers: Saving map 'SamTestScene' took 0.074
+[2023.02.05-05.07.00:677][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 34.4 sec)
+[2023.02.05-05.07.00:685][866]AssetCheck: New page: Asset Save: SamTestScene
+[2023.02.05-05.07.00:685][866]LogContentValidation: Display: Validating /Script/Engine.World /Game/SamTestScene.SamTestScene
