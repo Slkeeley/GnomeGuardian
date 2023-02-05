@@ -1851,3 +1851,11 @@ Script Stack (0 frames) :
 [2023.02.05-07.32.47:278][952]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight2': Blueprint_WallSconce_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_WallSconce_C_0
 [2023.02.05-07.32.47:278][952]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lamp_Ceiling': Blueprint_CeilingLight_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_CeilingLight_C_1
 [2023.02.05-07.32.47:278][952]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lamp_Wall': Blueprint_WallSconce_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_WallSconce_C_0
+[2023.02.05-07.35.31:363][964]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.05-07.35.32:200][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.05-07.35.40:339][964]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.05-07.35.48:821][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.02.05-07.35.48:859][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.02.05-07.35.48:882][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.02.05-07.35.49:092][964]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.02.05-07.35.49:107][964]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
