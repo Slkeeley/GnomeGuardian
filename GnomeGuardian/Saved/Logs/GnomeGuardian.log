@@ -32040,3 +32040,335 @@ Would you like to regenerate the Skeleton from this mesh?
 [2023.02.05-22.11.23:867][398]LogFileHelpers: Loading map 'MainLevel' took 0.195
 [2023.02.05-22.11.23:872][398]AssetCheck: New page: Asset Save: MainLevel
 [2023.02.05-22.11.23:872][398]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.12.00:478][ 21]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.12.00:478][ 21]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.12.00:479][ 21]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_0
+[2023.02.05-22.12.00:480][ 21]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_0
+[2023.02.05-22.12.00:778][ 38]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.12.00:778][ 38]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.12.00:779][ 38]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_1
+[2023.02.05-22.12.00:780][ 38]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_1
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: ================================================
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Total job queries 352, among them cache hits 123 (34.94%)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Tracking 197 distinct input hashes that result in 123 distinct outputs (62.44%)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: RAM used: 1.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.18%
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Shaders Compiled: 48
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100.00%)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Average time worker was idle: 767.24 s
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.48 s
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 6.47 s
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Job life time (pending + execution): average 1.72 s, max 6.48
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.47 s
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Average processing rate: 2.47 jobs/sec
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Total thread time: 46.83 s
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Total thread preprocess time: 3.09 s
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Percentage time preprocessing: 6.59%
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.77% of total time (compiled    8 times, average 1.22 sec, max 1.38 sec, min 1.16 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.91% of total time (compiled    8 times, average 1.11 sec, max 1.25 sec, min 1.03 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.24% of total time (compiled    8 times, average 1.01 sec, max 1.14 sec, min 0.95 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.72% of total time (compiled    8 times, average 0.69 sec, max 0.86 sec, min 0.61 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.98% of total time (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2023.02.05-22.12.16:192][896]LogShaderCompilers: Display: ================================================
+[2023.02.05-22.12.25:084][393]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.05-22.12.35:148][966]LogMaterial: Display: Material /Game/Materials/MushTurret.MushTurret needed to have new flag set bUsedWithSkeletalMesh !
+[2023.02.05-22.13.19:896][380]Cmd: DELETE
+[2023.02.05-22.13.19:896][380]Cmd: ACTOR DELETE
+[2023.02.05-22.13.19:900][380]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.02.05-22.13.19:994][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.02.05-22.13.20:005][380]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2023.02.05-22.13.23:911][586]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.13.24:391][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-22.13.27:457][586]LogSlate: Window 'Message' being destroyed
+[2023.02.05-22.13.27:466][586]Message dialog closed, result: Yes, title: Message, text: The preview mesh hierarchy doesn't match with Skeleton anymore. Would you like to regenerate skeleton?
+[2023.02.05-22.13.27:899][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.05-22.13.29:693][586]LogViewport: Scene viewport resized to 748x466, mode Windowed.
+[2023.02.05-22.13.32:850][701]LogSlate: Window 'MushroomBlaster_low' being destroyed
+[2023.02.05-22.13.32:859][701]LogSlate: Window 'MushroomBlaster_low' being destroyed
+[2023.02.05-22.13.32:918][701]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-22.13.32:918][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-22.13.44:852][331]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.13.44:852][331]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.13.44:852][331]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_2
+[2023.02.05-22.13.44:854][331]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_2
+[2023.02.05-22.13.45:615][376]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.13.45:615][376]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low
+[2023.02.05-22.13.45:616][376]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_3
+[2023.02.05-22.13.45:616][376]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/MushroomBlaster_low.MushroomBlaster_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_3
+[2023.02.05-22.13.54:078][790]LogSlate: Window 'Hierarchical LOD Outliner' being destroyed
+[2023.02.05-22.13.54:099][790]LogSlate: Window 'Hierarchical LOD Outliner' being destroyed
+[2023.02.05-22.14.40:948][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.05-22.14.52:831][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.14.52:920][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.14.53:071][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.05-22.14.53:091][139]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.14.53:092][139]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevel1D2725044E3DC506334D2E8FDB52D3A5.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.14.53:101][139]LogFileHelpers: Saving map 'MainLevel' took 0.182
+[2023.02.05-22.14.53:112][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 47.8 sec)
+[2023.02.05-22.14.53:121][139]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.14.53:121][139]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.15.00:496][548]Cmd: DUPLICATE
+[2023.02.05-22.15.00:496][548]Cmd: ACTOR DUPLICATE
+[2023.02.05-22.15.01:419][593]Cmd: DUPLICATE
+[2023.02.05-22.15.01:419][593]Cmd: ACTOR DUPLICATE
+[2023.02.05-22.15.01:785][612]Cmd: DUPLICATE
+[2023.02.05-22.15.01:785][612]Cmd: ACTOR DUPLICATE
+[2023.02.05-22.15.14:177][297]Cmd: DELETE
+[2023.02.05-22.15.14:178][297]Cmd: ACTOR DELETE
+[2023.02.05-22.15.14:179][297]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.02.05-22.15.14:350][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.05-22.15.14:368][297]LogEditorActor: Deleted 1 Actors (0.190 secs)
+[2023.02.05-22.15.14:809][322]Cmd: DELETE
+[2023.02.05-22.15.14:809][322]Cmd: ACTOR DELETE
+[2023.02.05-22.15.14:810][322]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.02.05-22.15.14:839][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.05-22.15.14:844][322]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.02.05-22.15.17:921][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.15.18:002][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.15.18:027][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.02.05-22.15.18:036][506]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.15.18:036][506]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevelA8B39EF54FBA4AA5AA7CAE963F6450D6.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.15.18:045][506]LogFileHelpers: Saving map 'MainLevel' took 0.044
+[2023.02.05-22.15.18:054][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 47.9 sec)
+[2023.02.05-22.15.18:061][506]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.15.18:061][506]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.15.22:873][768]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low
+[2023.02.05-22.15.22:873][768]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low
+[2023.02.05-22.15.22:874][768]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_7
+[2023.02.05-22.15.22:877][768]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_7
+[2023.02.05-22.15.23:216][786]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low
+[2023.02.05-22.15.23:216][786]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low
+[2023.02.05-22.15.23:217][786]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_8
+[2023.02.05-22.15.23:220][786]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Environments/Gnome_Home_low.Gnome_Home_low as actor: SkeletalMeshActor /Game/MainLevel.MainLevel:PersistentLevel.SkeletalMeshActor_8
+[2023.02.05-22.15.37:433][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.15.37:510][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.15.37:537][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.05-22.15.37:548][592]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.15.37:548][592]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevel268D5C164629A3524BE8BA9B77688686.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.15.37:557][592]LogFileHelpers: Saving map 'MainLevel' took 0.047
+[2023.02.05-22.15.37:567][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 48.0 sec)
+[2023.02.05-22.15.37:573][592]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.15.37:573][592]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.15.51:249][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.15.51:329][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.15.51:356][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.05-22.15.51:366][362]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.15.51:366][362]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevelF4B467F749DFE082CACDB0870D72B81E.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.15.51:374][362]LogFileHelpers: Saving map 'MainLevel' took 0.046
+[2023.02.05-22.15.51:384][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 48.2 sec)
+[2023.02.05-22.15.51:390][362]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.15.51:391][362]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.15.59:694][790]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.05-22.15.59:702][790]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.05-22.15.59:715][791]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.02.05-22.16.03:335][  5]LogContentBrowser: Attempting asset rename: NewMaterial -> GnomeHouse
+[2023.02.05-22.16.03:336][  5]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.05-22.16.26:433][341]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/SourceImages/Gnome_Home_low_lambert1_OcclusionRoughnessMetallic.Gnome_Home_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-22.16.26:546][341]LogViewport: Scene viewport resized to 931x508, mode Windowed.
+[2023.02.05-22.16.29:752][513]LogTexture: Display: Building textures: /Game/Materials/SourceImages/Gnome_Home_low_lambert1_OcclusionRoughnessMetallic.Gnome_Home_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.02.05-22.17.57:311][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.17.57:548][192]LogSavePackage: Moving output files for package: /Game/Materials/SourceImages/Gnome_Home_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-22.17.57:548][192]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/Gnome_Home_low_lambert1_Occlusio035863F54EE9D6C429BC06A7B087010A.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/SourceImages/Gnome_Home_low_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.02.05-22.17.57:561][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 48.4 sec)
+[2023.02.05-22.17.57:568][192]AssetCheck: New page: Asset Save: Gnome_Home_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-22.17.57:568][192]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/SourceImages/Gnome_Home_low_lambert1_OcclusionRoughnessMetallic.Gnome_Home_low_lambert1_OcclusionRoughnessMetallic
+[2023.02.05-22.17.58:412][239]LogSlate: Window 'Gnome_Home_low_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2023.02.05-22.17.58:429][239]LogSlate: Window 'Gnome_Home_low_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2023.02.05-22.18.00:830][364]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/GnomeHouse.GnomeHouse
+[2023.02.05-22.18.00:834][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-22.18.01:087][364]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.01:087][364]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-22.18.01:087][364]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.01:097][364]LogViewport: Scene viewport resized to 245x255, mode Windowed.
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: ================================================
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Total job queries 416, among them cache hits 155 (37.26%)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Tracking 226 distinct input hashes that result in 135 distinct outputs (59.73%)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: RAM used: 1.67 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Shaders Compiled: 65
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Jobs assigned 68, completed 65 (95.59%)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Average time worker was idle: 610.91 s
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 2.47 s
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Job execution time: average 2.07 s, max 6.47 s
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Job life time (pending + execution): average 2.24 s, max 6.48
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.07 s
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 1.10 jobs/batch
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Average processing rate: 2.59 jobs/sec
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Total thread time: 75.26 s
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Total thread preprocess time: 4.81 s
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Percentage time preprocessing: 6.39%
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Effective parallelization: 3.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.78 sec, max 2.16 sec, min 1.40 sec)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.72 sec, max 2.09 sec, min 1.34 sec)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.68 sec, max 2.04 sec, min 1.32 sec)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 1.62 sec, max 1.95 sec, min 1.30 sec)
+[2023.02.05-22.18.02:316][398]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.52 sec, max 1.72 sec, min 1.32 sec)
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.52% of total time (compiled    9 times, average 1.30 sec, max 1.96 sec, min 1.16 sec)
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.15% of total time (compiled    9 times, average 1.18 sec, max 1.79 sec, min 1.03 sec)
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.84% of total time (compiled    9 times, average 1.07 sec, max 1.59 sec, min 0.95 sec)
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.70% of total time (compiled   10 times, average 0.73 sec, max 1.10 sec, min 0.61 sec)
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.72% of total time (compiled    2 times, average 1.78 sec, max 2.16 sec, min 1.40 sec)
+[2023.02.05-22.18.02:317][398]LogShaderCompilers: Display: ================================================
+[2023.02.05-22.18.02:741][412]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.05-22.18.02:741][412]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.02:741][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-22.18.02:741][412]MaterialEditorStats: Shader Count: 3
+[2023.02.05-22.18.02:830][415]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.02.05-22.18.02:830][415]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.05-22.18.02:830][415]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-22.18.02:830][415]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-22.18.02:830][415]MaterialEditorStats: Shader Count: 4
+[2023.02.05-22.18.05:219][491]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2023.02.05-22.18.05:718][511]LogSlate: Window 'GnomeHouse' being destroyed
+[2023.02.05-22.18.11:058][809]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.11:059][809]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-22.18.11:059][809]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.11:122][811]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.02.05-22.18.11:122][811]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.05-22.18.11:122][811]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-22.18.11:122][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.05-22.18.11:122][811]MaterialEditorStats: Shader Count: 4
+[2023.02.05-22.18.19:047][275]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.19:048][275]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.19:048][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.19:048][275]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.20:677][366]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.20:677][366]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.20:677][366]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.20:677][366]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.20:677][366]MaterialEditorStats: Shader Count: 3
+[2023.02.05-22.18.20:778][372]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.02.05-22.18.20:779][372]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.20:779][372]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-22.18.20:779][372]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.20:779][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.20:779][372]MaterialEditorStats: Shader Count: 4
+[2023.02.05-22.18.21:350][399]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.21:350][399]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.21:350][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.21:350][399]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.22:274][447]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.05-22.18.22:275][447]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.22:275][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.22:275][447]MaterialEditorStats: Shader Count: 1
+[2023.02.05-22.18.22:799][473]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.22:799][473]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.05-22.18.22:799][473]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.22:799][473]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.22:799][473]MaterialEditorStats: Shader Count: 3
+[2023.02.05-22.18.22:881][478]MaterialEditorStats: Base pass shader: 214 instructions
+[2023.02.05-22.18.22:882][478]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.22:882][478]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-22.18.22:882][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.22:882][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.22:882][478]MaterialEditorStats: Shader Count: 4
+[2023.02.05-22.18.23:267][496]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.23:267][496]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.23:267][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.23:267][496]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.24:142][548]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.05-22.18.24:142][548]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.24:142][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.24:142][548]MaterialEditorStats: Shader Count: 1
+[2023.02.05-22.18.24:650][577]MaterialEditorStats: Base pass shader: 215 instructions
+[2023.02.05-22.18.24:650][577]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.24:650][577]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-22.18.24:650][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-22.18.24:650][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.24:650][577]MaterialEditorStats: Shader Count: 4
+[2023.02.05-22.18.26:307][669]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.26:307][669]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-22.18.26:307][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.26:307][669]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.27:158][718]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-22.18.27:159][718]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-22.18.27:159][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.27:159][718]MaterialEditorStats: Shader Count: 1
+[2023.02.05-22.18.27:657][748]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.27:657][748]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.05-22.18.27:657][748]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-22.18.27:657][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.27:657][748]MaterialEditorStats: Shader Count: 3
+[2023.02.05-22.18.27:757][754]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.02.05-22.18.27:757][754]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.27:757][754]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.05-22.18.27:757][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.02.05-22.18.27:757][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.27:757][754]MaterialEditorStats: Shader Count: 4
+[2023.02.05-22.18.29:319][838]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-22.18.29:319][838]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-22.18.29:320][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.29:320][838]MaterialEditorStats: Shader Count: 0
+[2023.02.05-22.18.30:172][887]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-22.18.30:172][887]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-22.18.30:172][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.30:172][887]MaterialEditorStats: Shader Count: 1
+[2023.02.05-22.18.30:543][908]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.30:543][908]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-22.18.30:543][908]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-22.18.30:543][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.30:543][908]MaterialEditorStats: Shader Count: 3
+[2023.02.05-22.18.30:609][912]LogMaterialEditor: Saving and Compiling material GnomeHouse
+[2023.02.05-22.18.31:229][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.02.05-22.18.32:064][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.02.05-22.18.32:076][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.18.34:223][912]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.02.05-22.18.34:529][912]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004291s (0.310066s overbudget)
+[2023.02.05-22.18.34:549][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/GnomeHouse" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/GnomeHouse.uasset" SILENT=true
+[2023.02.05-22.18.34:551][912]LogSavePackage: Moving output files for package: /Game/Materials/GnomeHouse
+[2023.02.05-22.18.34:551][912]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/GnomeHouse460FC2F04EFF6D493290AAAE92917579.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/Materials/GnomeHouse.uasset'
+[2023.02.05-22.18.34:560][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.48 sec (total: 50.9 sec)
+[2023.02.05-22.18.34:567][912]AssetCheck: New page: Asset Save: GnomeHouse
+[2023.02.05-22.18.34:567][912]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/GnomeHouse.GnomeHouse
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: Base pass shader: 230 instructions
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: MaxSampler: 294 instructions
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-22.18.34:570][912]MaterialEditorStats: Shader Count: 16
+[2023.02.05-22.18.36:059][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.05-22.18.40:372][992]LogSlate: Window 'Save Content' being destroyed
+[2023.02.05-22.18.43:607][185]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-22.18.43:607][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-22.18.45:530][287]LogMaterial: Display: Material /Game/Materials/GnomeHouse.GnomeHouse needed to have new flag set bUsedWithSkeletalMesh !
+[2023.02.05-22.18.48:140][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.18.48:270][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.18.48:316][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.02.05-22.18.48:331][404]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.18.48:331][404]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevelE1943C0A4AFAD6674B021DAFA2E9E4C2.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.18.48:352][404]LogFileHelpers: Saving map 'MainLevel' took 0.082
+[2023.02.05-22.18.48:368][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 51.1 sec)
+[2023.02.05-22.18.48:381][404]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.18.48:381][404]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.19.03:116][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.19.03:192][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.19.03:221][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.02.05-22.19.03:231][243]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.19.03:232][243]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevel69DB75BA4D95769240CDCCA4666497FB.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.19.03:241][243]LogFileHelpers: Saving map 'MainLevel' took 0.048
+[2023.02.05-22.19.03:250][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 51.3 sec)
+[2023.02.05-22.19.03:257][243]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.19.03:257][243]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
+[2023.02.05-22.19.48:036][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.05-22.19.48:129][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-22.19.48:152][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.05-22.19.48:161][799]LogSavePackage: Moving output files for package: /Game/MainLevel
+[2023.02.05-22.19.48:161][799]LogSavePackage: Moving '../../../../Classwork/GnomeGuardian/GnomeGuardian/Saved/MainLevelD223EADD498AF26A6D8B48814FE3E6D4.tmp' to '../../../../Classwork/GnomeGuardian/GnomeGuardian/Content/MainLevel.umap'
+[2023.02.05-22.19.48:168][799]LogFileHelpers: Saving map 'MainLevel' took 0.039
+[2023.02.05-22.19.48:177][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 51.4 sec)
+[2023.02.05-22.19.48:183][799]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.05-22.19.48:183][799]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainLevel.MainLevel
